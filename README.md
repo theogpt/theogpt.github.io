@@ -1,1 +1,1 @@
-# theogpt.github.io
+- [Наука Священнодйствий](soc/science_of_sacraments.md)
