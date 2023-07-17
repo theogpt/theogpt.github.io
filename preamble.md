@@ -5,7 +5,10 @@ Use the following text as a style guide:
 Translations of some of the special terms:
 
 - Holy Eucharist = Святая Евхаристия
+- Eucharist Service = Служба Евхаристии
 - Service = Служба
+- Collect = Сбор
+- Sacrament = Священнодействие
 
 Now using the example above, translate the following text to Russian:
 
