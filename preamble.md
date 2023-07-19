@@ -9,6 +9,8 @@ Translations of some of the special terms:
 - Service = Служба
 - Collect = Сбор
 - Sacrament = Священнодействие
+- Low Celebration = Малое Празднование
+- High Celebration = Великое Празднование
 
 Now using the example above, translate the following text to Russian:
 
