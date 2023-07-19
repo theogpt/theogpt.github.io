@@ -11,6 +11,7 @@ Translations of some of the special terms:
 - Sacrament = Священнодействие
 - Low Celebration = Малое Празднование
 - High Celebration = Великое Празднование
+- Liberal Catholic Church = Либеральная Католическая Церковь
 
 Now using the example above, translate the following text to Russian:
 
