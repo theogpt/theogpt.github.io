@@ -13,5 +13,5 @@ Translations of some of the special terms:
 - High Celebration = Великое Празднование
 - Liberal Catholic Church = Либеральная Католическая Церковь
 
-Now using the example above, translate the following text to Russian:
+Now using the example above, carefully translate to Russian every paragraph below:
 
