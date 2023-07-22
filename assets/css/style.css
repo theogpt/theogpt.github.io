@@ -1,4 +1,13 @@
 body {
   text-align: justify;
-  background-color: #feb;
+  background-color: #fc8;
+}
+
+table th {
+  width: 50%;
+}
+
+table th, table td {
+  font-size: 0.9em;
+  padding: 0.5em;
 }
