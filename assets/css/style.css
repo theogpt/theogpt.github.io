@@ -3,6 +3,11 @@ body {
   background-color: #ffc;
 }
 
+table {
+  width: 50%;
+  margin-left: 25%;
+}
+
 table th {
   width: 50%;
 }
