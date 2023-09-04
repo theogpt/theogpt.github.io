@@ -31,3 +31,7 @@ img {
 a {
   word-break: break-all;
 }
+
+h1 {
+  text-align: center;
+}
