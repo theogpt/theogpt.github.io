@@ -16,16 +16,22 @@
 
 ![Завершённая Евхаристическая Форма](plate0.gif)
 
-Оглавление:
-
-- Глава I. Новая идея богослужения в церкви
-- Глава II. Святая Евхаристия
-- Глава III. Крещение и Миропомазание
-- Глава IV. Святые Посвящения
-- Глава V. Младшие Священнодействия
-- Глава VI. Здание Церкви
-- ...
-- Приложение
+- Part I
+  - Foreword _(to be translated, p. 9)_
+  - Глава I. Новая идея богослужения в церкви
+- Part II
+  - Глава II. Святая Евхаристия
+  - Глава III. Крещение и Миропомазание
+  - Глава IV. Святые Посвящения
+  - Глава V. Младшие Священнодействия
+- Part III
+  - Глава VI. Здание Церкви _(incomplete translation, p. 390)_
+  - Chapter VII. The Altar and its Appurtenances _(to be translated, p. 400)_
+  - Chapter VIII. The Vestme _(to be translated, p. 424)_
+- Part IV
+  - Chapter IX. Vespers and Benediction of the Most Holy Sacrament _(to be translated, p. 478)_
+  - Chapter X. Occasional Services _(to be translated, p. 501)_
+  - Приложение. Душа и её проводники.
 
 ## Глава I. Новая идея богослужения в церкви
 
