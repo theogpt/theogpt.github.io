@@ -1,8 +1,10 @@
+# Наука Священнодействий
+
+<div style="font-size:0.8em">
 _Черновой перевод 08/2023, см. https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md_
 
 _Английская версия: https://archive.org/details/sciencesacramen00leadgoog_
-
-# Наука Священнодействий
+</div>
 
 Чарльз У. Ледбитер
 
