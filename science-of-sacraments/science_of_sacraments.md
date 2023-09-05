@@ -8,7 +8,7 @@
 
 ![Завершённая Евхаристическая Форма](plate0.gif)
 
-_Черновой перевод 08/2023, см. [https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/soc/science_of_sacraments.md](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/soc/science_of_sacraments.md)_
+_Черновой перевод 08/2023, см. [https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/soc/science_of_sacraments.md](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_
 
 Оглавление:
 
