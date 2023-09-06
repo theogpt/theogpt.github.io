@@ -3,8 +3,8 @@
 <div style="font-size:0.8em">
 Черновой перевод 09/2023
 <ul>
-<li>Версия для редактирования: https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md
-<li>Английская версия: https://archive.org/details/sciencesacramen00leadgoog
+<li>Версия для редактирования: https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md</li>
+<li>Английская версия: https://archive.org/details/sciencesacramen00leadgoog</li>
 </ul>
 </div>
 
