@@ -13,8 +13,9 @@ if not openai.api_key:
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', "--input", required=True, help='The input text file with non translated text')
 parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
-parser.add_argument('-c', "--context", required=True, help='The context file with translation instructions')
+parser.add_argument('-c', "--context", required=False, help='The context file with translation instructions')
 parser.add_argument('-q', "--quality", type=int, default=1, help='The quality of translation')
+parser.add_argument('-v', "--verbose", default=False)
 args = parser.parse_args()
 
 def is_translated(text):
@@ -27,11 +28,15 @@ def is_translated(text):
 
 def save_output(paragraphs):
   print("Saving the output")
-  input_text = "\n\n".join(paragraphs)
+  cleaned = filter(lambda s: bool(s), map(lambda s: s.strip(), paragraphs))
+  input_text = "\n\n".join(cleaned)
   with open(args.output, 'w') as f:
       f.write(input_text)
 
-with open(args.context, 'r') as f:
+if not os.path.isfile(args.context or ''):
+  gpt_context = "You are a translator from English to Russian."
+else:
+  with open(args.context, 'r') as f:
     gpt_context = f.read()
 
 # len(system + user + output) <= 8192
@@ -47,13 +52,13 @@ max_input_chars = min(4096, max_input_chars) # just in case
 max_translations = 500
 num_translations = 0
 
-def translate(text):
+def translate(text, draft=''):
   global num_translations
   num_translations += 1
   if num_translations > max_translations:
     sys.exit('Reached the translations limit: ' + str(max_translations))
 
-  print('Waiting for a GPT response...')
+  print('Waiting for GPT response...')
   response = openai.ChatCompletion.create(
     model="gpt-4-0613",
     messages=[
@@ -64,10 +69,14 @@ def translate(text):
       {
         "role": "user",
         "content": text
+      },
+      {
+        "role": "user",
+        "content": draft
       }
     ],
     temperature=1.00,
-    max_tokens=max_output_tokens, # output
+    max_tokens=max_output_tokens,
     top_p=1,
     frequency_penalty=0,
     presence_penalty=0
@@ -79,7 +88,7 @@ def translate2(text, iterations):
     print('Translating with', iterations, 'iterations')
   resp = translate(text)
   for i in range(1, iterations):
-    resp = translate(text + '\n+++++\n' + resp)
+    resp = translate(text, resp)
   return resp
 
 if os.path.isfile(args.output):
@@ -114,11 +123,13 @@ while idx < len(paragraphs):
     num += 1
 
   text = "\n\n".join(paragraphs[idx:idx+num])
-  print(str(idx) + '..' + str(idx+num-1) + '/' + str(len(paragraphs)), 'en>')
-  print(text)
+  print(str(idx) + '..' + str(idx+num-1) + '/' + str(len(paragraphs)))
+  if args.verbose:
+    print('en> ', text)
 
   resp = translate2(text, args.quality)
-  print('ru>', resp)
+  if args.verbose:
+    print('ru>', resp)
 
   for i in range(0, num):
     paragraphs[idx + i] = ''
