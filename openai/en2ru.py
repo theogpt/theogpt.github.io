@@ -58,23 +58,16 @@ def translate(text, draft=''):
   if num_translations > max_translations:
     sys.exit('Reached the translations limit: ' + str(max_translations))
 
+  messages=[
+    { "role": "system", "content": gpt_context },
+    { "role": "user", "content": text }]
+  if draft:
+    messages += [{ "role": "user", "content": 'Draft translation:\n' + draft }]
+
   print('Waiting for GPT response...')
   response = openai.ChatCompletion.create(
     model="gpt-4-0613",
-    messages=[
-      {
-        "role": "system",
-        "content": gpt_context
-      },
-      {
-        "role": "user",
-        "content": text
-      },
-      {
-        "role": "user",
-        "content": draft
-      }
-    ],
+    messages=messages,
     temperature=1.00,
     max_tokens=max_output_tokens,
     top_p=1,
