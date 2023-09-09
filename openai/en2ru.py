@@ -19,7 +19,7 @@ parser.add_argument('-v', "--verbose", default=False)
 args = parser.parse_args()
 
 def is_translated(text):
-  if len(text) < 10:
+  if len(text) < 5:
     return True
   if re.match(r'^!\[\]|^#|^\<|^_|^\d+$|^\s*$', text):
     return True
@@ -47,7 +47,7 @@ max_output_tokens = 4096
 max_output_chars = int(max_output_tokens / 0.50) # estimate
 max_input_tokens = int(8192 - max_output_tokens - len(gpt_context)*0.25)
 max_input_chars = int(max_input_tokens / 0.25) # estimate
-max_input_chars = min(4096, max_input_chars) # just in case
+max_input_chars = min(2500, max_input_chars) # just in case
 
 max_translations = 500
 num_translations = 0
