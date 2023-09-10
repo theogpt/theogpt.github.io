@@ -28,6 +28,10 @@ img {
   max-width: 100%;
 }
 
+img[alt="footnote"] {
+  text-align: center;
+}
+
 a {
   word-break: break-all;
 }
