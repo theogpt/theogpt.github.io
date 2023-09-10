@@ -29,7 +29,8 @@ img {
 }
 
 img[alt="footnote"] {
-  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 a {
