@@ -1,99 +1,35 @@
-Glimpses of Masonic History 
-BY 
-C. W. Leadbeater
-Theosophical Publishing House, Adyar
-1926
-CONTENTS
+# Отрывки из Истории Масонства
 
-PREFACE TO THIS EDITION
+_Ч. У. Ледбитер_
 
-AUTHOR’S PREFACE 
+_Теософическое издательство, Адьяр_
 
-CHAPTER I
+_1926_
 
-SCHOOLS OF MASONIC THOUGHT
+_**Черновой перевод 09/2023**_
 
-The Origins of Masonry. The Authentic School. The Anthropological School. The Mystical School. The Occult  School. The Knowledge of the Occultist. The Occult  Records. The Sacramental Power. The Form and the Life.  Orthodoxy and Heresy.
+## Содержание
 
-CHAPTER II
+- Предисловие к этому изданию
+- Предисловие автора
+- Глава I. Школы масонской мысли. Истоки масонства. Авторитетная школа. Антропологическая школа. Мистическая школа. Оккультная школа. Знания оккультиста. Оккультные записи. Священнодействие. Форма и жизнь. Православие и ересь.
+- Глава II. Египетские мистерии. Послание Учителя мира. Боги Египта. Исида и Осирис. Животные божества. Практика бальзамирования. Другие божества. Братья Хоруса. Обряд посвящения. Цели мистерий. Степени мистерий. Мистерии Исиды. Первоначальные испытания. Тайный язык. Двойственность каждой степени. Внутренние мистерии Исиды. Мистерии Сераписа. Внутренняя степень Сераписа. Мистерии Осириса. Легенда об Осирисе. Смысл истории. Внутренние мистерии Осириса. Звание мастера. Высшая Черная масонерия в мистериях. Белая масонерия в мистериях. Этапы оккультного пути. Первые три инициации. Четвертая инициация. Пятая инициация и дальше.
+- Глава III. Критские мистерии. Единство мистерий. Жизнь в древнем Крите. Критский народ. Недавние открытия на Крите. Культ в Крите. Тронная зала. Три колонны. Макеты святилищ. Алтарные предметы. Разнообразные символы. Статуэтки.
+- Глава IV. Еврейские мистерии. Еврейская родословная. Еврейские миграции. Пророки. Строители К.С.Т. Перевоплощение ритуалов. Перемешивание традиций. Передача новых ритуалов. Эссеи и Христос. Каббализм. Духовная переосмысленность храма. Потеря Божественного Имени.
+- Глава V. Греческие мистерии. Элевсинские мистерии. Истоки греческих мистерий. Боги Греции. Чиновники. Младшие мистерии. Большие мистерии. Мифы больших мистерий. Магия больших мистерий. Скрытые мистерии. Школа Пифагора. Три степени. Другие греческие мистерии.
+- Глава VI. Митраические мистерии. Заратустра и митраизм. Митраизм среди римлян. Митраические ритуалы. Римские коллегии. Действия короля Нума. Коллегии и легионы. Введение еврейской формы. Переход к практикам.
+- Глава VII. Масонство ремесленников в средневековье. Эволюционные Методы. Уход Мистерий. Христианские Мистерии. Подавление Мистерий. Слияние Традиций. Два Направления Происхождения. Келды. Кельтское Христианство в Британии. Друидские Мистерии. Святой Грааль. Heredom.
+- Глава VIII. Оперативное Масонство в Средние Века. Временные Хранители. Спад Коллегий. Комацины. Ложи Комацин. Прочие Выжившие Коллегии. Компаньонаж. Каменщики из Германии. Английские Гильдии. Восхождение Готической Архитектуры. Старые Правила.
+- Глава IX. Переход от Оперативного к Спекулятивному. Реформация. Вновь Обкрытие Спекулятивного Масонства. Первые Записи. Шотландские Записи. Английские Записи. Ирландские Записи. Великая Ложа Англии. Переформулирование Обрядов. Два и Три Уровни. Сопротивление. Смена L.M.s. Великие Ложи Йорка, Ирландии и Шотландии. „Старейшины“. Святой Королевский Лук. Объединенная Великая Ложа. Мастерские Масоны в Прочих Странах.
+- Глава X. Другие Ветви Масонского Наследства. Поток Тайных Обществ. Рыцари Тамплиеры. Уничтожение Тамплиеров. Сахранение Традиции Тамплиеров. Королевский Орден Шотландии. Братство Розенкрейцеров. Литература Розенкрейцерства. Традиционная История Розенкрейцеров. История Ордена.
+- Глава XI. Шотландский Обряд. Происхождение Обряда. Якобитское Движение. Речь Рамсея. Глава Клермона. Совет Императоров. Стефан Морен. Фридрих Великий. Трансформация Чарльстона. Распространение Шотландского Обряда.
+- Глава XII. Орден Со-Масонов. Восстановление Древнего Ориентира. Продолжение СоМасонства. Ритуалы СоМасонства. Будущее Масонства.
+- Приложение I. Степени Обряда Совершенства
+- Приложение II. Ключевые Масонские События с 1717 Года
 
-THE EGYPTIAN MYSTERIES
+## Предисловие Автора
 
-The Message of the World Teacher. The Gods of Egypt. Isis and Osiris. Animal Deities. The Practice of Embalming. Other Deities. The Brothers of Horus. Consecration. The Purpose of the Mysteries. The Degrees of the Mysteries. The Mysteries of Isis. The Preliminary Trials.  The Mystery Language. The Duality of each Degree. The Inner Mysteries of Isis. The Mysteries of Serapis. The Inner Degree of Serapis. The Mysteries of Osiris. The Legend of Osiris. The Meaning of the Story. The Inner Mysteries of Osiris. The Office of Master. The Higher Black Masonry in the Mysteries. White Masonry in the Mysteries. The Stages of the Occult Path. The First Three Initiations. The Fourth Initiation. The Fifth Initiation and Beyond.
-
-CHAPTER III
-
-THE CRETAN MYSTERIES
-
-The Unity of the Mysteries. Life in Ancient Crete. The Cretan Race. Recent Discoveries in Crete. Worship in Crete. The Throne Room. The Three Columns. Models of Shrines. The
-
-Altar Objects. Various Symbols. The Statuettes.
-
-CHAPTER IV
-
-THE JEWISH MYSTERIES
-
-The Jewish Line of Descent. The Jewish Migrations. The Prophets. The Builders of K.S.T. The Recasting of the Rituals. The Mingling of Traditions. The Transmission of the New Rites. The Essenes and the Christ. Kabbalism. The Spiritualization of the Temple. The Loss of the Divine Name.
-
-CHAPTER V
-
-THE GREEK MYSTERIES
-
-The Eleusinian Mysteries. The Origin of the Greek Mysteries. The Gods of Greece. The Officials. The Lesser Mysteries. The Greater Mysteries. The Myths of the Greater Mysteries. The Magic of the Greater Mysteries. The Hidden Mysteries. The School of Pythagoras. The
-
-Three Degrees. Other Greek Mysteries.
-
-CHAPTER VI
-
-THE MITHRAIC MYSTERIES
-
-Zarathustra and Mithraism. Mithraism among the Romans. The Mithraic Rites. The Roman Collegia. The Work of King Numa. The Colleges and the Legions. The Introduction of the Jewish Form. The Transition to the Operatives.
-
-CHAPTER VII
-
-CRAFT MASONRY IN MEDIAEVAL TIMES
-
-Evolutionary Methods. The Withdrawal of the Mysteries. The Christian Mysteries. The Repression of the Mysteries. The Crossing of Traditions. The Two Lines of Descent. The Culdees. Celtic Christianity in Britain. The Druidic Mysteries. The Holy Grail. Heredom.
-
-CHAPTER VIII
-
-OPERATIVE MASONRY IN THE MIDDLE AGES
-
-The Temporary Custodians. Decline of the Collegia. The Comacini. The Comacine Lodges. Other Survivals of the Collegia. The Compagnonnage. The Stonemasons of Germany. The English Guilds. The Rise of Gothic Architecture. The Old Charges.
-
-CHAPTER IX
-
-THE TRANSITION FROM OPERATIVE TO SPECULATIVE
-
-The Reformation. The Reappearance of Speculative Masonry. The First Minutes. Scottish Minutes. English Minutes. Irish Minutes. The Grand Lodge of England. The Recomposition of the Rituals. Two and Three Degrees. Opposition. The Succession of L.M.s. The Grand Lodges of York, Ireland and Scotland. The “Ancients”. The Holy Royal Arch. The United Grand Lodge. Craft Masonry          in Other Countries
-
-CHAPTER X  
-
-OTHER LINES OF MASONIC TRADITION           
-
-The Stream of Secret Societies. The Knights Templars. The  Suppression of the Templars. The Preservation of the Templars’ Tradition. The Royal Order of Scotland. The Brothers of the Rosy Cross. The Literature of Rosicrucianism. The Traditional History of the Rosicrucians. The History of the Order.
-
-CHAPTER XI 
-
-THE SCOTTISH RITE          
-
-Origin of the Rite. The Jacobite Movement. The Oration of  Ramsay. The Chapter of Clermont. The Council of Emperors. Stephen Morin. Frederick the Great. The Charleston Transformation. The Spread of the Scottish Rite.
-
-CHAPTER XII           
-
-THE CO-MASONIC ORDER
-
-The Restoration of an Ancient Landmark. The Succession of Co-Masonry. The Co-Masonic Rituals. The Future of Masonry
-
-APPENDIX I.
-
-Degrees of the Rite of Perfection
-
-II. Principal Masonic Events from 1717
-
-AUTHOR’S PREFACE
-
-WHEN I wrote The Hidden Life in Freemasonry, it was at first my intention to devote my second chapter to a brief outline of Masonic history. I soon found that that plan was impractical. The most compressed account that would be of any use would occupy far more space than I could spare, and would entirely overweight the book with what is after all only one department of its subject. The obvious alternative is to publish the historical sketch separately; hence this book, which is really but a second volume of the other.
+Когда я сочинял «Скрытую Жизнь в Масонстве», сначала я наметил посвятить вторую главу краткому изложению истории масонства. Но скоро я осознал, что этот план неосуществим. Даже самое концентрированное изложение, которое было бы полезно, заняло бы гораздо больше места, чем я мог бы предоставить, и загрузило бы книгу темой, которая, по сути, является только одной из ее аспектов. Очевидной альтернативой стало отдельное издание исторического обзора; отсюда эту книгу, которая, фактически, лишь второй том предыдущей.
 
 The keynote of both volumes, and indeed the only reason for their publication, is to explain precisely what the title indicates - the hidden life in Freemasonry - the mighty force in the background, always at work yet always out of sight, which has guided the transmission of the Masonic tradition through all the vicissitudes of its stormy history, and still inspires the utmost enthusiasm and devotion among the Brn. of the Craft to-day.
 
@@ -679,7 +615,7 @@ Something both of the inner powers and of the Egyptian rituals had been faithful
 
 In this work he was assisted by his ally, Hiram King of Tyre, who supplied a quantity of material for the building, and lent many clever craftsmen to aid in the work; for the Phoenicians were more skilled in building than the Jews, who were chiefly a pastoral people. Also about fifty years before some of the wandering bands of Masons who called themselves the Dionysian Artificers had settled in Phoenicia, so King Hiram was able to supply many expert workmen. This alliance is a matter of secular history, for Josephus tells us that even in his day copies of the letters which passed between the two Kings existed in the Tyrian archives and might be consulted by students.* (^Josephus. Ant., viii.) Hiram Abiff was also a real personage, though he did not meet his death in the manner recorded in Masonic tradition. He was a decorator rather than the actual Architect of the Temple, as the biblical records clearly tell us. “He was filled with wisdom and understanding, and cunning to work all works in brass.”* (^I Kings, vii, 14.) He was “skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him”.* (^II Chron., ii, 14.)
 
-Josephus confirms the tradition that he was an artist and a craftsman rather than an architect: “This man was skilful in all sorts of work, but his chief skill lay in working in gold and silver and brass, and he did all the curious work about the temple as the King wished.”* (^Josephus, Ant., viii.) He was the son of a widow of Naphtali, and his father was a man of Tyre, a worker in brass before him. Since so much responsibility rested in his hands, and he was so skilful an artist, he appears to have been in the close confidence of King Solomon, and a member of his council. He was evidently treated as an equal by the two Kings, and that is one of the reasons which influenced Bro. Ward to translate Hiram Abiff as “Hiram his father”, and to represent the King of Tyre as sending his abdicated father to superintend the decoration of the temple. 
+Josephus confirms the tradition that he was an artist and a craftsman rather than an architect: “This man was skilful in all sorts of work, but his chief skill lay in working in gold and silver and brass, and he did all the curious work about the temple as the King wished.”* (^Josephus, Ant., viii.) He was the son of a widow of Naphtali, and his father was a man of Tyre, a worker in brass before him. Since so much responsibility rested in his hands, and he was so skilful an artist, he appears to have been in the close confidence of King Solomon, and a member of his council. He was evidently treated as an equal by the two Kings, and that is one of the reasons which influenced Bro. Ward to translate Hiram Abiff as “Hiram his father”, and to represent the King of Tyre as sending his abdicated father to superintend the decoration of the temple.
 
 THE RECASTING OF THE RITUALS
 
@@ -1655,7 +1591,7 @@ The scene of our story now shifts to the New World; for it was there that the ch
 
 He was unfortunately by no means an ideal Channel for spiritual force, and although he certainly transmitted to his American Brn. the Egyptian succession of powers, he was sometimes not in possession of the fullness of the power himself. At times he rose splendidly to the occasion, and showed signs of distinct advancement; I have watched him during the consecration of a Chapter of the high degrees magnificently overshadowed by the H.O.A.T.F. Himself and the great white Angels. But it cannot be denied that he had many faults, among others a passion for amorous intrigues; and not infrequently the greater part of his spiritual heritage was withdrawn, leaving him the mere seeds of the succession to transmit to others. The reports of his misdoings were so numerous and persistent that at one time the Council of Emperors actually withdrew his patent; but posts were slow in those days, and before the withdrawal reached him the Council had already cancelled it, and fully reinstated him.
 
-Stephen Morin was also unfortunate in his choice of lieutenants, for in many cases these were Jews of not very good repute; and it is through these somewhat soiled hands that we must trace the Rite of Perfection during the next forty years. The rite passed through a period of obscuration, when the degrees were shamelessly sold to any who would buy their titles, and the inner meaning of the ceremonies was almost forgotten. But although the splendid occult knowledge of the Emperors was lost and the rites became shorn of most of their power, the seeds of the succession still passed down - until a higher class of egos was guided into the rite and a new era began. The rite was established at Charleston in 1783 by Isaac da Costa, who was created Deputy-Inspecter of South Carolina by Moses Hayes. It will be seen that a succession is definitely claimed by the authorities of the rite. 
+Stephen Morin was also unfortunate in his choice of lieutenants, for in many cases these were Jews of not very good repute; and it is through these somewhat soiled hands that we must trace the Rite of Perfection during the next forty years. The rite passed through a period of obscuration, when the degrees were shamelessly sold to any who would buy their titles, and the inner meaning of the ceremonies was almost forgotten. But although the splendid occult knowledge of the Emperors was lost and the rites became shorn of most of their power, the seeds of the succession still passed down - until a higher class of egos was guided into the rite and a new era began. The rite was established at Charleston in 1783 by Isaac da Costa, who was created Deputy-Inspecter of South Carolina by Moses Hayes. It will be seen that a succession is definitely claimed by the authorities of the rite.
 
 FREDERICK THE GREAT
 
@@ -1705,7 +1641,7 @@ There are Lodges in France, Belgium, England, Scotland, India, Australia, South 
 
 We need add only a few words about the movement in England. The first of our English lady members to enter the Order was our highly esteemed Sister Francesca Arundale. Mrs. Annie Besant, feeling that a Masonic movement open to men and women alike could be made a powerful force for good in the world, who had been offered initiation by Mdlle. Deraismes, learned of the continuance of the Order from Miss Arundale, and sought initiation in Paris. She was subsequently created Vice-President Grand Master of the Supreme Council and Deputy for Great Britain and its Dependencies. The first Co-Masonic Lodge was consecrated in London in September, 1902, by the grand Officers of the Supreme Council, under the title of Human Duty, No. 6.* (^Op. cit., p. 25 ff.) (See Plates X and XI, following p. 178.)
 
-With the advent of Dr. Annie Besant to the leadership of the Order in the British Empire, the direct link between Masonry and the Great White Lodge which has ever stood behind it (though all unknown to the majority of the Brn.) was once again reopened; and the H.O.A.T.F. has taken a keen personal interest in its development. The ancient English and Scottish succession of Installed Masters, Installed Mark Masters and Installed First Principals of the Holy Royal Arch of Jerusalem was introduced into Co-Masonry by sympathetic 
+With the advent of Dr. Annie Besant to the leadership of the Order in the British Empire, the direct link between Masonry and the Great White Lodge which has ever stood behind it (though all unknown to the majority of the Brn.) was once again reopened; and the H.O.A.T.F. has taken a keen personal interest in its development. The ancient English and Scottish succession of Installed Masters, Installed Mark Masters and Installed First Principals of the Holy Royal Arch of Jerusalem was introduced into Co-Masonry by sympathetic
 
 Brn. from the masculine Obediences, and these degrees now form part of our British Co-Masonic workings. (Plate XII, following p. 178.)
 

@@ -2,6 +2,7 @@
 
 - [Наука Священнодействий](science-of-sacraments/index.md), Ч. У. Ледбитер
 - [Жизнь Скрытая во Фримасонстве](hidden-life-in-freemasonry/index.md), Ч. У. Ледбитер
+- [Отрывки из Истории Масонства](glimpses-of-masonic-history/index.md), Ч. У. Ледбитер
 - [Великая Война](the-great-war/index.md), Ч. У. Ледбитер
 
 Переводы сделаны с помощью GPT4, с небольшими ручными правками.
