@@ -1,12 +1,12 @@
 # Отрывки из Истории Масонства
 
+_**Черновой перевод 09/2023**_
+
 _Ч. У. Ледбитер_
 
 _Теософическое издательство, Адьяр_
 
 _1926_
-
-_**Черновой перевод 09/2023**_
 
 ## Содержание
 
@@ -31,21 +31,19 @@ _**Черновой перевод 09/2023**_
 
 Когда я сочинял «Скрытую Жизнь в Масонстве», сначала я наметил посвятить вторую главу краткому изложению истории масонства. Но скоро я осознал, что этот план неосуществим. Даже самое концентрированное изложение, которое было бы полезно, заняло бы гораздо больше места, чем я мог бы предоставить, и загрузило бы книгу темой, которая, по сути, является только одной из ее аспектов. Очевидной альтернативой стало отдельное издание исторического обзора; отсюда эту книгу, которая, фактически, лишь второй том предыдущей.
 
-The keynote of both volumes, and indeed the only reason for their publication, is to explain precisely what the title indicates - the hidden life in Freemasonry - the mighty force in the background, always at work yet always out of sight, which has guided the transmission of the Masonic tradition through all the vicissitudes of its stormy history, and still inspires the utmost enthusiasm and devotion among the Brn. of the Craft to-day.
+Основная тема обоих томов, и, в самом деле, их единственной причиной издания, является внятное объяснение, что подразумевает заглавие - скрытая жизнь в масонстве - могущественные силы на заднем плане, всегда находящиеся в работе, но всегда невидимые, которые направляли передачу масонской традиции сквозь все вихри её бурной истории, и по-прежнему вдохновляют к наивысшему энтузиазму и самоотверженности среди братьев по Мастерству сегодня.
 
-The existence and the work of the Head of all true Freemasons is the one and sufficient reason for the virility and power of this most wonderful Organization. If we understand His relation to it and what He wishes to make of it, we shall also understand that it embodies one of the finest schemes ever invented for the helping of the world and for the outpouring of spiritual force.
+Существование и деятельность Главы всех истинных масонов - это едва ли не единственная и вполне достаточная причина для жизненной силы и энергетики этой удивительной организации. Если мы поймем его отношение к ней и что он хочет сделать из неё, мы также поймем, что это вопущение одной из блестящих схем когда-либо придуманных для помощи миру и для излияния духовной силы.
 
-Many of our Brn. have been for many years unconsciously taking part in this magnificent altruistic work; if they can be brought to comprehend what it is that they are doing and why, they will continue the great work more happily and more intelligently, throwing into it the whole strength of their nature both bodily and spiritual, and enjoying the fruit of their labours far more definitely than ever before.
+Многие из наших братьев уже многие годы, зачастую неосознанно, принимают участие в этом великолепном альтруистическом деле; если они смогут осознать, что именно они делают и почему, они продолжат великую работу более счастливо и осознанно, вложив в неё всю силу своей природы, как телесную, так и духовную, и наслаждаясь плодами своих трудов намного определеннее, чем когда-либо ранее.
 
-SCHOOLS OF MASONIC THOUGHT
+Школы Масонской Мысли
 
-A HISTORY of Freemasonry would be a colossal undertaking, needing encyclopaedic knowledge and many years of research. I have no pretension to the possession of the qualities and the erudition required for the production of such a work; all I can hope to do is to throw a little light upon some of the dark spots in that history, and to bridge over to some extent some of the more obvious gaps between the sections of it which are already well known.
+Писать историю масонства - непростое дело, требующее энциклопедических знаний и многих лет исследований. У меня нет претензий на обладание качествами и образованием, необходимыми для создания такого труда; всё, что я могу предложить - это пролить немного света на некоторые темные пятна в этой истории и в некотором роде преодолеть пропасти между ней, которые уже известны.
 
-THE ORIGINS OF MASONRY
+Происхождение Масонства
 
-The actual origins of Freemasonry, as I have said in a previous book, are lost in the mists of antiquity. Masonic writers of the eighteenth century speculated uncritically upon its history, basing their views upon a literal belief in the history and chronology of the Old Testament, and upon the curious legends of the Craft handed down from operative times in the Old Charges. Thus it was put forward in all seriousness by Dr. Anderson in his first Book of Constitutions that “Adam, our first parent, created after the Image of God, the great Architect of the Universe, must have had the Liberal Sciences, particularly Geometry, written on his Heart,” while others, less fanciful, have attributed its origin to Abraham, Moses, or Solomon. Dr. Oliver, writing as late as the first part of the nineteenth century, held that Masonry, as we
-
-have it to-day, is the only true relic of the faith of the patriarchs before the flood, while the ancient Mysteries of Egypt and other countries, which so closely resembled it, were but human corruptions of the one primitive and pure tradition.
+Реальные истоки масонства, как я уже упоминал в предыдущей книге, затеряны в туманах давности. Масонские писатели XVIII века наивно спекулировали его историей, опираясь на буквальное верование в историю и хронологию Ветхого Завета, а также на странные легенды о Мастерстве, передаваемые с оперативных времен в Старых Уставах. Так, доктор Андерсон вполне серьезно заявил в своей первой Книге Уставов, что "Адам, наш первый родитель, созданный по образу Бога, великого архитектора Вселенной, обязательно имел на сердце записанные Свободные Науки, особенно Геометрию", в то время другие, менее фантастичные, приписывали его происхождение Аврааму, Моисею или Соломону. Доктор Оливер, писавший в начале XIX века, заявил, что современное масонство является единственным истинным реликвией веры патриархов до потопа, в то время как древние тайны Египта и других стран, которые так сильно напоминают его, были лишь человеческими искажениями одной изначальной и чистой традиции.
 
 As scientific and historical knowledge progressed in other fields of research, and especially in the criticism of the Scriptures, scientific methods were gradually applied to the study of Masonry, so that today there exists a vast body of fairly accurate and most interesting information upon the history of the Craft. In consequence of this and other lines of investigation there are four main schools or tendencies of Masonic thought, not in any way necessarily defined or organized as schools, but grouped according to their relation to four important departments of knowledge lying primarily outside the Masonic field. Each has its own characteristic approach towards Freemasonry; each has its own canons of interpretation of Masonic symbols and ceremonies, although it is clear that many modern writers are influenced by more than one school.
 
