@@ -1,16 +1,12 @@
 # Наука Священнодействий
 
+_**Черновой перевод 09/2023**_
+
 Чарльз У. Ледбитер
 
 _Регионарный Епископ Либеральной Католической Церкви Австралии_
 
 1920
-
-_**Черновой перевод 09/2023**_
-
-_Версия для редактирования: [index.md](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_
-
-_Английская версия взятая за основу: https://archive.org/details/sciencesacramen00leadgoog_
 
 ![](plate0.gif)
 
@@ -3796,3 +3792,7 @@ _Не верьте в то, что сказано, просто потому, ч
 [^8]: За более полной информацией см. _Оккультную Химию_, А. Безант и Ч. У. Лидбитер, а также статьи профессора Осборна Рейнольдса.
 
 ![footnote](footnote.png)
+
+_Версия перевода для редактирования: [index.md](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_
+
+_Английская версия взятая за основу: https://archive.org/details/sciencesacramen00leadgoog_
