@@ -1,12 +1,12 @@
 # Наука Священнодействий
 
-_**Перевод 09/2023** -- [Оригинал](https://archive.org/details/sciencesacramen00leadgoog) -- [Для редактирования](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_
-
 Чарльз У. Ледбитер
 
 _Регионарный Епископ Либеральной Католической Церкви Австралии_
 
 1920
+
+_**Перевод 09/2023** -- [Оригинал](https://archive.org/details/sciencesacramen00leadgoog) -- [Для редактирования](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_
 
 ![](plate0.gif)
 
