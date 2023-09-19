@@ -6,8 +6,6 @@ _Регионарный Епископ Либеральной Католичес
 
 1920
 
-_**Перевод 09/2023** -- [Оригинал](https://archive.org/details/sciencesacramen00leadgoog) -- [Для редактирования](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_
-
 ![](plate0.gif)
 
 _Завершённая Евхаристическая Форма_
@@ -3773,3 +3771,5 @@ _Не верьте в то, что сказано, просто потому, ч
 [^8]: За более полной информацией см. _Оккультную Химию_, А. Безант и Ч. У. Лидбитер, а также статьи профессора Осборна Рейнольдса.
 
 ![footnote](footnote.png)
+
+_**Перевод 09/2023** -- [Оригинал](https://archive.org/details/sciencesacramen00leadgoog) -- [Для редактирования](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/science-of-sacraments/index.md)_

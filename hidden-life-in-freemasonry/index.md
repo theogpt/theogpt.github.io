@@ -1,6 +1,6 @@
 # Жизнь Скрытая во Фримасонстве
 
-_**Черновой перевод 09/2023**_
+_**Черновой перевод 09/2023** -- [Для редактирования](https://raw.githubusercontent.com/theogpt/theogpt.github.io/master/hidden-life-in-freemasonry/index.md)_
 
 _Ч. У. Ледбитер 33°_
 
