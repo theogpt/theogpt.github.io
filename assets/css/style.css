@@ -39,7 +39,6 @@ a {
 
 h1 {
   text-align: center;
-  color: #000;
 }
 
 h1 a {
@@ -47,9 +46,9 @@ h1 a {
 }
 
 h2 {
-  color: #002;
+  color: #001;
 }
 
 h3 { 
-  color: #004;
+  color: #002;
 }
