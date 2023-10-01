@@ -15,7 +15,7 @@ parser.add_argument('-i', "--input", required=True, help='The input text file wi
 parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
 parser.add_argument('-c', "--context", default='gpt4_context.md', help='The context file with translation instructions')
 parser.add_argument('-q', "--quality", type=int, default=1, help='The quality of translation')
-parser.add_argument('-v', "--verbose", default=False)
+parser.add_argument('-v', "--verbose", type=int, default=0)
 args = parser.parse_args()
 
 def is_translated(text):
@@ -62,6 +62,8 @@ def translate(text):
   num_translations += 1
   if num_translations > max_translations:
     sys.exit('Reached the translations limit: ' + str(max_translations))
+  if args.verbose:
+    print('\n\n### text>\n\n', text)
 
   messages=[
     { "role": "system", "content": gpt_context },
@@ -80,7 +82,7 @@ def translate(text):
 
   resp_text = response.choices[0].message.content
   if args.verbose:
-    print('resp>', resp_text)
+    print('\n\n### gpt4>\n\n', resp_text)
   parts = re.split('\n\s*[+]{5,}\s*\n', resp_text)
   return parts[len(parts) - 1]
 
@@ -117,12 +119,7 @@ while idx < len(paragraphs):
 
   text = "\n\n".join(paragraphs[idx:idx+num])
   print(str(idx) + '..' + str(idx+num-1) + '/' + str(len(paragraphs)))
-  if args.verbose:
-    print('en> ', text)
-
   resp = translate(text)
-  if args.verbose:
-    print('ru>', resp)
 
   for i in range(0, num):
     paragraphs[idx + i] = ''
