@@ -13,7 +13,7 @@ if not openai.api_key:
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', "--input", required=True, help='The input text file with non translated text')
 parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
-parser.add_argument('-c', "--context", required=False, help='The context file with translation instructions')
+parser.add_argument('-c', "--context", default='gpt4_context.md', help='The context file with translation instructions')
 parser.add_argument('-q', "--quality", type=int, default=1, help='The quality of translation')
 parser.add_argument('-v', "--verbose", default=False)
 args = parser.parse_args()
@@ -33,11 +33,16 @@ def save_output(paragraphs):
   with open(args.output, 'w') as f:
       f.write(input_text)
 
-if not os.path.isfile(args.context or ''):
-  gpt_context = "You are a translator from English to Russian."
-else:
+gpt_context = "You translate books from English to Russian."
+if os.path.isfile(args.context or ''):
   with open(args.context, 'r') as f:
     gpt_context = f.read()
+# Additional notes common for all translations.
+base_context = os.path.join(
+  os.path.dirname(__file__), 'base_context.md')
+with open(base_context, 'r') as f:
+  gpt_context += '\n' + f.read()
+print('ctx>', gpt_context)
 
 # len(system + user + output) <= 8192
 # en char = 0.23 tokens
@@ -52,7 +57,7 @@ max_input_chars = min(2500, max_input_chars) # just in case
 max_translations = 500
 num_translations = 0
 
-def translate(text, draft=''):
+def translate(text):
   global num_translations
   num_translations += 1
   if num_translations > max_translations:
@@ -61,8 +66,6 @@ def translate(text, draft=''):
   messages=[
     { "role": "system", "content": gpt_context },
     { "role": "user", "content": text }]
-  if draft:
-    messages += [{ "role": "user", "content": 'Draft translation:\n' + draft }]
 
   print('Waiting for GPT response...')
   response = openai.ChatCompletion.create(
@@ -74,15 +77,12 @@ def translate(text, draft=''):
     frequency_penalty=0,
     presence_penalty=0
   )
-  return response.choices[0].message.content
 
-def translate2(text, iterations):
-  if iterations > 1:
-    print('Translating with', iterations, 'iterations')
-  resp = translate(text)
-  for i in range(1, iterations):
-    resp = translate(text, resp)
-  return resp
+  resp_text = response.choices[0].message.content
+  if args.verbose:
+    print('resp>', resp_text)
+  parts = re.split('\n\s*[+]{3,}\s*\n', resp_text)
+  return parts[len(parts) - 1]
 
 if os.path.isfile(args.output):
   if not input("Output file already exists. Overwrite? (y/n) ") in ["y", "Y"]:
@@ -120,7 +120,7 @@ while idx < len(paragraphs):
   if args.verbose:
     print('en> ', text)
 
-  resp = translate2(text, args.quality)
+  resp = translate(text)
   if args.verbose:
     print('ru>', resp)
 
