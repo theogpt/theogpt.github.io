@@ -52,7 +52,7 @@ max_output_tokens = 4096
 max_output_chars = int(max_output_tokens / 0.50) # estimate
 max_input_tokens = int(8192 - max_output_tokens - len(gpt_context)*0.25)
 max_input_chars = int(max_input_tokens / 0.25) # estimate
-max_input_chars = min(2500, max_input_chars) # just in case
+max_input_chars = min(1500, max_input_chars) # just in case
 
 max_translations = 500
 num_translations = 0
@@ -81,7 +81,7 @@ def translate(text):
   resp_text = response.choices[0].message.content
   if args.verbose:
     print('resp>', resp_text)
-  parts = re.split('\n\s*[+]{3,}\s*\n', resp_text)
+  parts = re.split('\n\s*[+]{5,}\s*\n', resp_text)
   return parts[len(parts) - 1]
 
 if os.path.isfile(args.output):
