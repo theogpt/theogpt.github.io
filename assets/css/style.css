@@ -3,6 +3,11 @@ body {
   background-color: #ffc;
 }
 
+pre {
+  font-family: inherit;
+  font-style: italic;
+}
+
 table {
   width: 100%;
 }

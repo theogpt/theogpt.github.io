@@ -5,5 +5,6 @@
 - [Жизнь Скрытая во Фримасонстве](hidden-life-in-freemasonry/index.md), Ч. У. Ледбитер
 - [Отрывки из Истории Масонства](glimpses-of-masonic-history/index.md), Ч. У. Ледбитер
 - [Великая Война](the-great-war/index.md), Ч. У. Ледбитер
+- [Мать Мира](world-mother/index.md), Ч. У. Ледбитер
 
 см. [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)

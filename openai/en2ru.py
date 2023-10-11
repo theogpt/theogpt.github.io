@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-# Avg price to translate a book: $100 per 1 million chars.
+
+# avg price to translate a book:
+# $100 per 1 million chars
+
 import argparse
 import os
 import re
@@ -17,6 +20,9 @@ parser.add_argument('-c', "--context", default='gpt4_context.md', help='The cont
 parser.add_argument('-q', "--quality", type=int, default=1, help='The quality of translation')
 parser.add_argument('-v', "--verbose", type=int, default=0)
 args = parser.parse_args()
+
+def split_paragraphs(text):
+  return re.split('\s*\n\s*\n\s*', text)
 
 def is_translated(text):
   if len(text) < 5:
@@ -57,6 +63,11 @@ max_input_chars = min(1500, max_input_chars) # just in case
 max_translations = 500
 num_translations = 0
 
+def is_translation_valid(src, res):
+  src_para = split_paragraphs(src)
+  res_para = split_paragraphs(res)
+  return len(src_para) == len(res_para)
+
 def translate(text):
   global num_translations
   num_translations += 1
@@ -83,8 +94,10 @@ def translate(text):
   resp_text = response.choices[0].message.content
   if args.verbose:
     print('\n\n### gpt4>\n\n', resp_text)
-  parts = re.split('\n\s*[+]{5,}\s*\n', resp_text)
-  return parts[len(parts) - 1]
+  if not is_translation_valid(text, resp_text):
+    print('The translation appears corrupted, preserving the original text.')
+    return text
+  return resp_text.strip()
 
 if os.path.isfile(args.output):
   if not input("Output file already exists. Overwrite? (y/n) ") in ["y", "Y"]:
@@ -94,7 +107,7 @@ print("Analyzing the text...")
 
 with open(args.input, 'r') as f:
     input_text = f.read()
-    paragraphs = re.split('\s*\n\s*\n\s*', input_text)
+    paragraphs = split_paragraphs(input_text)
 
 print("  Total length: ", len(input_text))
 num_translated = sum(is_translated(para) for para in paragraphs)
