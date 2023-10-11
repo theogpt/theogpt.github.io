@@ -1,5 +1,7 @@
 # Переводы
 
+Книги в этом списке переведены с помощью gpt4, но проверены и исправлены вручную.
+
 - [Наука Священнодействий](science-of-sacraments/index.md), Ч. У. Ледбитер
 - _The Hidden Side of Christian Festivals_
 - [Жизнь Скрытая во Фримасонстве](hidden-life-in-freemasonry/index.md), Ч. У. Ледбитер
@@ -9,7 +11,7 @@
 
 Для редактирования: [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)
 
-## Книги на похожую тематику
+Книги на похожую тематику:
 
 - [Роза Мира](http://rozamira.org/rm/htm)
 

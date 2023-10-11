@@ -7,3 +7,5 @@ Prefer the following translations of special terms, unless context strongly impl
 - buddhic plane = будхический план
 - thought-form = мысле-форма
 - globe = сфера
+- master = учитель
+- lord = господь
