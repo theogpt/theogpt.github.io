@@ -7,4 +7,10 @@
 - [Великая Война](the-great-war/index.md), Ч. У. Ледбитер
 - [Мировая Мать как Символ и Факт](world-mother/index.md), Ч. У. Ледбитер
 
-см. [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)
+Для редактирования: [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)
+
+## Книги на похожую тематику
+
+- [Роза Мира](http://rozamira.org/rm/htm)
+
+10/2023

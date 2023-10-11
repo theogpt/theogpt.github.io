@@ -6,14 +6,6 @@ _Анни Безант и Ч. У. Ледбитер_
 
 _Теософическое Общество, Адьяр, Индия_
 
-![](dia1.webp)
-
-![](dia2.webp)
-
-![](dia3.webp)
-
-![](dia4.webp)
-
 ## Предисловие
 
 ИДЕЯ, что ясновидение возможно, уже не считается совершенно безумной. Она не получила общего признания, и вообще, она принята лишь в небольшой степени. Однако постоянно растущее число относительно умных людей воспринимают ясновидение как факт и считают его совершенно естественной способностью, которая со временем станет универсальной в ходе эволюции. Они не рассматривают его как чудотворный дар, а также как проявление высокого духовного уровня, высокого интеллекта или чистоты характера; все это или любое этих качеств могут присутствовать у человека, который нисколько не является ясновидящим. Они знают, что это способность, заложенная в каждом человеке, и ее может развить любой, кто готов и способен заплатить цену, требуемую для ее развития впереди общей эволюции.
@@ -38,96 +30,102 @@ _Анни Безант, Ч. У. Ледбитер_
 
 ## Некоторые из персонажей в истории
 
-THE FOUR KUMARA ... Four of the Lords of the Flame, still living in Shamballa.
-MAHAGURU ... The Bodhisattva of the time, appearing as Vyasa, Thoth (Hermes), Zarathushtra, Orpheus, finally as Gautama; who became the Lord Buddha
-SURYA ... The Lord Maitreya, the present Bodhisattva, the Supreme Teacher of the world.
-MANU ... The Head of a Root-Race. If with a prefix, Root-Manu or Seed-Manu, a yet higher Official, presiding over a larger cycle of evolution - a Round or a Chain. The cognomen Vaivasvata is given in Hindu books both to the Root-Manu of our Chain and the Manu of the Aryan, or fifth, Root Race.
-VIRAJ ... The Maha-Chohan, a high Official, of rank equal to that of a Manu or a Bodhisattva.
-SATURN ... Now a Master, spoken of in some Theosophical books as 'The Venetian'.
-JUPITER ... Now a Master, residing in the Nilgiri Hills.
-MARS ... Now the Master M. of the Occult World.
-MERCURY ... Now the Master K. H. of the Occult World.
-NEPTUNE ... Now the Master Hilarion.
-OSIRIS ... Now the Master Serapis.
-BRIHASPATI ... Now the Master Jesus.
-VENUS ... Now the Master Ragozci (or Rakovzky), the 'Hungarian Adept,' the Comte de S. Germain of the eighteenth century.
-URANUS ... Now the Master D. K.
-VULCAN ... Now a Master: known in His last earth-life as Sir Thomas More.
-ATHENA ... Now a Master; know on earth as Thomas Vaughan, 'Eugenius Philalethes'.
-ALBA ... Ethel Whyte
-ALBIREO ... Maria-Luisa Kirby
-ALCYONE ... J. Krishnamurti
-ALETHEIA ... John van Manen
-ALTAIR ... Herbert Whyte
-ARCOR ... A. J. Wilson
-AURORA ... Count Bubna-Licics
-CAPELLA ... S. Maud Sharpe
-CORONA ... Julius Caesar
-CRUX ... The Hon. Otway Cuffe
-DENEB ... Lord Cochrane (Tenth Earl of Dundonald)
-EUDOXIA ... Louisa Shaw
-FIDES ... G. S. Arundale
-GEMINI ... E. Maud Green
-HECTOR ... W. H. Kirby
-HELIOS ... Marie Russak
-HERAKLES ... Annie Besant
-LEO ... Fabrizio Ruspoli
-LOMIA ... J. I. Wedgwood
-LUTETIA ... Charles Bradlaugh
-LYRA ... Lao-Tze
-MIRA ... Carl Holbrook
-MIZAR ... J. Nityananda
-MONA ... Piet Meuleman
-NORMA ... Margherita Ruspoli
-OLYMPIA ... Damodar K. Mavalankar
-PALLAS ... Plato
-PHOCEA ... W. Q. Judge
-PHOENIX ... T. Pascal
-POLARIS... B. P. Wadia
-PROTEUS... The Teshu Lama
-SELENE... C. Jinarajadasa
-SIRIUS... C. W. Leadbeater
-SIWA... T. Subba Rao
-SPICA... Francesca Arundale
-TAURUS ... Jerome Anderson
-ULYSSES... H. S. Olcott
-VAJRA ... H. P. Blavatsky
-VESTA ... Minnie C. Holbrook
+Имя | -
+--- | ---
+ЧЕТЫРЕ КУМАРЫ |  Четыре Господа Огня, по-прежнему проживающие в Шамбале.
+МАХАГУРУ |  Бодхисаттва времени, проявляющийся как Вьяса, Тот (Гермес), Заратустра, Орфей, в конце концов как Гаутама; который стал Господом Буддой.
+СУРИЯ |  Господь Майтрея, нынешний Бодхисаттва, Верховный Учитель мира.
+МАНУ |  Глава Коренной Расы. Если с приставкой, Коренной-Ману или Семенной-Ману, еще более высокий Официальный, президирующий над более крупным циклом эволюции - Кругом или Цепью. Прозвище Вайвасвата в индийских книгах подают как Коренному-Ману нашей Цепи и Ману Арийской, или пятой, Коренной Расы.
+ВИРАЖ |  Маха-Чохан, высокий Официальный, звания, равного званию Ману или Бодхисаттвы.
+САТУРН |  Теперь Мастер, о котором упоминается в некоторых теософских книгах как 'Венецианец'.
+ЮПИТЕР |  Теперь Мастер, проживающий в холмах Нильгири.
+МАРС |  Теперь Мастер М. Оккультного мира.
+МЕРКУРИЙ |  Теперь Мастер K. H. Оккультного мира.
+НЕПТУН |  Теперь Мастер Хиларион.
+ОСИРИС |  Теперь Мастер Серапис.
+БРИХАСПАТИ |  Теперь Мастер Иисус.
+ВЕНЕРА |  Теперь Мастер Рагозци (или Раковский), 'Венгерский Адепт', граф Сен-Жермен XVIII века.
+УРАН |  Теперь Мастер D. K.
+ВУЛКАН |  Теперь Мастер: известный в своей последней земной жизни как сэр Томас Мор.
+АФИНА |  Теперь Мастер; известный на Земле как Томас Вон, 'Евгений Филалет'.
+АЛЬБА |  Этель Уайт
+АЛЬБИРЕО |  Мария-Луиза Кирби
+АЛКИОН |  Дж. Кришнамурти
+АЛЕТЕЯ |  Джон ван Манен
+АЛЬТАИР |  Герберт Уайт
+АРКОР |  A. J. Wilson
+АВРОРА |  Граф Бубна-Лицич
+КАПЕЛЛА |  S. Мод Шарп
+КОРОНА |  Юлий Цезарь
+КРУКС |  Почетный Отвей Каффе
+ДЕНЕБ |  Лорд Кокрейн (Десятый граф Дандональд)
+ЕВДОКСИЯ |  Луиза Шоу
+FIDES |  G. S. Arundale
+GEMINI  |  E. Мод Грин
+ГЕКТОР |  W. H. Kirby
+ГЕЛИОС |  Мари Русак
+ГЕРАКЛЫ |  Энни Безант
+ЛЕО |  Фабрицио Русполи
+ЛОМИА |  J. I. Wedgwood
+ЛЮТЕЦИЯ |  Чарльз Брэдлоу
+ЛИРА |  Лао-Цзы
+МИРА |  Карл Холбрук
+МИЗАР |  Я. Нитьянанда
+МОНА |  Пит Мёльман
+НОРМА |  Маргарита Русполи
+ОЛИМПИЯ |  Дамодар K. Маваланкар
+ПАЛЛАС |  Платон
+ФОЦЕЯ |  W. Q. Judge
+ФЕНИКС |  Т. Паскаль
+ПОЛЯРНАЯ ЗВЕЗДА |  B. P. Вадиа
+ПРОТЕЙ |  Тешу Лама
+СЕЛЕНА |  C. Jinarajadasa
+СИРИУС |  C. W. Leadbeater
+СИВА |  Т. Субба Рао
+СПИКА |  Франческа Арундейл
+ТАУРУС |  Джером Андерсон
+УЛИСС |  H. S. Olcott
+ВАДЖРА |  H. P. Блаватская
+ВЕСТА |  Минни С. Холбрук
 
-Introduction
-I  Preliminaries 
-II The First and Second Chains
-III Early Times on the Moon Chain
-IV The Sixth Round on the Moon Chain
-V The Seventh Round on the Moon Chain
-VI Early Times on the Earth Chain
-VII Early Stages of the Fourth Round
-VIII The Fourth Root-Race
-IX Black Magic in Atlantis 
-X The Civilisation of Atlantis
-XI Two Atlantean Civilisations-- Peru
-XII Two Atlantean Civilisations-- Peru
-XIII Two Atlantean Civilisations-- Chaldaea
-XIV Beginnings of the Fifth Root-Race
-XV The Building of the Great City
-XVI Early Aryan Civilisation and Empire
-XVII The Second sub-race, the Arabian 
-XVIII The Third sub-race, the Iranian 
-XIX The Fourth sub-race, the Keltic 
-XX The Fifth sub-race, the Teutonic 
-XXI The Root-Stock and its descent into India
-XXII The Vision of King Ashoka
-XXIII The Beginnings of the Sixth Root-Race
-XXIV Religion and the Temples
-XXV Education and the Family 
-XXVI Buildings and Customs 
-XXVII Conclusion
-Epilogue
-Appendix
+## Оглавление
 
-INTRODUCTION
+- Введение
+- Человек: Откуда и Как
+  - Глава I Вступление
+  - Глава II Первая и Вторая Цепи
+  - Глава III Ранние Времена на Лунной Цепи
+  - Глава IV Шестой Круг на Лунной Цепи
+  - Глава V Седьмой Круг на Лунной Цепи
+  - Глава VI Ранние Времена на Земной Цепи
+  - Глава VII Ранние Стадии Четвертого Круга
+  - Глава VIII Четвертая Коренная Раса
+  - Глава IX Черная Магия в Атлантиде
+  - Глава X Цивилизация Атлантиды
+  - Глава XI Две Атлантские Цивилизации-- Перу
+  - Глава XII Две Атлантские Цивилизации-- Перу
+  - Глава XIII Две Атлантские Цивилизации-- Халдея
+  - Глава XIV Начала Пятой Коренной Расы
+  - Глава XV Строительство Великого Города
+  - Глава XVI Ранняя Арийская Цивилизация и Империя
+  - Глава XVII Вторая подраса, Арабская
+  - Глава XVIII Третья подраса, Иранская
+  - Глава XIX Четвертая подраса, Кельтская
+  - Глава XX Пятая подраса, Тевтонская
+  - Глава XXI Коренной сток и его спуск в Индию
+- Человек: Куда
+  - Глава XXII Видение Короля Ашока
+  - Глава XXIII Начала Шестой Коренной Расы
+  - Глава XXIV Религия и Храмы
+  - Глава XXV Образование и Семья
+  - Глава XXVI Здания и Обычаи
+  - Глава XXVII Заключение
+- Эпилог
+- Приложение
 
-THE problem of Man' s origin, of his evolution, of his destiny, is one of inexhaustible interest. Whence came he, this glorious Intelligence, on this globe, at least, the crown of visible beings? How has he evolved to his present position? Has he suddenly descended from above, a radiant angel, to become the temporary tenant of a house of clay; or has he climbed upwards through long dim ages, tracing his humble ancestry from primeval slime, through fish, reptile, mammal, up to the human kingdom? And what is his future destiny? Is he evolving onwards, climbing higher and higher, only to descend the long slope of degeneration till he falls over the precipice of death, leaving behind him a freezing planet, the sepulchre of myriad civilisations; or is his present climbing but the schooling of an immortal spiritual Power, destined in his maturity to wield the sceptre of a world, a system, a congeries of Systems, a veritable God in the making?
+## Введение
+
+Вопрос о происхождении человека, его развитии, его предназначении - вопрос бесконечно интересный. Откуда он пришел, этот великолепный Интеллект, на этом шаре, по крайней мере, корона видимых существ? Как он эволюционировал до своего нынешнего положения? Спустился ли он внезапно сверху, радиантный ангел, став временным обитателем дома из глины; или он восходил вверх на протяжении долгих мутных веков, прослеживая свое скромное происхождение от первобытной слизи, через рыбу, рептилию, млекопитающее, до человеческого царства? И какова его будущая судьба? Развивается ли он далее, поднимаясь все выше и выше, только чтобы спуститься по длинному склону дегенерации, пока он не упадет с обрыва смерти, оставив за собой замерзшую планету, могилу множества цивилизаций; или его нынешнее взбирание - это лишь обучение бессмерной духовной Силы, предназначенной в своей зрелости управлять миром, системой, совокупностью систем, настоящим Богом в процессе создания?
 
 To these questions many answers have been given, partially or fairly fully, in the Scriptures of ancient religions, in the shadowy traditions handed down from mighty men of old, in the explorations of modern archaeologists, in the researches of geologists, physicists, biologists, astronomers, of our own days. The most modern knowledge has vindicated the most ancient records in ascribing to our earth and its inhabitants a period of existence of vast extent and of marvellous complexity; hundreds of millions of years are tossed together to give time for the slow and laborious processes of nature; further and further back 'primeval man' is pushed; Lemuria is seen where now the Pacific ripples, and Australia, but lately rediscovered, is regarded as one of the oldest of lands; Atlantis is posited, where now the Atlantic rolls, and Africa is linked to America by a solid bridge of land, so that the laurels of a discoverer are plucked from the brow of Columbus, and he is seen as following long-perished generations who found their way from Europe to the continent of the setting sun. Poseidonis is no longer the mere fairy-tale told by superstitious Egyptian priests to a Greek philosopher; Minos of Crete is dug out of his ancient grave, a man and not a myth; Babylon, once ancient, is shown as the modern successor of a series of highly civilised cities, buried in stratum after stratum, glooming through the night of time. Tradition is beckoning the explorer to excavate in Turkestan, in Central Asia, and whispering of cyclopean ruins that await but his spade for their unburying.
 
@@ -139,7 +137,7 @@ The writers of this book, having been taught the method of gaining touch, but be
 
 As in the case of the related books which have preceded this in the Theosophical movement, the “treasure is in earthen vessels,” and, while gratefully acknowledging the help graciously given, they take the responsibility of all errors entirely on themselves.
 
-MAN: WHENCE AND HOW
+## MAN: WHENCE AND HOW
 
 CHAPTER I
 
@@ -157,11 +155,19 @@ That great Sage, Plato, one of the world' s master-intellects, whose lofty ideas
 
 There is, then, nothing surprising in the fact that we find, in the order of our Solar System, the continual recurrence of the number Seven. Because of this, it has been called a 'sacred number' ; a 'significant number' would be a better epithet. The moon' s life divides itself naturally into twice seven days of waxing and an equal number of waning, and its quarters give us our week of seven days. And we find this seven as the root-number of our Solar System, dividing its departments into seven, and these again divided into subsidiary sevens, and these into other sevens, and so on. The religious student will think of the seven Ameshaspentas of the Zoroastrian, of the seven Spirits before the throne of God of the Christian; the Theosophist of the supreme Triple LOGOS of the system, with His Ministers, the “Rulers of seven Chains,”¹ (¹ These have been called Planetary Logoi, but the name often causes confusion, and is therefore here dropped.) round Him, each ruling His own department of the system, as a Viceroy for an Emperor. We are concerned here with but one department in detail. The Solar System contains ten of these, for while rooted in the seven, it develops ten departments, ten being, therefore, by Mystics, called the 'perfect number' . Mr. A. P. Sinnett has well named these departments 'Schemes of Evolution,' and within each of these Schemes humanities are evolving or will evolve. We will now confine ourselves to our own, though never forgetting that the others exist, and that very highly evolved Intelligences may pass from one to another. In fact, such visitors came to our earth at one stage of its evolution, to guide and help our newly-born humanity.
 
+![](dia1.webp)
+
 A scheme of Evolution passes through seven great evolutionary stages, each of which is called a Chain. This name is derived from the fact that a Chain consists of seven Globes, mutually interrelated; it is a chain of seven links, each link a globe. The seven Schemes are shown in Diagram I, around the central sun, and at any one period of time only one of the rings in each Scheme will be active; each ring of each of these seven Schemes is composed of seven globes; these are not figured separately but form what we here have drawn as a ring, in order to save space. The globes are shown in the next Diagram.
+
+![](dia2.webp)
 
 In Diagram II we have a single Scheme, figured in the seven stages of its evolution, i.e., in its seven successive Chains; it is now shown in relation to five of the seven spheres, or types, of matter existing in the Solar System; matter of each type is composed of atoms of a definite kind, all the solids, liquids, gases, and ethers of one type of matter being aggregations of atoms of a single kind;¹ (¹ See Occult Chemistry, Annie Besant and C. W. Leadbeater.) this matter is named according to the mood of consciousness to which it responds: physical, emotional, mental, intuitional, spiritual. ² (² Physical matter is the matter with which we are daily dealing in our waking life. Emotional matter is that which is set vibrating by desires and emotions, and is called astral in our older books, a name we retain to some extent. Mental matter is that which similarly answers to thoughts. Intuitional matter (buddhic, in Samskrit) is that which serves as medium for the higher intuition and all-embracing love. Spiritual matter (atmic) is that in which the creative Will is potent.) In the first Chain, its seven Worlds, A, B, C, D, E, F, G, are seen arranged: ³ (³ The top left-hand globe is A; the next lower is B; and so on up to G, the top right-hand globe.) A and G, the root-world and the seed-world, are on the spiritual plane, for all descends from the higher to the lower, from the subtle to the dense, and climbs again to the higher, enriched with the gains of the journey, the gains serving as seed for the next Chain; B and F are on the intuitional plane, one gathering and the other assimilating; C and E are on the higher mental, in similar relationship; D, the turning point, the point of balance between the ascending and descending arcs, is in the lower part of the mental plane. These pairs of globes in every Chain are ever closely allied, but the one is the rough sketch, the other the finished picture. In the second Chain, the globes have all sunk one stage lower into matter, and D is on the emotional plane. In the third Chain, they have sunk yet one stage further, and D reaches the physical plane. In the fourth Chain, and on the fourth only, the midmost Chain of the seven, the most deeply involved in densest matter, the turning point of the Chains as is D of the globes, there are three of the globes-- C, D, and E-- on the physical plane. On the return journey, as it were, the ascent resembles the descent: in the fifth Chain, as in the third, there is one physical globe; in the sixth, as in the second, globe D is emotional; in the seventh, as in the first, globe D is mental. With the ending of the seventh Chain the Scheme has worked itself out, and its fruitage is harvested.
 
 The seven Schemes of our Solar System may, for convenience sake, be named after the globe D of each, this being the globe best known to us; these are: Vulcan, Venus, Earth, Jupiter, Saturn, Uranus, Neptune (see Diagram I). In the Scheme to which our Earth belongs, the Chain which preceded our terrene Chain was the third of its series, and its one physical globe, globe D, was the globe which is now our Moon; hence the third Chain is called the lunar, while the second and first Chains are designated only by numbers; our Earth Chain, or terrene Chain, is the fourth in succession, and has therefore three of its seven globes in physical manifestation, its third globe, C, being what is called the planet Mars, and its fifth globe, E, what is called the planet Mercury. The Neptunian Scheme also, with Neptune as its globe D, has three globes of its Chain in physical manifestation-- C and E being the two physical planets connected with it, the existence of which was mentioned in Theosophical literature before they were recognised by Science-- and hence has reached the fourth Chain of its series. The Venusian Scheme is reaching the end of its fifth Chain, and Venus has consequently lately lost her Moon, the globe D of the preceding Chain.1 (¹ It may be remembered that the Moon of Venus was seen by Herschel.) It is possible that Vulcan, which Herschel saw, but which, it is said, has now disappeared, is in its sixth Chain, but on that we have no information, either direct or mediate. Jupiter is not yet inhabited, but its moons are, by beings with dense physical bodies.
+
+![](dia3.webp)
+
+![](dia4.webp)
 
 Diagrams III and IV represent the relationships between the seven Chains within a Scheme, showing the evolutionary progress from Chain to Chain. Diagram III should be first studied; it is merely a simplification of Diagram IV, which is a copy of one drawn by a Master; this-- though at first sight somewhat bewildering-- will be found very illuminative when understood.
 
@@ -1478,7 +1484,7 @@ The castes were hence called the Varnas, or colours, the pure Aryans white, the 
 
 During the emigrations into India, one tribe had gone off in a direction different from that of the others, and had contrived to establish itself in a valley in the Susamir district. There, forgotten by the rest of the world, it enjoyed its primitive pastoral life for many centuries. About 2200 B.C. , there arose a great military leader amongst the Mongol tribes, and they devastated all of Asia that they could reach, utterly destroying, among others, the remnants of the Persian Empire. The Tartar leader was finally overthrown, and his hordes scattered, but he had left utter desolation behind him. Somehow in a hundred years or so, news of a fertile but unoccupied land reached our Aryans in their valley; they sent out spies to report, and when the story was confirmed, they migrated bodily into Persia. These were the speakers of Zend, and their late arrival accounts for the curiously unsettled state of the country even in the time of the last Zoroaster. Such remnants of the third sub-race as had been only driven from their homes, and had escaped the general massacre, came back and made common cause with our tribe, and from these beginnings gradually developed the latest Persian Empire.
 
-MAN: WHITHER
+## MAN: WHITHER
 
 FOREWORD
 
@@ -2290,3 +2296,5 @@ Another variant of this race, with longer noses and projecting beards, who occup
 Into this turmoil of mixed races came our clan, priest-led across the sea from its Arabian hills, and gradually made its footing sure in Upper Egypt, establishing its capital in Abydos, and slowly possessing itself of more and more of the surrounding land, until by weight of its superior civilisation it was recognised as the dominant power. All through its earlier centuries its policy was less to fight than to absorb-- to build out of this chaos of peoples a race upon which its hereditary characteristics should be stamped. A thousand years had passed since their arrival, when, in the twenty-first life of Alcyone, we find MARS reigning over an already highly-organised empire; but it was fourteen hundred years later still before the MANU Himself (they have corrupted His name to Menes now) united the whole of Egypt under one rule, and founded at the same time the first dynasty and His great city of Memphis-- thus initiating in person another stage of the work begun by His direction in 13,500 B.C.
 
 Clio and Markab were noticed among a group of Egyptian statesmen who disapproved of the Aryan immigration and schemed against it. Clio' s wife Adrona, and Markab' s wife Avelledo were implicated in their plots. All four of them were eventually exiled, as was also Cancer, the sister of Adrona.
+
+**_Черновой перевод 10/2023_**
