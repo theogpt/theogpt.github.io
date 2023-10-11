@@ -17,7 +17,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-i', "--input", required=True, help='The input text file with non translated text')
 parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
 parser.add_argument('-c', "--context", default='gpt4_context.md', help='The context file with translation instructions')
-parser.add_argument('-q', "--quality", type=int, default=1, help='The quality of translation')
+parser.add_argument('-n', "--numtrans", type=int, default=500, help='Max translation requests')
 parser.add_argument('-v', "--verbose", type=int, default=0)
 args = parser.parse_args()
 
@@ -40,15 +40,14 @@ def save_output(paragraphs):
       f.write(input_text)
 
 gpt_context = "You translate books from English to Russian."
-if os.path.isfile(args.context or ''):
-  with open(args.context, 'r') as f:
-    gpt_context = f.read()
-# Additional notes common for all translations.
 base_context = os.path.join(
   os.path.dirname(__file__), 'base_context.md')
 with open(base_context, 'r') as f:
   gpt_context += '\n' + f.read()
-print('ctx>', gpt_context)
+if os.path.isfile(args.context or ''):
+  with open(args.context, 'r') as f:
+    gpt_context += '\n' + f.read()
+print('### gpt4 context >\n', gpt_context)
 
 # len(system + user + output) <= 8192
 # en char = 0.23 tokens
@@ -58,9 +57,9 @@ max_output_tokens = 4096
 max_output_chars = int(max_output_tokens / 0.50) # estimate
 max_input_tokens = int(8192 - max_output_tokens - len(gpt_context)*0.25)
 max_input_chars = int(max_input_tokens / 0.25) # estimate
-max_input_chars = min(1500, max_input_chars) # just in case
+max_input_chars = min(2500, max_input_chars) # just in case
 
-max_translations = 500
+max_translations = args.numtrans
 num_translations = 0
 
 def is_translation_valid(src, res):
