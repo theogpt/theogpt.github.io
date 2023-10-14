@@ -2343,4 +2343,4 @@ Into this turmoil of mixed races came our clan, priest-led across the sea from i
 
 Clio and Markab were noticed among a group of Egyptian statesmen who disapproved of the Aryan immigration and schemed against it. Clio' s wife Adrona, and Markab' s wife Avelledo were implicated in their plots. All four of them were eventually exiled, as was also Cancer, the sister of Adrona.
 
-**_Черновой перевод 10/2023_**
+> Черновой перевод 10/2023
