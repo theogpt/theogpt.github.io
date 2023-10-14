@@ -2,6 +2,10 @@ body {
   background-color: #ffc;
 }
 
+ul, ol {
+  padding-left: 0.25em;
+}
+
 li {
   list-style-type: none;
 }
