@@ -2,6 +2,11 @@ body {
   background-color: #ffc;
 }
 
+blockquote {
+  margin: 0;
+  font-size: 0.75em;
+}
+
 ul, ol {
   padding-left: 0.25em;
 }
