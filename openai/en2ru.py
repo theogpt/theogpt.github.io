@@ -17,7 +17,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-i', "--input", required=True, help='The input text file with non translated text')
 parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
 parser.add_argument('-c', "--context", default='gpt4_context.md', help='The context file with translation instructions')
-parser.add_argument('-n', "--numtrans", type=int, default=500, help='Max translation requests')
+parser.add_argument('-n', "--numpars", type=int, default=500, help='Max paragraphs to translate')
 parser.add_argument('-v', "--verbose", type=int, default=0)
 args = parser.parse_args()
 
@@ -39,7 +39,7 @@ def save_output(paragraphs):
   with open(args.output, 'w') as f:
       f.write(input_text)
 
-gpt_context = "You translate books from English to Russian."
+gpt_context = "You are an expert translator of old books from English to Russian."
 base_context = os.path.join(
   os.path.dirname(__file__), 'base_context.md')
 with open(base_context, 'r') as f:
@@ -59,7 +59,7 @@ max_input_tokens = int(8192 - max_output_tokens - len(gpt_context)*0.25)
 max_input_chars = int(max_input_tokens / 0.25) # estimate
 max_input_chars = min(2500, max_input_chars) # just in case
 
-max_translations = args.numtrans
+max_translations = args.numpars
 num_translations = 0
 
 def is_translation_valid(src, res):
@@ -68,10 +68,6 @@ def is_translation_valid(src, res):
   return len(src_para) == len(res_para)
 
 def translate(text):
-  global num_translations
-  num_translations += 1
-  if num_translations > max_translations:
-    sys.exit('Reached the translations limit: ' + str(max_translations))
   if args.verbose:
     print('\n\n### text>\n\n', text)
 
@@ -128,6 +124,10 @@ while idx < len(paragraphs):
       break
     sum_len = new_len
     num += 1
+
+  num_translations += num
+  if num_translations > max_translations:
+    sys.exit('Reached the paragraphs limit: ' + str(max_translations))
 
   text = "\n\n".join(paragraphs[idx:idx+num])
   print(str(idx) + '..' + str(idx+num-1) + '/' + str(len(paragraphs)))
