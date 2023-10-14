@@ -4,7 +4,7 @@ Prefer the following translations of special terms, unless context strongly impl
 - fifth round = пятый круг
 - third root race = третья коренная раса
 - mental plane = ментальный план
-- buddhic plane = будхический план
+- buddhic = будхический
 - thought-form = мысле-форма
 - globe = сфера
 - master = учитель
