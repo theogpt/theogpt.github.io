@@ -3772,6 +3772,6 @@ _Не верьте в то, что сказано, просто потому, ч
 
 ![footnote](footnote.png)
 
-_**Перевод 09/2023**
+> _**Перевод 09/2023**
 
-Source: https://archive.org/details/sciencesacramen00leadgoog
+> Source: https://archive.org/details/sciencesacramen00leadgoog

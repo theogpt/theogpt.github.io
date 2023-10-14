@@ -81,4 +81,4 @@ The book is to a large extent the reproduction of a series of sermons given for 
 
 C.W.L.
 
-Source: https://archive.org/details/hiddensideofchri00leadrich
+> Source: https://archive.org/details/hiddensideofchri00leadrich
