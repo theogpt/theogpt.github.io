@@ -2,6 +2,10 @@ body {
   background-color: #ffc;
 }
 
+h1:first-child:not([id]) {
+  display: none;
+}
+
 blockquote {
   margin: 0;
   font-size: 0.75em;
