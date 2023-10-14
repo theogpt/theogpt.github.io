@@ -1,16 +1,21 @@
 # Переводы
 
-- [Наука Священнодействий](science-of-sacraments/index.md), 1920 г., Ч. У. Ледбитер
-- _The Hidden Side of Christian Festivals, 1920 г., Ч. У. Ледбитер_
-- [Жизнь Скрытая во Фримасонстве](hidden-life-in-freemasonry/index.md), 1926 г., Ч. У. Ледбитер
-- [Отрывки из Истории Масонства](glimpses-of-masonic-history/index.md), 1926 г., Ч. У. Ледбитер
-- [Великая Война](the-great-war/index.md), 1920 г., Ч. У. Ледбитер
-- [Мать Мира как Символ и Факт](world-mother/index.md), 1928 г., Ч. У. Ледбитер
+1920, [Наука Священнодействий](science-of-sacraments/index.md), Ч. Ледбитер
 
-Для редактирования: [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)
+1920, _The Hidden Side of Christian Festivals_, Ч. Ледбитер
+
+1920, [Великая Война](the-great-war/index.md), Ч. Ледбитер
+
+1926, [Жизнь Скрытая во Фримасонстве](hidden-life-in-freemasonry/index.md), Ч. Ледбитер
+
+1926, [Отрывки из Истории Масонства](glimpses-of-masonic-history/index.md), Ч. Ледбитер
+
+1928, [Мать Мира как Символ и Факт](world-mother/index.md), Ч. Ледбитер
+
+Версия для редактирования: [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)
 
 Книги на похожую тематику:
 
-- [Роза Мира](http://rozamira.org/rm/htm), 1958, Д. Андреев
+1958, [Роза Мира](http://rozamira.org/rm/htm), Д. Андреев
 
-10/2023
+_10/2023_

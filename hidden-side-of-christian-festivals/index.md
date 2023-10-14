@@ -80,3 +80,5 @@ These notes on the Church's Year were originally intended to be a chapter in the
 The book is to a large extent the reproduction of a series of sermons given for the instruction of a congregation to whose members the ideas contained in it were novel. Amid much pressure of work along other lines I have not had leisure to weld these into a continuous treatise; and as it is not probable that in this incarnation I shall have that leisure, and as other congregations desire information on these subjects, it seems best to let the sermons go forth with but little correction or addition. Occasional repetitions and colloquialisms will no dou'bt be found in the book, therefore; but I hope that it may nevertheless be not without some value to students of liberal Christianity, and indeed of religion in general.
 
 C.W.L.
+
+Source: https://archive.org/details/hiddensideofchri00leadrich
