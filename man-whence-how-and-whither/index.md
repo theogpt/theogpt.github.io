@@ -702,11 +702,11 @@ We have chosen two daughter civilisations which grew up in later days, far from 
 
 #### Две Цивилизации Атлантиды¹
 
-> ¹ The opening pages of this description of Ancient Peru, as given in The Theosophical Review, will be found in Appendix iii, with a brief statement of the circumstances under which it was originally written.
-
 ##### Толтекская цивилизация в древнем Перу, 12,000 лет до н.э.
 
 > _**Перевод этой главы взят из http://www.theosophy.ru/lib/cwl-civ.htm**_
+
+> ¹ The opening pages of this description of Ancient Peru, as given in The Theosophical Review, will be found in Appendix iii, with a brief statement of the circumstances under which it was originally written.
 
 Цивилизация Перу в XIII тысячелетии до н.э. столь близко напоминала Толтекскую Империю в её зените, что мы, поскольку тщательно исследовали этот период, используем его здесь как пример цивилизации атлантов. Египет и Индия в атлантский их период дали другие примеры, но в целом основные черты Толтекской Империи лучше всего были представлены в Перу описываемого нами периода. Правление было самодержавным — никакое иное правительство в те времена не было возможным.
 
