@@ -2,6 +2,10 @@ body {
   background-color: #ffc;
 }
 
+li {
+  list-style-type: none;
+}
+
 pre {
   font-family: inherit;
   font-style: italic;
