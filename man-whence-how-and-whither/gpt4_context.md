@@ -9,3 +9,4 @@ Prefer the following translations of special terms, unless context strongly impl
 - globe = сфера
 - master = учитель
 - lord = господь
+- deva = дэва
