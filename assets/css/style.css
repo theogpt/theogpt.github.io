@@ -2,9 +2,31 @@ body {
   background-color: #ffc;
 }
 
+h1:first-child:not([id]) {
+  display: none;
+}
+
+blockquote {
+  margin: 0;
+  font-size: 0.75em;
+}
+
+code {
+  font-family: normal;
+}
+
+ul {
+  padding-left: 0.5em;
+}
+
+li {
+  list-style-type: none;
+}
+
 pre {
   font-family: inherit;
   font-style: italic;
+  white-space: pre-wrap;
 }
 
 table {
