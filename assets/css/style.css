@@ -11,7 +11,11 @@ blockquote {
   font-size: 0.75em;
 }
 
-ul, ol {
+code {
+  font-family: normal;
+}
+
+ul {
   padding-left: 0.5em;
 }
 
