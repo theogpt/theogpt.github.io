@@ -10,7 +10,7 @@
 Книги на похожую тематику:
 
 - 1907 г., [Идиллия Белого Лотоса](idyll-of-white-lotus/index.md), М. Коллинз
-- 1958 г., [Роза Мира](http://rozamira.org/rm/htm), Д. Андреев
+- 1958 г., [Роза Мира](world-rose/index.md), Д. Андреев
 
  > **10/2023** Source: https://github.com/theogpt/theogpt.github.io
  
