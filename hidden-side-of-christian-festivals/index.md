@@ -16,13 +16,13 @@ Los Angeles : London : Sydney
 
 - Part I - The Festivals
   - Introduction: The Church's Year
-  - (Chapter I)[#chapter-i] — Advent
-  - (Chapter II)[#chapter-ii] — Christmas
-  - (Chapter III)[#chapter-iii] - New Year's Day
-  - (Chapter IV)[#chapter-iv] - The Epiphany
-  - (Chapter V)[#chapter-v] - The Baptism of Our Lord
-  - (Chapter VI)[#chapter-vi] — The Transfiguration
-  - (Chapter VII)[#chapter-vii] - Lent
+  - [Chapter I](#chapter-i) — Advent
+  - [Chapter II](#chapter-ii) — Christmas
+  - [Chapter III](#chapter-iii) - New Year's Day
+  - [Chapter IV](#chapter-iv) - The Epiphany
+  - [Chapter V](#chapter-v) - The Baptism of Our Lord
+  - [Chapter VI](#chapter-vi) — The Transfiguration
+  - [Chapter VII](#chapter-vii) - Lent
     - Our Attitude Towards Lent
     - The Sundays in Lent
       - Refreshment Sunday
@@ -32,44 +32,44 @@ Los Angeles : London : Sydney
       - Maundy Thursday
       - Good Friday
       - Holy Saturday
-  - (Chapter VIII)[#chapter-viii] - Easter
-  - (Chapter IX)[#chapter-ix] - Ascension Day
-  - (Chapter X)[#chapter-x] - Whitsun-Day
-  - (Chapter XI)[#chapter-xi] - Trinity Sunday
-  - (Chapter XII)[#chapter-xii] — Corpus Christi
-  - (Chapter XIII)[#chapter-xiii] - Feasts of our Lady
+  - [Chapter VIII](#chapter-viii) - Easter
+  - [Chapter IX](#chapter-ix) - Ascension Day
+  - [Chapter X](#chapter-x) - Whitsun-Day
+  - [Chapter XI](#chapter-xi) - Trinity Sunday
+  - [Chapter XII](#chapter-xii) — Corpus Christi
+  - [Chapter XIII](#chapter-xiii) - Feasts of our Lady
     - The Mother of Jesus
     - The Virgin Matter
     - The Feminine Aspect of the Deity
-  - (Chapter XIV)[#chapter-xiv] - The Festival of the Angels
+  - [Chapter XIV](#chapter-xiv) - The Festival of the Angels
     - The Higher Angels
     - The Lower Angels
-  - (Chapter XV)[#chapter-xv] - Festivals of the Saints
+  - [Chapter XV](#chapter-xv) - Festivals of the Saints
     - Our Attitude Towards the Saints
     - Patron Saints
-  - (Chapter XVI)[#chapter-xvi] - Brief Notes Upon Some of the Saints
+  - [Chapter XVI](#chapter-xvi) - Brief Notes Upon Some of the Saints
     - St. Alban
     - St. George
     - St. Patrick
     - St. Mark
-  - (Chapter XVII)[#chapter-xvii] - All Saints' Day
-  - (Chapter XVIII)[#chapter-xviii] - All Souls' Day
+  - [Chapter XVII](#chapter-xvii) - All Saints' Day
+  - [Chapter XVIII](#chapter-xviii) - All Souls' Day
 - Part II - Some Days of Special Interest
-  - (Chapter XIX)[#chapter-xix] - The Faith of Our Fathers
-  - (Chapter XX)[#chapter-xx] - Our Attitude Towards Life
-  - (Chapter XXI)[#chapter-xxi] - The Greatest of These
-  - (Chapter XXII)[#chapter-xxii] - Discernment
-  - (Chapter XXIII)[#chapter-xxiii] - Wisdom
-  - (Chapter XXIV)[#chapter-xxiv] - Self-Dedication
-  - (Chapter XXV)[#chapter-xxv] - Perseverance
-  - (Chapter XXVI)[#chapter-xxvi] - Good Works
-  - (Chapter XXVII)[#chapter-xxvii] - God as Light
-  - (Chapter XXVIII)[#chapter-xxviii] - Forethought
+  - [Chapter XIX](#chapter-xix) - The Faith of Our Fathers
+  - [Chapter XX](#chapter-xx) - Our Attitude Towards Life
+  - [Chapter XXI](#chapter-xxi) - The Greatest of These
+  - [Chapter XXII](#chapter-xxii) - Discernment
+  - [Chapter XXIII](#chapter-xxiii) - Wisdom
+  - [Chapter XXIV](#chapter-xxiv) - Self-Dedication
+  - [Chapter XXV](#chapter-xxv) - Perseverance
+  - [Chapter XXVI](#chapter-xxvi) - Good Works
+  - [Chapter XXVII](#chapter-xxvii) - God as Light
+  - [Chapter XXVIII](#chapter-xxviii) - Forethought
 - Part III - Addresses During the War
-  - (Chapter XXIX)[#chapter-xxix] — The Truth About the War
-  - (Chapter XXX)[#chapter-xxx] — On the Anniversary of the Outbreak of War
-  - (Chapter XXXI)[#chapter-xxxi] — On God's Side
-  - (Chapter XXXII)[#chapter-xxxii] — The Future
+  - [Chapter XXIX](#chapter-xxix) — The Truth About the War
+  - [Chapter XXX](#chapter-xxx) — On the Anniversary of the Outbreak of War
+  - [Chapter XXXI](#chapter-xxxi) — On God's Side
+  - [Chapter XXXII](#chapter-xxxii) — The Future
 
 ## Foreword
 
@@ -930,7 +930,7 @@ We are now at the end of the first division of the Church's year. We have follow
 
 FEASTS OF OUR LADY
 
-> This chapter looks identical to "World Mother As Symbol And Fact", by C.W.Leadbeater
+> This chapter looks identical to "World Mother As Symbol And Fact", by C.W. Leadbeater
 
 There is a vast amount of misconception connected with the subject of our Lady, the Blessed Virgin Mary, and also a great deal of ignorant prejudice about it. The Roman and Greek Churches hold her name in deep reverence, although many of their members know but little of the real meaning of the beautiful and poetic symbolism connected with that name. The Church of England has curtailed somewhat the reverence paid to her, while those Christians who do not belong to her communion usually hold that it is idolatrous to worship a woman — an attitude of mind which is merely the result of narrowness and ignorance.
 
