@@ -14,68 +14,62 @@ Los Angeles : London : Sydney
 
 ## Contents
 
-Part I - The Festivals
-
-- Foreword
-- Introduction: The Church's Year
-- Chapter 1 — Advent
-- Chapter II — Christmas
-- Chapter III - New Year's Day
-- Chapter IV - The Epiphany
-- Chapter V - The Baptism of Our Lord
-- Chapter VI — The Transfiguration
-- Chapter VII - Lent
-  - Our Attitude Towards Lent
-  - The Sundays in Lent
-    - Refreshment Sunday
-  - Holy Week
-  - The Services in Holy Week
-    - Palm Sunday
-    - Maundy Thursday
-    - Good Friday
-    - Holy Saturday
-- Chapter VIII - Easter
-- Chapter IX - Ascension Day
-- Chapter X - Whitsun-Day
-- Chapter XI - Trinity Sunday
-- Chapter XII — Corpus Christi
-- Chapter XIII - Feasts of our Lady
-  - The Mother of Jesus
-  - The Virgin Matter
-  - The Feminine Aspect of the Deity
-- Chapter XIV - The Festival of the Angels
-  - The Higher Angels
-  - The Lower Angels
-- Chapter XV - Festivals of the Saints
-  - Our Attitude Towards the Saints
-  - Patron Saints
-- Chapter XVI - Brief Notes Upon Some of the Saints
-  - St. Alban
-  - St. George
-  - St. Patrick
-  - St. Mark
-- Chapter XVII - All Saints' Day
-- Chapter XVIII - All Souls' Day
-
-Part II - Some Days of Special Interest
-
-- Chapter XIX - The Faith of Our Fathers
-- Chapter XX - Our Attitude Towards Life
-- Chapter XXI - The Greatest of These
-- Chapter XXII - Discernment
-- Chapter XXIII - Wisdom
-- Chapter XXIV - Self-Dedication
-- Chapter XXV - Perseverance
-- Chapter XXVI - Good Works
-- Chapter XXVII - God as Light
-- Chapter XXVIII - Forethought
-
-Part III - Addresses During the War
-
-- Chapter XXIX — The Truth About the War
-- Chapter XXX — On the Anniversary of the Outbreak of War
-- Chapter XXXI — On God's Side
-- Chapter XXXII — The Future
+- Part I - The Festivals
+  - Introduction: The Church's Year
+  - (Chapter I)[#chapter-i] — Advent
+  - (Chapter II)[#chapter-ii] — Christmas
+  - (Chapter III)[#chapter-iii] - New Year's Day
+  - (Chapter IV)[#chapter-iv] - The Epiphany
+  - (Chapter V)[#chapter-v] - The Baptism of Our Lord
+  - (Chapter VI)[#chapter-vi] — The Transfiguration
+  - (Chapter VII)[#chapter-vii] - Lent
+    - Our Attitude Towards Lent
+    - The Sundays in Lent
+      - Refreshment Sunday
+    - Holy Week
+    - The Services in Holy Week
+      - Palm Sunday
+      - Maundy Thursday
+      - Good Friday
+      - Holy Saturday
+  - (Chapter VIII)[#chapter-viii] - Easter
+  - (Chapter IX)[#chapter-ix] - Ascension Day
+  - (Chapter X)[#chapter-x] - Whitsun-Day
+  - (Chapter XI)[#chapter-xi] - Trinity Sunday
+  - (Chapter XII)[#chapter-xii] — Corpus Christi
+  - (Chapter XIII)[#chapter-xiii] - Feasts of our Lady
+    - The Mother of Jesus
+    - The Virgin Matter
+    - The Feminine Aspect of the Deity
+  - (Chapter XIV)[#chapter-xiv] - The Festival of the Angels
+    - The Higher Angels
+    - The Lower Angels
+  - (Chapter XV)[#chapter-xv] - Festivals of the Saints
+    - Our Attitude Towards the Saints
+    - Patron Saints
+  - (Chapter XVI)[#chapter-xvi] - Brief Notes Upon Some of the Saints
+    - St. Alban
+    - St. George
+    - St. Patrick
+    - St. Mark
+  - (Chapter XVII)[#chapter-xvii] - All Saints' Day
+  - (Chapter XVIII)[#chapter-xviii] - All Souls' Day
+- Part II - Some Days of Special Interest
+  - (Chapter XIX)[#chapter-xix] - The Faith of Our Fathers
+  - (Chapter XX)[#chapter-xx] - Our Attitude Towards Life
+  - (Chapter XXI)[#chapter-xxi] - The Greatest of These
+  - (Chapter XXII)[#chapter-xxii] - Discernment
+  - (Chapter XXIII)[#chapter-xxiii] - Wisdom
+  - (Chapter XXIV)[#chapter-xxiv] - Self-Dedication
+  - (Chapter XXV)[#chapter-xxv] - Perseverance
+  - (Chapter XXVI)[#chapter-xxvi] - Good Works
+  - (Chapter XXVII)[#chapter-xxvii] - God as Light
+  - (Chapter XXVIII)[#chapter-xxviii] - Forethought
+- Part III - Addresses During the War
+  - (Chapter XXIX)[#chapter-xxix] — The Truth About the War
+  - (Chapter XXX)[#chapter-xxx] — On the Anniversary of the Outbreak of War
+  - (Chapter XXXI)[#chapter-xxxi] — On God's Side
+  - (Chapter XXXII)[#chapter-xxxii] — The Future
 
 ## Foreword
 
@@ -87,7 +81,7 @@ C.W.L.
 
 ## Part I - The Festivals
 
-INTRODUCTION
+### INTRODUCTION
 
 THE CHURCH'S YEAR
 
@@ -117,7 +111,7 @@ Many of the events described as having happened in the last life of the Christ a
 
 The other group of festivals, being dependent upon Christmas, have fixed dates — the Annunciation on March 25th, Christmas Day itself, the festival of the Epiphany twelve days later, and the Presentation of Christ in the temple, which is commonly called Candlemas Day. There is little reason to suppose that any of these dates are historically correct, but they are arranged to be consistent one with another.
 
-CHAPTER I
+### Chapter I
 
 ADVENT
 
@@ -181,7 +175,7 @@ At the season of Advent we should have much in our minds the necessity of the qu
     Coming! O my glorious Priest,
       Hear we not Thy golden bells?
 
-CHAPTER II
+### Chapter II
 
 CHRISTMAS
 
@@ -326,7 +320,7 @@ It is a time of peace to men of goodwill, and surely at that time we all try to 
 
 So let Christmas enter into our hearts and into our souls, and let us try, everyone of us, to feel then what the Angels sang so long ago — first "glory to God in the highest," and then no less "peace on earth and goodwill to all men."
 
-CHAPTER III
+### Chapter III
 
 NEW YEAR'S DAY
 
@@ -380,7 +374,7 @@ Let that be one of our New Year thoughts — brotherly love and mutual comprehen
 
 So let each new year which opens before us be one of brotherly love and of mutual understanding. Let us learn to co-operate with other people, and we shall already have achieved a long step on the way to the final unity. Only in that way can we hope for truly happy New Years; not years without any sorrow, without any passing cloud, for that cannot be, nor indeed would such perhaps be truly happy years for us; but years in which we shall draw ever nearer to God, Who gives us these opportunities.
 
-CHAPTER IV
+### Chapter IV
 
 THE EPIPHANY
 
@@ -446,7 +440,7 @@ It is not for me to prescribe what each shall do; each man will do what he can i
 
 * See [Starlight](https://archive.org/details/starlightsevenad00lead), by C. W. Leadbeater
 
-CHAPTER V
+### Chapter V
 
 THE BAPTISM OF OUR LORD
 
@@ -498,7 +492,7 @@ That is why we should be educating and training ourselves to take due part in th
 
 Even now at our present stage we may have this much share in this second Initiation — that we may try to develop our minds; we may try to understand our religion intelligently. Let that then be for you the lesson of this festival. "We must be able to give a reason for the faith that is in us. We must try to understand what is meant by the teachings of our religion. All religions are the same, in that all alike teach us that the path of holiness is the only way to reach final perfection; but our especial line in Christianity is to try to develop ourselves by means of service to others, realizing the truth of the words which the Christ Himself uttered: "Inasmuch as ye have done it unto the least of these My little ones, ye have done it unto Me."
 
-CHAPTER VI
+### Chapter VI
 
 THE TRANSFIGURATION
 
@@ -540,7 +534,7 @@ This result appears when the new-born Christ is presented to the Father — that
 
 On the festival of the Presentation we begin our service in violet, to indicate the process of purification, because that is the colour which bears the purifying vibrations; but when the Christ comes into His Temple (which is symbolized by the carrying in of the Host, the vehicle, the vahan, of the Christ) we change our frontal and vestments to white to receive Him, and we light all the candles which have given to this festival the name of Candlemas Day, because Christ is the Light of the world. It is interesting to note that in the Church, precisely as in Freemasonry, a magnificent and stately ritual has been handed down through the centuries, with the most meticulous care that none of its highly significant details should be changed in the slightest degree. It is certain that in both cases those who so loyally fulfilled their charge had no conception of the real meaning of the ceremonies whose integrity they so carefully guarded; but as a result of their faithful service we are now able to interpret exactly the information which the original founders of these systems intended to convey to their followers.
 
-CHAPTEE VII
+### Chapter VII
 
 LENT
 
@@ -569,7 +563,7 @@ I have no sympathy with most of the hymns which are generally used in Lent. They
     And now within the temple walls
       Both priest and people weep.
 
-                Or
+Or
 
     Mercy, good Lord, mercy I ask
       This is my humble prayer;
@@ -741,7 +735,7 @@ It is the custom of the Roman Church to consecrate on this day the water that wi
 
 In ancient times the people spent the night of Holy Saturday in prayer and watching, and it was often during the night that the water in the font was blessed and that catechumens were baptized in readiness to share in the celebration of the Resur-rection at dawn. In preparation for all this, long discourses and scripture readings were given for the edification of the faithful. During the Middle Ages a tendency to anticipate liturgical events came increasingly and irresistibly into evidence, and now the Roman Church celebrates the Mass of the Resurrection as well as the blessing of the new fire and of the font on the Saturday morning. We in the Liberal Catholic rite have reverted to the older and surely* sounder usage of not celebrating the Mass of the Resurrection until Easter morning. The service of Vespers on Saturday is, of course, that of Easter itself, and consequently is in every way as grand as it can be made.
 
-CHAPTEE VIII
+### Chapter VIII
 
 EASTER
 
@@ -779,7 +773,7 @@ In His Resurrection is the earnest of our own. Because the Logos Himself has ent
 
 "We may or may not regard the bible allegory which is read to us at Easter as representing a historical occurrence on the physical plane; our people are entirely free to believe or disbelieve; but most of us hold that it embodies in symbolical form a great and mighty truth. Therefore is Easter for us a glorious festival; therefore we celebrate it in every way we can. Therefore have we a true joy in exchanging with one another the traditional Easter greeting. For just as on Christmas Day we wish one another a happy Christmas, so when the early Christians met one another on Easter Day one said to the other: ;'The Lord hath arisen/' and the reply, was: ''He is risen indeed." Not from an earthly grave, but from the grave of matter; risen in truth and in splendid reality — risen for evermore. So in his victory we triumph too, and in the joy of the Lord His Church rejoices also.
 
-CHAPTEK IX
+### Chapter IX
 
 ASCENSION DAY
 
@@ -795,7 +789,7 @@ We are not on this day celebrating the attainment of that level by any one man o
 
 And so very truly we shall rise with Him and with Him continually dwell; that will be true of all of us. May that time come soon, that in His Name and for His sake and by means of our unity with Him we may be able to spread to others the glorious gospel which He has taught, and the spiritual power which He pours forth through that gospel.
 
-CHAPTEK X
+### Chapter X
 
 WHITSUN-DAY
 
@@ -847,7 +841,7 @@ The altar-frontal and all the vestments on Whitsun-day are red, by order of the 
 
 In certain parts of the Church the Ascension and the festival of the Holy Ghost were celebrated on the same day, showing that it was recognized that the union of the Adept with the Holy Spirit is simultaneous with his attainment of the higher spheres, even though the outpouring with which he is thereby enabled to baptize his followers comes upon them a few days later.
 
-CHAPTEE XI
+### Chapter XI
 
 TRINITY SUNDAY
 
@@ -885,7 +879,7 @@ We have already seen that the mighty Solar Logos represents to us all that we me
 
 No words that we can use can accurately represent the relation one to another of these Aspects or Persons. Both those words are defective in expression. Person is derived from the Latin persona^ from sona, sound, and per, through — the mask through which the sound passes. It was the mask worn by the Roman actor; instead of having himself painted and prepared to represent a particular character, the actor in Roman plays just fitted a mask over his face. Often the same man had to take several parts in the one play, and to represent those different characters he would put on a mask appropriate to each and change his clothes to correspond. That mask was called the persona; and thus the word came to mean the character he was represent-ing at the time. So we speak of the Trinity as being three Persons; but neither the word Person nor Aspect is wholly satisfactory. We cannot expect to understand exactly so great a mystery, but we can see quite enough to show that we have here not a ridiculous idea, but a great and basic truth; and as we understand something of the meaning of the Trinity, above and below (in the unknown and unseen worlds, and in the worlds down here which we think we know) what was before merely a hard unintelligible dogma becomes a living and most illuminative truth. Only by the existence of the Trinity in man is human evolution intelligible, for we see how man evolves first the life of the intellect, and then the life of the Christ. On that fact mysticism is based, and our sure hope that we shall know God. Thus have the Saints taught, and as we tread the Path they show, we find that their testimony is true.
 
-CHAPTER XII
+### Chapter XII
 
 CORPUS CHRISTI
 
@@ -932,7 +926,7 @@ This process is followed in detail in the first volume of this series, The Scien
 
 We are now at the end of the first division of the Church's year. We have followed the great MysteryDrama of Initiation as typified by the life of the Christ from its inception to its close; we have celebrated the glorious mystery of the Holy Trinity and the wondrous Sacrament of the Love of Christ. Now we come to that second half of the year which is devoted mainly to putting into practice the lessons that we have learnt, to pouring out upon our brethren the power which we have developed within ourselves. To help us in our efforts by making them more precise and definite, we have in that later part of the year assigned to each Sunday some special intent which it seemed to us desirable to emphasize, composing or adapting a collect and selecting an epistle and a gospel more or less appropriate to that subject. Towards the end of this book some addresses enlarging upon a few of these intents will be given; but I should like first to comment upon certain festivals which we find that the Church has prescribed, not directly connected with the MysteryDrama, but nevertheless of considerable importance. Among them will be found several feasts of our Ladx, tne Blessed Virgin Mary, of the holy Angels and of various saints. We will begin with the feasts of the Blessed Virgin.
 
-CHAPTER XIII
+### Chapter XIII
 
 FEASTS OF OUR LADY
 
@@ -1075,7 +1069,7 @@ So that, both from the point of view of symbolism and from that of factf we have
     To crown all lowly, lofty brows
       With love and joy like thine.
 
-CHAPTER XIV
+### Chapter XIV
 
 THE FESTIVAL OF THE ANGELS
 
@@ -1229,7 +1223,7 @@ The world seems far from such a time as yet, but we can help to bring it nearer 
 
 I have mentioned but few of the numerous angelic activities; but I think that even this short account will be enough to show us that we have indeed great reason to glorify God for their ministry, to observe their festival with vivid enthusiasm, and to feel their splendour as an ever-present reality, enfolding us like the sunlight, ever drawing our thoughts and our hearts upwards towards Him Who is the King of Angels as well as of men.
 
-CHAPTER XV
+### Chapter XV
 
 FESTIVALS OF THE SAINTS
 
@@ -1277,7 +1271,7 @@ That is what we gain from him, and we owe him most emphatically our gratitude an
 
 Therefore it is not worship that we offer to our patron saint, but we recognize his kindly help, and we are grateful for it. We recognize that he stands on one of the great Rays, and on his Day we specially decorate the shrine of that Ray in honour of him. So what we feel to him is love and gratitude. Let us all join therefore in blessing God for the help that our patron saint has given us, and for the noble example he has set before us.
 
-CHAPTER XVI
+### Chapter XVI
 
 BRIEF NOTES UPON SOME OF THE SAINTS
 
@@ -1347,7 +1341,7 @@ ST. MARK
 
 As is the case with so many of these bible heroes, we do not know much about St. Mark. We are told that he was the cousin of Barnabas, a character of whom we read a good deal in the Acts of the Apostles, and it is also the tradition that he was a nephew of St. Peter. It seems at any rate certain that his mother, Mary, was a woman of considerable distinction in Jerusalem, and that at her house the early Christians used to hold meetings for quite a long time. St. Mark founded the Church at Alexandria, and that is perhaps one reason why he came forward so prominently and is credited with the writing of a gospel. It is as usual not at all certain that he had anything to do with the gospel which is attributed to him. These gospels were written in the city of Alexandria, a good deal later than the date usually assigned to them, and it is very natural that one which is supposed to be the earliest should be attributed to one of the Founders of the Church, who is spoken of as the interpreter of St. Peter. He is reported by tradition to have written his gospel in Rome from Peter's dictation. That is not likely, but it is believed by the highest critics that St. Mark's is the earliest of the gospels, with the exception of the alleged Hebrew original of St. Matthew, about which very little is known because there are no copies extant. St. Mark's symbol is a lion, and those who have had the privilege of visiting his city, Venice, will remember that the great cathedral there is dedicated to him, and in the piazza in front of it is the Lion of St. Mark, set upon a tall column.
 
-CHAPTER XVII
+### Chapter XVII
 
 ALL SAINTS' DAY
 
@@ -1385,7 +1379,7 @@ The feebleness and insufficiency of all these symbolical expressions must not bl
 
 Be very sure that as the Christ Himself exists, as the Hierarchy of His holy Angels exists, so also exists the Great White Brotherhood, the Communion of the Saints. Well may we thank God at this great festival for the example, the encouragement and the help of these glorious ones; may we so follow them in all virtuous and godly living that to us also may soon come the ineffable happiness of being conscious channels of His eternal love.
 
-CHAPTER XVIII
+### Chapter XVIII
 
 ALL SOULS' DAY
 
