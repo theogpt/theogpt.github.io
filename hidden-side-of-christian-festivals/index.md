@@ -1,18 +1,20 @@
-# THE HIDDEN SIDE OF CHRISTIAN FESTIVALS
+# The Hidden Side of Christian Festivals
 
 > Source: https://archive.org/details/hiddensideofchri00leadrich
 
-CHARLES W. LEADBEATER
+Charles W. Leadbeater
 
 Regionary Bishop of The Liberal Catholic Church for Australasia
 
-THE ST. ALBAN PRESS Los Angeles : London : Sydney
+The St. Alban Press
+
+Los Angeles : London : Sydney
 
 1920
 
-## CONTENTS
+## Contents
 
-PART ONE - The Festivals
+Part I - The Festivals
 
 - Foreword
 - Introduction: The Church's Year
@@ -55,7 +57,7 @@ PART ONE - The Festivals
 - Chapter XVII - All Saints' Day
 - Chapter XVIII - All Souls' Day
 
-PART TWO - Some Days of Special Interest
+Part II - Some Days of Special Interest
 
 - Chapter XIX - The Faith of Our Fathers
 - Chapter XX - Our Attitude Towards Life
@@ -68,14 +70,14 @@ PART TWO - Some Days of Special Interest
 - Chapter XXVII - God as Light
 - Chapter XXVIII - Forethought
 
-PART THREE - Addresses During the War
+Part III - Addresses During the War
 
 - Chapter XXIX — The Truth About the War
 - Chapter XXX — On the Anniversary of the Outbreak of War
 - Chapter XXXI — On God's Side
 - Chapter XXXII — The Future
 
-## FOREWORD
+## Foreword
 
 These notes on the Church's Year were originally intended to be a chapter in the first volume of this series, The Science of the Sacraments. It was found, however, that that book was already becoming unwieldy, and that there was more to be said about the ecclesiastical year than could be compressed into a single chapter; so it seemed best to devote a separate volume to its consideration. This has also made it possible to add to it a few miscellaneous addresses on points of importance.
 
@@ -83,7 +85,7 @@ The book is to a large extent the reproduction of a series of sermons given for 
 
 C.W.L.
 
-## PART ONE - The Festivals
+## Part I - The Festivals
 
 INTRODUCTION
 
@@ -1444,6 +1446,6 @@ Whatever may be the condition of the dead man, the force we send will reach him 
 
 We are all brethren, we can all help one another; we can aid them, as they can aid us, by kindly thought and loving memory. Let us then not neglect the special opportunity given to us by the Church on All Souls' Day to draw closer the bonds between the seen and the unseen.
 
-## PART TWO - SOME DAYS OF SPECIAL INTENT
+## Part II - Some Days of Special Interest
 
 ...
