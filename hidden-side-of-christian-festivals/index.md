@@ -1,7 +1,5 @@
 # The Hidden Side of Christian Festivals
 
-> Source: https://archive.org/details/hiddensideofchri00leadrich
-
 Charles W. Leadbeater
 
 Regionary Bishop of The Liberal Catholic Church for Australasia
@@ -11,6 +9,8 @@ The St. Alban Press
 Los Angeles : London : Sydney
 
 1920
+
+> Source: https://archive.org/details/hiddensideofchri00leadrich
 
 ## Contents
 
@@ -749,9 +749,7 @@ The festivals of the Church are divided into several classes according to their 
 
 The word Easter is derived from Eostre, which is the name of the Anglo-Saxon goddess of Spring; there is a further derivation beyond that, because Eostre is only another form of Ishtar, Ashtaroth or Astarte, the Queen of Heaven, and even that in turn, if we go far enough back, comes from the Sanskrit Us, which means light; the word from which springs the title Ushas, the dawn maidens of the Vedas. So fundamentally Easter is the great festival of light — of the rising again of the Light of the World.
 
-All the symbology of our evolution centres round the fountain and origin of that evolution — the Solar Deity, Who in the Greek philosophy was called the Logos of our system. Logos means "Word"; it is the Greek term used in the well-known and most beautiful text: "In the beginning was the Word.
-
-and the Word was with God, and the Word was God." Let us try to understand a little of what these words meant to their writer. Modern Christian belief has become largely material and nonphilosophical, chiefly, as I have stated, because of its most unfortunate and persistent confusion of the very personal Jewish tribal deity Jehovah with the Supreme First Cause of all. Those who hold to that illogical confusion think of God as a Father, but a savage and tyrannical Father, jealous and cruel beyond all earthly experience, capriciously creating one man healthy and another full of fell disease from his very birth, throwing one man at birth into the lap of affluence and another into grinding poverty, and capable of casting either or both of these men into everlasting torture after death if they will not do violence to the intellect with which He has endowed them by pretending to believe certain incredible stories.
+All the symbology of our evolution centres round the fountain and origin of that evolution — the Solar Deity, Who in the Greek philosophy was called the Logos of our system. Logos means "Word"; it is the Greek term used in the well-known and most beautiful text: "In the beginning was the Word, and the Word was with God, and the Word was God." Let us try to understand a little of what these words meant to their writer. Modern Christian belief has become largely material and nonphilosophical, chiefly, as I have stated, because of its most unfortunate and persistent confusion of the very personal Jewish tribal deity Jehovah with the Supreme First Cause of all. Those who hold to that illogical confusion think of God as a Father, but a savage and tyrannical Father, jealous and cruel beyond all earthly experience, capriciously creating one man healthy and another full of fell disease from his very birth, throwing one man at birth into the lap of affluence and another into grinding poverty, and capable of casting either or both of these men into everlasting torture after death if they will not do violence to the intellect with which He has endowed them by pretending to believe certain incredible stories.
 
 It is indeed most true that no man can comprehend God; but we can at least form a more intelligent conception of Him than this, and the first step towards such a conception is to recognize that He has many manifestations. Of the Absolute, the Infinite, the All-embracing, we can at our present stage know nothing, except that He is; we can say nothing that is not a limitation, and therefore inaccurate. But in Him are innumerable universes; in each universe millions of solar systems. Each solar system is the expression of a mighty Being Whom we call the Solar Deity, the Logos, the Word or expression of that infinite God. This Solar Deity is to His system all that men mean by the title God. He permeates it; there is nothing in it which is not He; it is the manifestation of Him in such matter as we can see. Yet He exists above it and outside it as well, living a stupendous life of His own among His Peers. As is said in a scripture older than ours : "Having permeated this whole universe with one fragment of Myself, I remain. "
 
