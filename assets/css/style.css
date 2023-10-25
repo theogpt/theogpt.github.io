@@ -6,6 +6,14 @@ p {
   text-indent: 1em;
 }
 
+a {
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
 h1:first-child:not([id]) {
   display: none;
 }

@@ -14,7 +14,7 @@ Los Angeles : London : Sydney
 
 ## Contents
 
-- Part I - The Festivals
+- **Part I - The Festivals**
   - Introduction: The Church's Year
   - [Chapter I](#chapter-i) — Advent
   - [Chapter II](#chapter-ii) — Christmas
@@ -54,7 +54,7 @@ Los Angeles : London : Sydney
     - St. Mark
   - [Chapter XVII](#chapter-xvii) - All Saints' Day
   - [Chapter XVIII](#chapter-xviii) - All Souls' Day
-- Part II - Some Days of Special Interest
+- **Part II - Some Days of Special Interest**
   - [Chapter XIX](#chapter-xix) - The Faith of Our Fathers
   - [Chapter XX](#chapter-xx) - Our Attitude Towards Life
   - [Chapter XXI](#chapter-xxi) - The Greatest of These
@@ -65,7 +65,7 @@ Los Angeles : London : Sydney
   - [Chapter XXVI](#chapter-xxvi) - Good Works
   - [Chapter XXVII](#chapter-xxvii) - God as Light
   - [Chapter XXVIII](#chapter-xxviii) - Forethought
-- Part III - Addresses During the War
+- **Part III - Addresses During the War**
   - [Chapter XXIX](#chapter-xxix) — The Truth About the War
   - [Chapter XXX](#chapter-xxx) — On the Anniversary of the Outbreak of War
   - [Chapter XXXI](#chapter-xxxi) — On God's Side
