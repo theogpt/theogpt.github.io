@@ -1,5 +1,6 @@
 # Переводы
 
+- 1917 г., [Starlight](https://archive.org/details/starlightsevenad00lead), by C. W. Leadbeater
 - 1920 г., [Наука Священнодействий](science-of-sacraments/index.md), Ч. Ледбитер
 - 1920 г., _The Hidden Side of Christian Festivals_, Ч. Ледбитер
 - 1920 г., [Великая Война](the-great-war/index.md), Ч. Ледбитер
@@ -12,5 +13,5 @@
 - 1907 г., [Идиллия Белого Лотоса](idyll-of-white-lotus/index.md), М. Коллинз
 - 1958 г., [Роза Мира](world-rose/index.md), Д. Андреев
 
- > **10/2023** Source: https://github.com/theogpt/theogpt.github.io
+ > 10/2023; source: https://github.com/theogpt/theogpt.github.io
  
