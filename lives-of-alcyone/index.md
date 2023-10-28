@@ -193,16 +193,33 @@ Following list of characters, with the explanation of them, is taken (barring mo
 
 Some of the Characters in the Story:
 
-    Четыре кумары  -- Четыре Господа Огня, по-прежнему проживающие в Шамбале.     Махагуру  -- Бодхисаттва своего времени, проявляющийся как Вьяса, Тот (Гермес), Заратустра, Орфей, и как Гаутама, который стал Господом Буддой.     Сурия  -- Господь Майтрея, нынешний Бодхисаттва, Верховный Учитель мира.     Ману  -- Глава Коренной Расы. Если с приставкой, Коренной-Ману или Семенной-Ману, еще более высокий Официальный, президирующий над более крупным циклом эволюции - Кругом или Цепью. Титул Вайвасвата в индийских книгах дают как Коренному-Ману нашей Цепи и Ману Арийской, или пятой, Коренной Расы.     Вираж  -- Маха-Чохан, высокая должность, равная Ману или Бодхисаттве.     Сатурн  -- Ныне Учитель, о котором упоминается в некоторых теософских книгах как'Венецианец'.     Юпитер  -- Ныне Учитель, проживающий в холмах Нильгири.     Марс  -- Ныне Учитель М. Оккультного мира.     Меркурий  -- Ныне Учитель K.Х. Оккультного мира.     Нептун  -- Ныне Учитель Илларион.     Осирис  -- Ныне Учитель Серапис.     Брихаспати  -- Ныне Учитель Иисус.     Венера  -- Ныне Учитель Рагозци (или Раковский),'Венгерский Адепт', граф Сен-Жермен XVIII века.     Уран  -- Ныне Учитель Д.K.     Вулкан  -- Ныне Учитель, известный в своей последней земной жизни как сэр Томас Мур.     Афина  -- Ныне Учитель, известный на Земле как Томас Вон,'Евгений Филателист'.
+    Четыре кумары  -- Четыре Господа Огня, по-прежнему проживающие в Шамбале.
+    Махагуру  -- Бодхисаттва своего времени, проявляющийся как Вьяса, Тот (Гермес), Заратустра, Орфей, и как Гаутама, который стал Господом Буддой.
+    Сурия  -- Господь Майтрея, нынешний Бодхисаттва, Верховный Учитель мира.
+    Ману  -- Глава Коренной Расы. Если с приставкой, Коренной-Ману или Семенной-Ману, еще более высокий Официальный, президирующий над более крупным циклом эволюции - Кругом или Цепью. Титул Вайвасвата в индийских книгах дают как Коренному-Ману нашей Цепи и Ману Арийской, или пятой, Коренной Расы.
+    Вираж  -- Маха-Чохан, высокая должность, равная Ману или Бодхисаттве.
+    Сатурн  -- Ныне Учитель, о котором упоминается в некоторых теософских книгах как 'Венецианец'.
+    Юпитер  -- Ныне Учитель, проживающий в холмах Нильгири.
+    Марс  -- Ныне Учитель М. Оккультного мира.
+    Меркурий  -- Ныне Учитель K.Х. Оккультного мира.
+    Нептун  -- Ныне Учитель Илларион.
+    Осирис  -- Ныне Учитель Серапис.
+    Брихаспати  -- Ныне Учитель Иисус.
+    Венера  -- Ныне Учитель Рагозци (или Раковский), 'Венгерский Адепт', граф Сен-Жермен XVIII века.
+    Уран  -- Ныне Учитель Д.K.
+    Вулкан  -- Ныне Учитель, известный в своей последней земной жизни как сэр Томас Мур.
+    Афина  -- Ныне Учитель, известный на Земле как Томас Вон, 'Евгений Филателист'.
     Альба  -- Этель Уайт
-    Альбирео  -- Мария-Луиза Кирби     Алкион  -- Дж. Кришнамурти
+    Альбирео  -- Мария-Луиза Кирби
+    Алкион  -- Дж. Кришнамурти
     Алетея  -- Джон ван Манен
     Альтаир  -- Герберт Уайт
     Аркор  -- A. J. Wilson
     Аврора  -- Граф Бубна-Лицич
     Капелла  -- S. Мод Шарп
     Корона  -- Юлий Цезарь
-    Крукс  -- Почетный Отвей Каффе     Денеб  -- Лорд Кокрейн (Десятый граф Дандональд)
+    Крукс  -- Почетный Отвей Каффе
+    Денеб  -- Лорд Кокрейн (Десятый граф Дандональд)
     Евдоксия  -- Луиза Шоу
     Fides  -- G. S. Arundale
     Gemini   -- E. Мод Грин
@@ -216,7 +233,8 @@ Some of the Characters in the Story:
     Мира  -- Карл Холбрук
     Мизар  -- Я. Нитьянанда
     Мона  -- Пит Мёльман
-    Норма  -- Маргарита Русполи     Олимпия  -- Дамодар K. Маваланкар
+    Норма  -- Маргарита Русполи
+    Олимпия  -- Дамодар K. Маваланкар
     Паллас  -- Платон
     Фоцея  -- W. Q. Judge
     Феникс  -- Т. Паскаль
@@ -225,38 +243,19 @@ Some of the Characters in the Story:
     Селена  -- C. Джинараджадаса
     Сириус  -- C. W. Ледбитер
     Сива  -- Т. Субба Рао
-    Спика  -- Франческа Арундейл     Таурус  -- Джером Андерсон
+    Спика  -- Франческа Арундейл
+    Таурус  -- Джером Андерсон
     Улисс  -- H. S. Олькотт
-    Ваджра  -- H. P. Блаватская     Веста  -- Минни С. Холбрук
+    Ваджра  -- H. P. Блаватская
+    Веста  -- Минни С. Холбрук
 
 ## Notes on the Charts
 
 The charts of dramatis personae are arranged on the usual plan of a genealogical tree, except that successive generations are placed side by side in columns instead of under one another. The oldest generation is therefore to be found at the left hand side of the page, and the children of any given couple are joined together by a bracket. The generations may be followed from page to page by the numbers at the top of the columns, like the trains in a railway timetable. It often happens that one family may extend to more than one page; for example, in Chart 1, Jupiter and Saturn have five sons whose descendents occupy the whole of pages {21} and{ 22}. This is shown to the reader by the fact that the bracket including their family does not end on page 21, but is obviously broken off in order to continue on page 22. Male incarnations are printed in ordinary Roman type, and female in Italics. When any of the children marry, the husband (or wife) is inserted either after the child on the same line separated by a dash, or under the child, but somewhat to the right—the new couple acting as centre for a bracket in the next column to the right, which contains their children if any. For example:
 
-Herakles
+![](dia0.png)
 
-Leo--Norma
-
---Apollo
-
-Albirio--Hector
-
-Sirius
-Alcyone
-
--- Electra
-
---Mizar
-Fides
-
-Aquilla--Cassio
-
---Spica
-
-Mira--Rigel
-
-Capella
---Euphra would indicate that Alcyone married a wife Mizar, and had four children—two sons, Herakles and Fides, and two daughters, Sirius and Capella. Herakles in due course took Apollo as wife and had a son Leo( who married Norma) and a daughter Albireo, who espoused Hector. Alcyone's second son Fides married Spica, and had a daughter Aquila ( who bestowed her hand upon Cassio) and a son Mira, who married a young lady named Rigel. Alcyone's two daughters also married, Sirius being espoused by Electra, and Capella by Euphra; but their families, if any will be found in another part of the chart as the children are always put under the father, when he belongs to any of the families entered in the chart. To find the children of Elecrta and Sirius, therefore, it is necessary to search for their father Electra, who will be found elsewhere in same column, along with his family. When a character marries ( as nearly all of them do) his name appears twice in the chart—once in his own family, and once in that family into which he marries; but the offspring of the marriage are entered as belonging to the father's family only, to avoid unnecessary repetition.
+would indicate that Alcyone married a wife Mizar, and had four children—two sons, Herakles and Fides, and two daughters, Sirius and Capella. Herakles in due course took Apollo as wife and had a son Leo( who married Norma) and a daughter Albireo, who espoused Hector. Alcyone's second son Fides married Spica, and had a daughter Aquila ( who bestowed her hand upon Cassio) and a son Mira, who married a young lady named Rigel. Alcyone's two daughters also married, Sirius being espoused by Electra, and Capella by Euphra; but their families, if any will be found in another part of the chart as the children are always put under the father, when he belongs to any of the families entered in the chart. To find the children of Elecrta and Sirius, therefore, it is necessary to search for their father Electra, who will be found elsewhere in same column, along with his family. When a character marries ( as nearly all of them do) his name appears twice in the chart—once in his own family, and once in that family into which he marries; but the offspring of the marriage are entered as belonging to the father's family only, to avoid unnecessary repetition.
 
 For the purpose of printing, it has been found desirable to shorten many of the longer names which were at first given, but they will in most cases still be recognisable to those who knew them in their older form. Two or three have been changed entirely in order to avoid co nfusion between similar contractions.
 
@@ -268,15 +267,17 @@ A column for remarks is usually added, but there is no room to reproduce that.
 
 Ledger of The Lives of Alcyone:
 
+![](led1.png)
+
+![](led2.png)
+
+![](led3.png)
+
 ## Life I
 
 The work of the Band of Servers has perhaps rarely been more arduous than it was in the early days of the Fifth Root Race.
 
-Those who have read Man : Whence, How and Whither, will remember how the great Lord Vaivasvata Manu led forth His selected band from Atlantis before the great catastrophe of 75,025 BC, and moved them first to Arabia and then after long trial there, to the shores of the Gobi Sea in Central Asia. Slowly, very slowly and gradually, he made his dispositions as befitted one who works for the far-distant future, who moves nations like pawns upon the board, who has centuries before Him for His combinations.
-
-The White
-
-Island of Shamballa was even then the centre from which He operated, though the great city whose streets radiated from it like the spokes a wheel was not to be built for thousands of years yet.
+Those who have read Man : Whence, How and Whither, will remember how the great Lord Vaivasvata Manu led forth His selected band from Atlantis before the great catastrophe of 75,025 BC, and moved them first to Arabia and then after long trial there, to the shores of the Gobi Sea in Central Asia. Slowly, very slowly and gradually, he made his dispositions as befitted one who works for the far-distant future, who moves nations like pawns upon the board, who has centuries before Him for His combinations. The White Island of Shamballa was even then the centre from which He operated, though the great city whose streets radiated from it like the spokes a wheel was not to be built for thousands of years yet.
 
 At the period when our history opens -- in round numbers seventy thousand years before Christ -- the community numbered perhaps seven or eight thousand people, living in several villages along the southern shore of the inland sea. The Manu as King lived upon the island and was rarely seen on the mainland, which was governed on His behalf by his son Jupiter. The scheme of government was largely patriarchal, and the five sons of Jupiter all bore their part in it under Him. His eldest son, Mars, ruled one of the villages, and had built for himself there upon a little hill a large and pleasant house surrounded by great trees and wide lawns upon which he gathered together his villagers when he desired to address them or to promulgate his laws.
 
@@ -298,21 +299,27 @@ Capella—the youngest sister of Herakles, and little more than a child herself�
 
 As soon as the children were safely settled upon the island, the destruction which the Manu had foreseen fell upon the villages upon the mainland.
 
-The
+The Turanian hordes swept down in overwhelming numbers upon the Aryans and after a brave and most determined resistance massacred the entire colony. By order of the Manu all articles of value had been buried so that the savages could not find them, so that the victory which cost them so dear proved absolutely barren; their traditional fears prevented them from making any attack upon the White Island; and as a bare moiety of their army, spiritless, bootyless, mutinous, crossed on its way home the desert to the north of the Gobi Sea, a terrible sandstorm arose which suffocated whole regiments of them, so that only a shattered and panic- stricken fragment of the mighty host ever reached again the plains of Tartary, and for some thousands of years the salutary lesson was remembered, and the Aryan colony was left in peace.
 
-Turanian hordes swept down in overwhelming numbers upon the Aryans and after a brave and most determined resistance massacred the entire colony. By order of the Manu all articles of value had been buried so that the savages could not find them, so that the victory which cost them so dear proved absolutely barren; their traditional fears prevented them from making any attack upon the White Island; and as a bare moiety of their army, spiritless, bootyless, mutinous, crossed on its way home the desert to the north of the Gobi Sea, a terrible sandstorm arose which suffocated whole regiments of them, so that only a shattered and panic- stricken fragment of the mighty host ever reached again the plains of Tartary, and for some thousands of years the salutary lesson was remembered, and the Aryan colony was left in peace.
+It is interesting to note how absolutely the Manu looks upon everything that happens only from the point of view of the plan as a whole. The Massacre of His new race is to Him by no means a matter of regret; it is a necessary part of the scheme; and He so explains this to His followers that they account it as honour to cooperate in the work. We observe, not only on this but on many other occasions, that physical death is not regarded by the Great Ones at all as it usually is in the outer world. Our modern tendency is to consider it as the greatest of all evils, to inflict it as the ultimate punishment; those Leaders, who know so much more than we, account it merely as an incident in the work which is being done, or sometimes as a reward for a piece of work well performed. Well indeed would it be for us if we could acquire this attitude of the Masters of the Wisdom, if we could' watch with larger eyes' and see the truth which lies behind the illusory outer appearance. Then we should repose in utter trust upon the wisdom of the Power divine, knowing that
 
-It is interesting to note how absolutely the Manu looks upon everything that happens only from the point of view of the plan as a whole. The Massacre of His new race is to Him by no means a matter of regret; it is a necessary part of the scheme; and He so explains this to His followers that they account it as honour to cooperate in the work. We observe, not only on this but on many other occasions, that physical death is not regarded by the Great Ones at all as it usually is in the outer world. Our modern tendency is to consider it as the greatest of all evils, to inflict it as the ultimate punishment; those Leaders, who know so much more than we, account it merely as an incident in the work which is being done, or sometimes as a reward for a piece of work well performed. Well indeed would it be for us if we could acquire this attitude of the Masters of the Wisdom, if we could' watch with larger eyes'
+    It slayeth and it saveth, nowise moved
+      Except unto the working out of the doom;
+    Its threads are Love and Life; and Death and Pain
+      The shuttles of its loom.
 
-and see the truth which lies behind the illusory outer appearance. Then we should repose in utter trust upon the wisdom of the Power divine,
-knowing that
-It slayeth and it saveth, nowise moved Except unto the working out of the doom; Its threads are Love and Life; and Death and Pain
-The shuttles of its loom.
+    It maketh and unmaketh mending all;
+      What it hath wrought is better than had been;
+    Slow grows the splendid pattern that it plans
+      Its wistful hands between.
 
-It maketh and unmaketh mending all; What it hath wrought is better than had been; Slow grows the splendid pattern that it plans
-Its wistful hands between.
+Chart I - The Gobi Sea - Circa 70,000 B.C.
 
-Chart I
+![](chart-i-1.png)
+
+![](chart-i-2.png)
+
+![](chart-i-3.png)
 
 ## Life II
 
