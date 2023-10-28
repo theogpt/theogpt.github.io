@@ -167,9 +167,7 @@ Theosophist.
 
 In the course of a different series of researches made in connection with the founding of the sub- races, we discovered the group of Servers already in existence at earlier periods of history; we came across them as far back as 70,000 BC, and again at 60,000, at 42,000, at 40,000, at 38,000 and 32,000. As our previous inquiries had taken us as far back as 22,600, it seemed worthwhile to carry them ten thousand years further; so that we have now some record of 42 consecutive incarnations of Alcyone, besides a few glimpses from more remote ages.
 
-The hero of this set of lives which we lay before our readers, to whom we have given the name of the star Alcyone, belongs to a type or a ship-load who take between births an average interval of about eight hundred years. He does not take the sub-races in regular order, but devotes himself chiefly to the first sub-race of the fifth root-race--at first in its home by the Gobi Sea, then taking part in several of its migrations to the plains of India, and afterwards incarnating whenever possible in that strange ancient land of beauty and of mystery. A considerable proportion of the lives which we have so far examined have been spent on the historic soil of India; yet as they have brought him to the gateway of the Path of Holiness, it is manifest that this devotion to one sacred Motherland has in no way delayed his development. Let his lives be studied that his foot steps may be followed; let the reader see from them what qualities are necessary for the attainment of that Path, so that he also in his turn may' enter upon the stream'
-
-as Alcyone has done and may be numbered among those who are safe for ever -- whose destiny is to devote themselves to the service of humanity.
+The hero of this set of lives which we lay before our readers, to whom we have given the name of the star Alcyone, belongs to a type or a ship-load who take between births an average interval of about eight hundred years. He does not take the sub-races in regular order, but devotes himself chiefly to the first sub-race of the fifth root-race--at first in its home by the Gobi Sea, then taking part in several of its migrations to the plains of India, and afterwards incarnating whenever possible in that strange ancient land of beauty and of mystery. A considerable proportion of the lives which we have so far examined have been spent on the historic soil of India; yet as they have brought him to the gateway of the Path of Holiness, it is manifest that this devotion to one sacred Motherland has in no way delayed his development. Let his lives be studied that his foot steps may be followed; let the reader see from them what qualities are necessary for the attainment of that Path, so that he also in his turn may' enter upon the stream' as Alcyone has done and may be numbered among those who are safe for ever -- whose destiny is to devote themselves to the service of humanity.
 
 In these lives certain qualities may be seen developing, certain relations may be watched strengthening themselves, and these should be studied as pointing to the goal set before himself by the Monad. For similar qualities and similar relations have to be developed and formed by each-- by some earlier, because they started earlier, by others later because they started later. They may help some to realise that it is now as it was in the beginning, and that the door is open as of old, the Path is trodden as of yore.
 
@@ -183,7 +181,7 @@ When past lives are discussed, men often ask how it is possible at so great dist
 
 These accounts of the past are not printed merely as good stories -though they are often that--but as lessons in the working of karma life after life, full of instruction for the student and helpful for the realisation of the continuity of human life. It must however be remembered in reading them that the deeper causes too often lie out of sight, and that in recording a life story there is inevitably too much of action, too little of thought and feeling. Yet thought and feeling are far more potent as generating causes then our actions, for actions are the embodiment of past thoughts and feelings more than generators of the future. The motive of the action is more far reaching than the action, yet it is often deeply hidden, while the action saute aux yeux.
 
-Despite this, much of the workings of karma may be learned by a study of a series of lives; we see the inter relations of individuals, the results of benefits and injuries, the links that draw the egos together, the repulsions that drive them apart, life after life. We notice the epochs in which great groups of related egos are formed, there scattering for centuries, millennia, their reunions and fresh scatterings. And out of the whole grows a sense of security, of an ever-ruling guidance, of Wisdom that plans, of Power that executes, of the certain workingout of a great purpose,of agents chosen, tested, accepted or dropped, opportunities offered, utilised, rejected, of a sure onward evolution amid complexity of ebbs and flows. A single life is seen into proportion, preceded and succeeded by many others. A feeling of strength and dignity grows within the reader as he thinks:"I too have a long past stretching behind me, I too a vast future stretching in front."The troubles of the present lose their seriousness when seen in the light of immortality; successes and failures become passing incidents in a long panorama; birth and death—how often have they been experienced! He realises the profound truth voiced by Shri Krishna that since the Dweller in the body ever cast away outworn bodies and ever reclothed himself in new,"therefore, O son of Kunti, thou shouldest not grieve."
+Despite this, much of the workings of karma may be learned by a study of a series of lives; we see the inter relations of individuals, the results of benefits and injuries, the links that draw the egos together, the repulsions that drive them apart, life after life. We notice the epochs in which great groups of related egos are formed, there scattering for centuries, millennia, their reunions and fresh scatterings. And out of the whole grows a sense of security, of an ever-ruling guidance, of Wisdom that plans, of Power that executes, of the certain workingout of a great purpose,of agents chosen, tested, accepted or dropped, opportunities offered, utilised, rejected, of a sure onward evolution amid complexity of ebbs and flows. A single life is seen into proportion, preceded and succeeded by many others. A feeling of strength and dignity grows within the reader as he thinks: "I too have a long past stretching behind me, I too a vast future stretching in front."The troubles of the present lose their seriousness when seen in the light of immortality; successes and failures become passing incidents in a long panorama; birth and death—how often have they been experienced! He realises the profound truth voiced by Shri Krishna that since the Dweller in the body ever cast away outworn bodies and ever reclothed himself in new,"therefore, O son of Kunti, thou shouldest not grieve."
 
 Such help we trust to put in the way of our readers by the publication of this series of lives. May they find it a strong staff in the days of trouble, and a torch throwing light upon the tangled pathway of life!
 
@@ -253,9 +251,7 @@ Some of the Characters in the Story:
 
 The charts of dramatis personae are arranged on the usual plan of a genealogical tree, except that successive generations are placed side by side in columns instead of under one another. The oldest generation is therefore to be found at the left hand side of the page, and the children of any given couple are joined together by a bracket. The generations may be followed from page to page by the numbers at the top of the columns, like the trains in a railway timetable. It often happens that one family may extend to more than one page; for example, in Chart 1, Jupiter and Saturn have five sons whose descendents occupy the whole of pages {21} and{ 22}. This is shown to the reader by the fact that the bracket including their family does not end on page 21, but is obviously broken off in order to continue on page 22. Male incarnations are printed in ordinary Roman type, and female in Italics. When any of the children marry, the husband (or wife) is inserted either after the child on the same line separated by a dash, or under the child, but somewhat to the right—the new couple acting as centre for a bracket in the next column to the right, which contains their children if any. For example:
 
-![](dia0.png)
-
-would indicate that Alcyone married a wife Mizar, and had four children—two sons, Herakles and Fides, and two daughters, Sirius and Capella. Herakles in due course took Apollo as wife and had a son Leo( who married Norma) and a daughter Albireo, who espoused Hector. Alcyone's second son Fides married Spica, and had a daughter Aquila ( who bestowed her hand upon Cassio) and a son Mira, who married a young lady named Rigel. Alcyone's two daughters also married, Sirius being espoused by Electra, and Capella by Euphra; but their families, if any will be found in another part of the chart as the children are always put under the father, when he belongs to any of the families entered in the chart. To find the children of Elecrta and Sirius, therefore, it is necessary to search for their father Electra, who will be found elsewhere in same column, along with his family. When a character marries ( as nearly all of them do) his name appears twice in the chart—once in his own family, and once in that family into which he marries; but the offspring of the marriage are entered as belonging to the father's family only, to avoid unnecessary repetition.
+![](dia0.png) would indicate that Alcyone married a wife Mizar, and had four children—two sons, Herakles and Fides, and two daughters, Sirius and Capella. Herakles in due course took Apollo as wife and had a son Leo( who married Norma) and a daughter Albireo, who espoused Hector. Alcyone's second son Fides married Spica, and had a daughter Aquila ( who bestowed her hand upon Cassio) and a son Mira, who married a young lady named Rigel. Alcyone's two daughters also married, Sirius being espoused by Electra, and Capella by Euphra; but their families, if any will be found in another part of the chart as the children are always put under the father, when he belongs to any of the families entered in the chart. To find the children of Elecrta and Sirius, therefore, it is necessary to search for their father Electra, who will be found elsewhere in same column, along with his family. When a character marries ( as nearly all of them do) his name appears twice in the chart—once in his own family, and once in that family into which he marries; but the offspring of the marriage are entered as belonging to the father's family only, to avoid unnecessary repetition.
 
 For the purpose of printing, it has been found desirable to shorten many of the longer names which were at first given, but they will in most cases still be recognisable to those who knew them in their older form. Two or three have been changed entirely in order to avoid co nfusion between similar contractions.
 
@@ -331,9 +327,7 @@ Even at this early stage the Manu had in mind the plan of the splendid city that
 
 At dawn they bathed and took their first meal; soon after that was over they all met together at the house of the Manu and started out in procession along one of the paths. As they marched they chanted poems composed for them by the Manu - chiefly invocations calling down upon themselves and their future home the blessings of all the spirits of earth and air, of water and of fire. Thus marching and singing they made their pilgrimage to the shrine of the day. When they reached it certain prayers were recited, and the clan rested for a while, before reforming their festal procession for the return march. By the time that they reached home it was already noon or later, so their midday meal was immediately prepared. After they had partaken of that, it was usual to rest for a time, and then to spend the remainder of the afternoon in such agricultural labor as was necessary to provide for the small wants of the community, or in whatever other work the chiefs decided to be desirable.
 
-Thus it will be seen that fully half of each day was devoted to what we must regard as a religious exercise, though from another point of view it might be considered recreation, as all the people enjoyed it greatly, and anyone who was kept at home by illness, accident or some urgent duty felt himself much ill-used, Little children clamored to be allowed to go, long before they were strong enough for the twenty mile walk, and regarded it as a kind of "coming of age” when they at last received the permission to join the procession. Alcyone, when very young, gained great popularity among his fellows by persuading his father to let him organize a band of children who might be allowed to march a certain distance with the procession, and then play about until they could join it again on its return -
-
-he undertaking, as captain of the band, to be responsible for the safety and good conduct of the party of juveniles.
+Thus it will be seen that fully half of each day was devoted to what we must regard as a religious exercise, though from another point of view it might be considered recreation, as all the people enjoyed it greatly, and anyone who was kept at home by illness, accident or some urgent duty felt himself much ill-used, Little children clamored to be allowed to go, long before they were strong enough for the twenty mile walk, and regarded it as a kind of "coming of age” when they at last received the permission to join the procession. Alcyone, when very young, gained great popularity among his fellows by persuading his father to let him organize a band of children who might be allowed to march a certain distance with the procession, and then play about until they could join it again on its return - he undertaking, as captain of the band, to be responsible for the safety and good conduct of the party of juveniles.
 
 It was surprising, however, at how early an age the young people could do the whole distance without fatigue. As they took the paths in regular order, it will be evident that they achieved the seven pilgrimages in just a week, and visited each shrine once in the same period of time, the idea being the magnetization of those paths which were to be the streets of the remote future. This daily twentymile walk indubitably did much to keep the community in good condition, and they apparently found no difficulty in getting all necessary work done in the remainder of the day.
 
@@ -369,9 +363,7 @@ About the same time was born Surya, a great grand daughter of His previous body;
 
 As soon as he had an efficient band of capable workmen, the construction of the mighty capital of His future empire was undertaken, Instead of letting His city grow by degrees as the population increased, He established it from the beginning as He meant it to be, building its houses long before there were occupants for them, but using such imperishable materials that they would remain unaffected by the lapse of time. Never before nor since has such a city been seen in the world' s history; it took a thousand years to build it, and it lasted almost unchanged for fifty thousand, until the great catastrophe of the sinking of Poseidonis threw it into ruin. A full account of its splendor may be found in Man: whence, How and Whither, chapters xv and xvi.
 
-But we are concerned not with the completed city, but with the building of it, when a hundred men took up the work that might well have taken a hundred thousand. These pioneers had first to erect for themselves humble temporary dwellings; they had to till the ground in order that they might have food to eat; but nevertheless they began to excavate extensive quarries, whence they cut huge blocks beautifully colored stone, making ready for the erection of those edifices which were later to be the wonder of the world. There was this unique characteristic about these men -
-
-these earlier selves of ours-that they were willing and glad to give their labor and their energy to working thus for a future generation - a generation which would consist partly of themselves indeed, as probably they knew; but of themselves in other bodies, with no memory then of all this antecedent toil, just as now they had no clear prevision of the glories that were to come. Yet they wrought joyously as a religious duty, because their great Ruler told them that this was meritorious work, part of the world' s evolution, of a stupendous plan whose scope as yet they could not grasp. Slowly and very slowly the great design unfolded itself; the paths which our Servers had magnetized with such persistent effort in their daily processions ten thousand years before were now marked out as wide straight streets, like the radii of a spider' s web; gradually the position of the cross streets was indicated, and the plan of the whole city began to show itself by the lines cleared in the great forests which had covered its site.
+But we are concerned not with the completed city, but with the building of it, when a hundred men took up the work that might well have taken a hundred thousand. These pioneers had first to erect for themselves humble temporary dwellings; they had to till the ground in order that they might have food to eat; but nevertheless they began to excavate extensive quarries, whence they cut huge blocks beautifully colored stone, making ready for the erection of those edifices which were later to be the wonder of the world. There was this unique characteristic about these men - these earlier selves of ours-that they were willing and glad to give their labor and their energy to working thus for a future generation - a generation which would consist partly of themselves indeed, as probably they knew; but of themselves in other bodies, with no memory then of all this antecedent toil, just as now they had no clear prevision of the glories that were to come. Yet they wrought joyously as a religious duty, because their great Ruler told them that this was meritorious work, part of the world' s evolution, of a stupendous plan whose scope as yet they could not grasp. Slowly and very slowly the great design unfolded itself; the paths which our Servers had magnetized with such persistent effort in their daily processions ten thousand years before were now marked out as wide straight streets, like the radii of a spider' s web; gradually the position of the cross streets was indicated, and the plan of the whole city began to show itself by the lines cleared in the great forests which had covered its site.
 
 As decades rolled on, vast buildings began to rise, both on the sacred White Island and on the mainland. The Island was ever the center of the thought and worship of this growing nation; from every point of the seven radiating streets its glowing temples could be seen and its great central dome at once dominated and symbolized the whole life of the city. But we are dealing with the day of small things, when all this glory was as yet but a dream of the remote future; so we must turn from the life of the city to the private life of our hero.
 
@@ -386,11 +378,7 @@ It is abundantly clear, however, that our identifications include less than half
 
 When Alcyone gained man' s estate, he married his cousin Mercury, also a grand child of Viraj and Saturn, a girl of high attainments and radiant beauty, whom he loved with deep and reverent devotion. Within a year twin boys were born to him—Sirius and Mizar who grew up to be utterly devoted to him, to Mercury, and to one another as they have been through the centuries. A year later came a third boy, Electra, and assuredly there can never have been three finer or happier children. Other brothers and sisters followed in quick succession to be loved and cared for, but these three, so nearly of the same age, made a little sub-group of their own. They were curiously alike in face; no one but their parents ever knew one of the twins from the other, and Electra was distinguishable only when they were together by the fact that he was a trifle shorter.
 
-From the time that they were able to walk and to talk intelligently they were inseparable; night and day they were always to be found together, and almost always with their father, except when his work carried him to places where they could not conveniently go. They were somewhat profanely nicknamed' the trinity', because they were popularly regarded as three identical manifestations of the same force. All kinds of quaint mistakes arose from their indistinguishability, and'
-
-the trinity'
-
-rather enjoyed these and took pleasure in arranging for them. Those outside the family regarded the absolute likeness as somewhat uncanny, and as they were the first three sons of Alcyone, a tradition arose that all his sons would be indistinguishable—a tradition which was only partially broken by the arrival of his next son Fides two years later, for he also bore a strong resemblance to his elder brothers. Wherever the three went, they were treated with great reverence, as the hope of the race and its future rulers; for though Sirius was the elder by a few minutes, and therefore technically the heir; no body ever knew which was he, and so all were regarded alike.
+From the time that they were able to walk and to talk intelligently they were inseparable; night and day they were always to be found together, and almost always with their father, except when his work carried him to places where they could not conveniently go. They were somewhat profanely nicknamed' the trinity', because they were popularly regarded as three identical manifestations of the same force. All kinds of quaint mistakes arose from their indistinguishability, and' the trinity' rather enjoyed these and took pleasure in arranging for them. Those outside the family regarded the absolute likeness as somewhat uncanny, and as they were the first three sons of Alcyone, a tradition arose that all his sons would be indistinguishable—a tradition which was only partially broken by the arrival of his next son Fides two years later, for he also bore a strong resemblance to his elder brothers. Wherever the three went, they were treated with great reverence, as the hope of the race and its future rulers; for though Sirius was the elder by a few minutes, and therefore technically the heir; no body ever knew which was he, and so all were regarded alike.
 
 They might have run some risk of being spoiled by general adulation, but for the gentle wisdom of their mother Mercury, who taught them always that their high position carried with it imperative duties and responsibilities, and that just because a smile or a kind word from them meant so much to every one whom they met, that smile or kind word should never be withheld, no matter how busy they were or how pressing their work might be. Alcyone was at this time constantly engaged with his father the Manu in superintending the erection of the huge crescent of palaces which were to form the sea front of the future city, and the three boys took the keenest interest in this work, and begged to have the management of certain parts of it given over to them. The Manu smilingly agreed, and the boys were in a high state of excitement - full at the same time of the gratification at the trust reposed in them, and the anxiety to justify that trust by sleepless vigilance. The workers were also highly delighted because it was the common belief that' the trinity' carried with them wherever they went good fortune and immunity from accident; it is certainly true that in the course of all that stupendous work, which involved the lifting and carrying of enormous weights, there were no casualties of any importance.
 
@@ -432,9 +420,7 @@ When Beth, keenly desirous to sacrifice herself and her family in response to th
 
 As to the runaway lovers, they reappeared some years later, hoping that the escape would be overlooked; but society in Manoa declined to receive them, so they actually presented themselves among the new community in the valley. Finding themselves no more welcome their, they drifted back to the distant city whither they had fled at first, and so pass out of our story.
 
-The new community, then, began its existence under the direction of Corona, and consisted of his descendants and those of his two sisters. The eldest son of Corona was Herakles, already married to Sirius, and having a large family, all of whom we recognise as old friends. Among the sons are our hero Alcyone and his ever loved companion Mizar; Selene also, and Uranus and Achilles; while among the sisters we note Neptune and Orion. Thus we see that, though in quite different relations, Alcyone, Mizar and Sirius are once more together; and though at first sight the third member of the' trinity'
-
-of eighteen thousand years ago seems absent, he is presently discovered in the shape of a cousin.
+The new community, then, began its existence under the direction of Corona, and consisted of his descendants and those of his two sisters. The eldest son of Corona was Herakles, already married to Sirius, and having a large family, all of whom we recognise as old friends. Among the sons are our hero Alcyone and his ever loved companion Mizar; Selene also, and Uranus and Achilles; while among the sisters we note Neptune and Orion. Thus we see that, though in quite different relations, Alcyone, Mizar and Sirius are once more together; and though at first sight the third member of the' trinity' of eighteen thousand years ago seems absent, he is presently discovered in the shape of a cousin.
 
 Alcyone's boyhood had been spent amid the manifold pleasures of the city, yet he keenly enjoyed the greater freedom of the pioneer life. The emigrants were by no means without comforts, for there was plenty of money available, so that laborers were hired to do the actual digging and building, and the work of our group was mainly that of planning and superintending. The young people took this up with great vigour and perseverance; temporary training places were first constructed, and then ground was cleared and brought under cultivation; wells were bored and water courses were dug out, while permanent houses were gradually erected in suitable spots, and lovely gardens were made around them.
 
@@ -444,9 +430,7 @@ Xenthos and Kos had three sons and there was unhappily a good deal of discussion
 
 The change to country life was a distinct advantage to Alcyone, who grew tall and broad and strong in consequence of the constant exercise in the open air. Presently he married his cousin Parseus, and in due course had six children, among whom we find Rama and Vulcan, while Venus and Osiris was respectively his sonin-law and daughter-in-law. Several of those who are now Masters of the Wisdom took birth in that generation, for, in addition to those already mentioned, among the nephews and nieces of our hero are Surya, Mars and Mercury. As son of Mars and Mercury the Manu himself reappeared and took to wife Koli, who was again Alcyone' s grandchild, as in the previous life, but this time a girl instead of a boy. Saturn and Viraj were born as cousins of the Manu, and in the same generation Dhruva came in once more, so the new sub-race began under high auspices.
 
-The valley was picturesque -
-
-very wild and rugged, and covered with primeval forest. Necessarily, a great deal of this had to be cleared away, but Corona desired to leave as much of it as was compatible with his plan. The valley was some ten miles in length, sloping steadily upward into the mountains. At the higher end of it was a precipice, down which fell a magnificent cascade, forming a deep pool at its foot, and then supplying a rapid river, which rushed down the centre of the Valley. Corona' s general idea was to terrace this valley (which was about two miles wide) both longitudinally and laterally, and for this purpose he mapped it out in twenty sections. Upon six of these he began work as soon as the necessary houses had been erected, and he gave them respectively into the charge of his brother in law Demeter, his two sons Herakles and Pindar, and his nephews Vega, Mira and Aurora. The seven sons of Herakles all acted under their father, taking charge (as they grew old enough) of various departments; and Alcyone, young though he was soon signalised himself as an able and trustworthy lieutenant. He was especially anxious to save all the finest trees, and gave much time and thought to various ingenious plans to that end. He always said that it actually hurt him to give the order for the destruction of a tree - that it felt to him like killing a friend. The matter was so much in his mind that he went round to all the other superintendents and persuaded them also to adopt the schemes which he had tried in his father' s section; and as none of them could refuse the eager, bright eyed boy, the part of the valley which was cleared took on even from the first the look of a gentleman' s park. He soon became an authority upon the laying out of roads and estates, and the heads of all the sections utilised his talents in this direction. For the moment only a few residences were dotted about in the most desirable situations; but Corona' s instructions were to plan the streets for a city of the future, to extend along both banks of the river at the mouth of the valley; and it was owing largely to the care and foresight of the young Alcyone, and to his personal efforts on behalf of what he felt to be his mission, that this was laid out as a garden city, with streets wide enough to contain a double avenue of trees and two streams of water.
+The valley was picturesque - very wild and rugged, and covered with primeval forest. Necessarily, a great deal of this had to be cleared away, but Corona desired to leave as much of it as was compatible with his plan. The valley was some ten miles in length, sloping steadily upward into the mountains. At the higher end of it was a precipice, down which fell a magnificent cascade, forming a deep pool at its foot, and then supplying a rapid river, which rushed down the centre of the Valley. Corona' s general idea was to terrace this valley (which was about two miles wide) both longitudinally and laterally, and for this purpose he mapped it out in twenty sections. Upon six of these he began work as soon as the necessary houses had been erected, and he gave them respectively into the charge of his brother in law Demeter, his two sons Herakles and Pindar, and his nephews Vega, Mira and Aurora. The seven sons of Herakles all acted under their father, taking charge (as they grew old enough) of various departments; and Alcyone, young though he was soon signalised himself as an able and trustworthy lieutenant. He was especially anxious to save all the finest trees, and gave much time and thought to various ingenious plans to that end. He always said that it actually hurt him to give the order for the destruction of a tree - that it felt to him like killing a friend. The matter was so much in his mind that he went round to all the other superintendents and persuaded them also to adopt the schemes which he had tried in his father' s section; and as none of them could refuse the eager, bright eyed boy, the part of the valley which was cleared took on even from the first the look of a gentleman' s park. He soon became an authority upon the laying out of roads and estates, and the heads of all the sections utilised his talents in this direction. For the moment only a few residences were dotted about in the most desirable situations; but Corona' s instructions were to plan the streets for a city of the future, to extend along both banks of the river at the mouth of the valley; and it was owing largely to the care and foresight of the young Alcyone, and to his personal efforts on behalf of what he felt to be his mission, that this was laid out as a garden city, with streets wide enough to contain a double avenue of trees and two streams of water.
 
 His untiring exertions brought him prominently to the notice of his imperious grandfather Corona, who promptly married him to his cousin Parseus, as has already been mentioned. Parseus was a handsome and stately girl of rare beauty and became a devoted wife and a mother. Both Alcyone and Mizar had, from their earliest days, specially loved another cousin and playmate, Electra; but the autocratic grandfather regarded his descendents as pawns in the game, and assigned them to one another in marriage in accordance with some obscure theory of his own of the admixture of different qualities, which took little account of mere personal predilections.
 
@@ -547,9 +531,7 @@ Indeed, these misdirected attempts usually ended in the annexation of the attack
 
 The work of Aryanisation was managed gradually and with great care. Those of our characters who were in the Manu' s army were practically all of them young married men, and even when in after years their children grew up, these in turn almost invariably married in their own race. Only the grand-children of the original immigrants were encouraged to intermarry with the Arabs—a generation of Arab wives as soon as the country was settled; but only seven of our characters are found among these young bachelors—Bootes, Vale, Able, Apis, Pomo, Laxa, and Zephyr. The Arabian women whom they married will be found noted in the accompanying chart.
 
-The delight of Alcyone and Mizar in the reunion with their wives and children after the two years of separation may be imagined. As the years rolled on four more sons and three daaughters were added to Alcyone' s quiver, the first of them being his present Master, Mercury. Mizar' s family also reached the same figure, and in the due course all these grew up and wedded, and were surrounded by olive-branches of their own. The Manu gave to all His brothers and cousins provinces to rule under Him, and the same fate befell Ajax, who had married His daughter Vega. This kept them all very busy, and forced them to live apart, which they, who had so long been so closely bound together, much regretted;
-
-but they nevertheless contrived to meet fairly frequently, and their children paid long visits to one another.
+The delight of Alcyone and Mizar in the reunion with their wives and children after the two years of separation may be imagined. As the years rolled on four more sons and three daaughters were added to Alcyone' s quiver, the first of them being his present Master, Mercury. Mizar' s family also reached the same figure, and in the due course all these grew up and wedded, and were surrounded by olive-branches of their own. The Manu gave to all His brothers and cousins provinces to rule under Him, and the same fate befell Ajax, who had married His daughter Vega. This kept them all very busy, and forced them to live apart, which they, who had so long been so closely bound together, much regretted; but they nevertheless contrived to meet fairly frequently, and their children paid long visits to one another.
 
 Alcyone bore his part in several of the little wars, and more than once distinguished himself in battle; but as time went on wars became rarer, and the work of reconstruction and administration more and more claimed his whole time and attention. Thus years rolled by, busily yet in a sense uneventfully, bringing with them indeed a constant succession of incidents which were varied and interesting enough to those who took part in them, yet offering nothing salient which stood out above all others.
 
@@ -562,40 +544,18 @@ So He left them, and passed away to far Shamballa, not again to be seen of men u
 So Alcyone' s life, which had begun in war and diplomacy, ended for religious work; he was forty-six years old when Mahaguru left them, and after that he preached for five and thirty years. His wife Electra died in the same year as her husband, preserving even in her old age her air of distinction and marvellous beauty; and within a few months Mizar and Fides also passed away. So of this group it might be said, as of Saul and Joanathan, that they"were lovely and pleasant in their lives, and in their death they were not divided."
 
 The following soldiers of the Aryan army married members of the Band who had incarnated in Arabia for that purpose:
-Bootes - Adrona
-Vale
 
-- Thetis
-
-Abel
-
-- Markab
-
-Apis
-
-- Gamma
-
-Pomo - Cancer
-Zephyr- Hesper
-Luxa - Sigma
+...
 
 The undermentioned members had also been incarnated in Arabia, in order that they might forward the work of the Manu, but they did not take that opportunity offered to them:
-Ursa
 
-Pollux
-Tripos
+...
 
-Lacey
-
-Capri
-
-Alastor
 Members of a Mangolian hill tribe:
 
-Iota
-Boreas
+...
 
-Chart V
+Chart V - ...
 
 ## Life VI
 
@@ -647,23 +607,17 @@ Leaving them for the moment to their terrified consultations, let us explain exa
 
 Boreas unfastened the door he had just barred, and walked straight in upon Electra, who lifted a wan and uncomprehending face to greet his entrance.
 
-"Lady”
-
-he said earnestly and respectfully,"
+"Lady” he said earnestly and respectfully,"
 
 I am your friend, and I have come to save you from wicked men; I beg you to come back to your home with me at once."
 
-But she could not understand him clearly; she only replied:"
+But she could not understand him clearly; she only replied:
 
-How can I come? He told me to wait here for him."
+"How can I come? He told me to wait here for him."
 
 There was no time for argument; begging her to pardon him, he lifted her in his arms and carried her out quickly into the garden, and by a side path and through some outhouses to a gate.
 
-"Lady,"
-
-he said,"
-
-you are in great danger; trust me, come with me, and I will save you. I cannot carry you outside without attracting too much attention; you must walk with me, and I will help you along."
+"Lady," he said," you are in great danger; trust me, come with me, and I will save you. I cannot carry you outside without attracting too much attention; you must walk with me, and I will help you along."
 
 She obeyed as if automatically, for the drug had disturbed the effect of hypnotic action; but it had also weakened her physically, and she walked with uncertain steps. He hurried her along as well as he could, half supporting and guiding her, until he felt himself out of immediate pursuit; and then he allowed her to walk more slowly.
 
@@ -671,44 +625,26 @@ His object was to get her home unnoticed, if it might be ; for he realised that 
 
 Arrived there, he walked straight in without ceremony or hesitation, and found the three trembling rogues still in fearful consultation. He was as yet scarcely more than a boy, but he was a son of the dominant race, and he expressed his opinion of that chief and the high priest in rigorous and unflattering terms. He paid not the slightest heed to the boasted mesmeric power of the priest, who indeed was far too disturbed in mind to be able to use it. He concluded the denunciation with these words:
 
-"
-
-You know quite well that I have only to go before my grandfather the King and tell my story, and within the hour you will be in prison, never to leave it alive; and you know that that is the fate that you deserve. But if that were done, your crime and my sister' s misfortune would be known to all the kingdom, and I do not choose that it shall be so known. My mother is away from home; if when she returns she finds my sister still in this condition, she will be troubled about it, and I do not intend to have her troubled. Therefore instead of delivering you to justice, I will agree not to denounce you on this one condition ; that you come at once and remove your diabolical spell from my sister' s mind, and restore her to normal health. If you don' t do this, be sure that you shall both die."
+"You know quite well that I have only to go before my grandfather the King and tell my story, and within the hour you will be in prison, never to leave it alive; and you know that that is the fate that you deserve. But if that were done, your crime and my sister' s misfortune would be known to all the kingdom, and I do not choose that it shall be so known. My mother is away from home; if when she returns she finds my sister still in this condition, she will be troubled about it, and I do not intend to have her troubled. Therefore instead of delivering you to justice, I will agree not to denounce you on this one condition ; that you come at once and remove your diabolical spell from my sister' s mind, and restore her to normal health. If you don' t do this, be sure that you shall both die."
 
 Markab at once breathed more freely, and made haste to agree; but Scorpio looked more disturbed than ever and, and said: "Young white lord, I would truly do this for you if I could; but what you ask is impossible. If I had cast only my spell upon your sister I could remove it ; but I have worked upon her the greatest magic at my command. I have cast upon her the spell of the goddess, and the goddess herself has ratified it; only she herself can remove it, if she should choose. But she will never choose to do so."
 
-"
-
-I know nothing of your goddess,"
-
-replied Mizar sternly,
+"I know nothing of your goddess," replied Mizar sternly,
 
 "and I do not fear her, because I worship the Light; but if only she can remove the spell, lead me at once to her shrine, and I will speak to her face to face in the power of the Light, and will compel her do undo her foul magic."
 
 "Master, master,"cried Scorpio in horrified accents"you know not what you say ; it is death to look upon the face of the goddess, and no man may withstand her power."
 
-"Perchance that may be so,"
-
-replied Mizar;"
+"Perchance that may be so," replied Mizar;"
 
 Yet I shall not shrink from death for the sake of my mother and my sister. But at least I will face this goddess, and the spell shall be removed.""Young sir, you are brave ; though I hate your family, I
-admire your courage,"
+admire your courage," said Scorpio;"but I warn you that it is useless."
 
-said Scorpio;"but I warn you that it is useless."
+"Take me to your goddess, or you shall both die," was all the reply that Mizar would give.
 
-"Take me to your goddess, or you shall both die,"
+"Lead him to her, brother," said Markab, it is better that he should die than we.
 
-was all the reply that Mizar would give.
-
-"Lead him to her, brother,"
-
-said Markab, it is better that he should die than we.
-
-"
-
-Come then if you must have it so,"
-
-said Scorpio;"but your blood be upon your head. I do not even know that the goddess will show herself on any day but her own day of the full moon; and it may be that she will slay us even for disturbing her rest. Yet come, since come you must. For myself, I do not even know that the goddess will show herself on any day but her own day of the full moon; and it may be that she will slay us even for disturbing her rest. Yet come, since come you must. For myself, I care not; it can be death either way, and I do not think that she will kill her priest."
+"Come then if you must have it so," said Scorpio;"but your blood be upon your head. I do not even know that the goddess will show herself on any day but her own day of the full moon; and it may be that she will slay us even for disturbing her rest. Yet come, since come you must. For myself, I do not even know that the goddess will show herself on any day but her own day of the full moon; and it may be that she will slay us even for disturbing her rest. Yet come, since come you must. For myself, I care not; it can be death either way, and I do not think that she will kill her priest."
 
 So Mizar and Scorpio started together for the haunted forest, the priest revolving in his mind the various plans for killing his companions so that he might avoid the risk of angering the goddess.
 
@@ -718,9 +654,7 @@ But Mizar impatiently bade him get on with his conjuration; and so in despair he
 
 It seemed to do its ghastly work as well by sunlight as by moonlight, for the traditional results quickly followed; the rock door rose, the horrid horde of malignant creatures rushed out, and directly afterwards the giant figure showed itself. Scorpio fell upon his face, but Mizar stood gazing in intense surprise, not unmixed with fear, he tried to speak to this appalling being, but his tongue refused its office; he was conscious of a strange whirling sensation in his brain and an irresistible inclination to move forward; he struggled to remember his purpose in coming, and what he had resolved to do; but the power of thought had gone from him, and he felt as though he were in the grasp of some great force of Nature—a tornado, an avalanche, a maelstrom. The sword which he had drawn fell from his hand, and the hideous rabble seized it with a yell of triumph, and surging round him, bore him on with them like a rolling tide, while a strange, slow, dreadful smile broke out upon the face of the deity. She drew back as the swarming brood apporached, and the door of rock fell once more as soon as the mob had disappeared within it. Then Scorpio rose from the ground, and threw up his arms above his head.
 
-"Praise be to the great and ever-victorious goddess,"
-
-he cried;"may all her foes be vanquished thus!"
+"Praise be to the great and ever-victorious goddess," he cried;"may all her foes be vanquished thus!"
 
 And he turned and left the platform with exultant mien; but he had scarcely passed the first tree in the forest when Boreas sprang from behind it and buried his great dagger in his heart. So Scorpio fell in the hour of his unholy triumph, and Boreas fled back through the forest as though the hounds of hell had been behind him When a few hours later, he reached the house of Sirius and Alcyone, he found that they had just returned from their journey. He introduced himself, and told his weird and harrowing tale. Incredible as it seemed, they could not but believe when they saw the pitiable state to which poor Electra had been reduced, and indeed they obtained some sort of partial confirmation from her, for she was now able to speak somewhat more coherently; for Boreas, who knew much of negro charms and drugs, had instructed her sisters to administer to her an infusion of a certain plant which was an antidote to the poison which had been forced upon her by Scorpio.
 
@@ -740,24 +674,19 @@ The small but intrepid party mounted the platform, and Boreas lifted up his voic
 
 Sirius who stood in front as champion of the party, experienced just the same sensations as those which had overpowered Mizar earlier in the day; he also tried to speak but could not; he also felt a resistless influence stealing over him from those inexorable unwinking eyes; he also would unquestionably have been subjugated by this preternatural witchery which was being concentrated upon him, if he had been left alone to face it. But a voice rang out from behind him like a clarion:
 
-"Husband, Husband, she is overpowering you! Stand firm,
-and uphold the light!"
+"Husband, Husband, she is overpowering you! Stand firm, and uphold the light!"
 
 And as she spoke, Alcyone drew her bow to the very head of the arrow, and sped her shaft unerringly to the heart of that unearthly monster; and as it struck, that dread figure crashed to the earth with a blood curdling non-human cry, and lay writhing there with a ghastly contorted visage. In a few minutes it was still in death, and all present were conscious of a curious change in the atmosphere—of a sense of intense relief, of the removal of a weight.
 
-And as they stood looking at one another and wondering, a loud cry was heard from within the cave, and Mizar came bounding out, shouting:"I am free; I am free!"He leapt over the prostrate body, and rushed up to his father and mother, asking wonderingly how they came there, and what had happened. But perhaps the strangest change was in the horde of creatures who had always been the first to rush out when the door was opened. They seemed as though thunderstruck; all their impish malignity was gone; they began to speak of one another in hesitating accents; some of them fell down as though from weakness. Alcyone said to Sirius: "See, husband, see! These are not demons, but men, and they have been suffering under some horrible enchantment. Say, brothers, who and what you are, and if we can help you, we will."
+And as they stood looking at one another and wondering, a loud cry was heard from within the cave, and Mizar came bounding out, shouting: "I am free; I am free!"He leapt over the prostrate body, and rushed up to his father and mother, asking wonderingly how they came there, and what had happened. But perhaps the strangest change was in the horde of creatures who had always been the first to rush out when the door was opened. They seemed as though thunderstruck; all their impish malignity was gone; they began to speak of one another in hesitating accents; some of them fell down as though from weakness. Alcyone said to Sirius: "See, husband, see! These are not demons, but men, and they have been suffering under some horrible enchantment. Say, brothers, who and what you are, and if we can help you, we will."
 
 Then one of these strange beings stepped forward and spoke haltingly, as one to whom speech is unfamiliar:
 
-"Princess,"
-
-he said,"not long ago you knew me as a soldier of the palace guard; you have spoken to me many times, yet I cannot wonder that you do not know me now. Three months ago I was young and strong and brave; now my hair is white and I am old and broken, and cannot live; nor indeed do I wish to live, for my soul is utterly polluted and imbrued with deadly sin. For I was chosen, by the high priest of that dread demon there whom you have slain, to be her husband; I was brought her under her awful spell, and all that was unclean and animal within me she stirred into a mad riot such as you could never understand, nor any sane healthy human being; for there are things so hellish that the flesh creeps at the thought of them, and even the telling of them is as a blast of death. For a whole month I ministered to her monstrous lusts, and it seemed to me one long mad whirl of pleasure in which I lost all count of time; but in that time she drew all life from me, and left me what you see. At the next full moon a new victim came, and she cast me aside like a worn out garment. All these whom you see are like me; each has had his day, and has been drained of his vitality by that awful vampire who lies there; thus has she kept herself alive for untold ages, feeding upon the life of men, for her victims have numbered many thousands, and in the cave is a vast heap of their bones. Yet she does not let us die at once, but keeps us thus unnaturally alive and without sleep, full of a devilish malice and jealousy, yearning to drag others in to suffer as we have suffered, yet all the time envying and hating them. A hell indeed our dregs of life have been to us, and very day has seemed a thousand years of agony and despair. But now that you have killed her all is changed; the awful nightmare has gone, and I think that we shall die in peace; as you see, some of us are dying even now."
+"Princess," he said,"not long ago you knew me as a soldier of the palace guard; you have spoken to me many times, yet I cannot wonder that you do not know me now. Three months ago I was young and strong and brave; now my hair is white and I am old and broken, and cannot live; nor indeed do I wish to live, for my soul is utterly polluted and imbrued with deadly sin. For I was chosen, by the high priest of that dread demon there whom you have slain, to be her husband; I was brought her under her awful spell, and all that was unclean and animal within me she stirred into a mad riot such as you could never understand, nor any sane healthy human being; for there are things so hellish that the flesh creeps at the thought of them, and even the telling of them is as a blast of death. For a whole month I ministered to her monstrous lusts, and it seemed to me one long mad whirl of pleasure in which I lost all count of time; but in that time she drew all life from me, and left me what you see. At the next full moon a new victim came, and she cast me aside like a worn out garment. All these whom you see are like me; each has had his day, and has been drained of his vitality by that awful vampire who lies there; thus has she kept herself alive for untold ages, feeding upon the life of men, for her victims have numbered many thousands, and in the cave is a vast heap of their bones. Yet she does not let us die at once, but keeps us thus unnaturally alive and without sleep, full of a devilish malice and jealousy, yearning to drag others in to suffer as we have suffered, yet all the time envying and hating them. A hell indeed our dregs of life have been to us, and very day has seemed a thousand years of agony and despair. But now that you have killed her all is changed; the awful nightmare has gone, and I think that we shall die in peace; as you see, some of us are dying even now."
 
 Pity and horror filled the hearts of Alcyone, Sirius and Mizar when they heard these fearful revelations; and Sirius felt his heart burn within him, and he spoke to those doomed wretches such words as were given to him to speak. He told them of the light that dwelt in every one of them, that dwelt there ineradicable still, in spite of all these obscene horrors; that light which was a ray of the Eternal Light, from Whom all had come, into whom all must return. So that for them also there was hope and help, because, though indeed the Divine Spark had burnt low, it should surely one day be fanned again into flame; for them also the darkness should lighten, until they stood for ever in the perfect day. And the poor creatures heard and believed and were comforted; and natural sleep, a stranger to their eyes for many weary months and years, fell softly upon them, and in that sleep many passed peacefully away. And indeed naught else could be desired for them, for continued life could but have been continued misery; they were wan and shrunken and nerveless, bent so that those who had been tall men were now like deformed and stunted children, warped and gangrenous, rotting in death while still alive.
 
-But Sirius and his son went and looked at the body of the dead monster, overcoming their horror in order that they might see what manner of being this was. Human undoubtedly, yet of a race happily long extinct; a ghastly anachronism, perpetuated only by some gruesome secret of wholesale murder verily"
-
-a thing to shudder at, not to see."
+But Sirius and his son went and looked at the body of the dead monster, overcoming their horror in order that they might see what manner of being this was. Human undoubtedly, yet of a race happily long extinct; a ghastly anachronism, perpetuated only by some gruesome secret of wholesale murder verily" a thing to shudder at, not to see."
 
 Sirius conquered his repugnance sufficiently to unclasp the necklace of huge stones; but the very touch of that blue flesh was in itself revolting, for it was suberous, polyp-like, nauseating, unhuman. Mizar overleaped the corpse, and called to them to come to come and look at the cave, so shudderingly they passed into murky depths. Prodigious indeed it was, vast hall extending beyond vast hall far into the heart of the great needle of rock; and whether these halls were natural or artificial none could tell. In one of them was a huge pyramid of human bones—the remains of thousands of victims, even as the dying soldier had said. But the whole place reeked like a charnelhouse, that seemed more than mere physical.
 
@@ -769,7 +698,7 @@ Our exhausted party returned to its home, and the first inquiry was after the he
 
 A few days later, Sirius, Alcyone, Mizar and Electra all came together to the wise mother Mercury, and talked long and earnestly with her about these strange occurrences. Mizar asked her: "grandfather, how was it that I, trusting in the Light which we worship, could not resist the spell of that dreadful woman, and that even my father was powerless before her, while my mother unaffected, and she was able to kill her?"
 
-And Mercury replied:"Grandson, the monster' s power of will was greater far than yours, aye, greater even than your father' s; not greater than the power of the Light, but greater than its manifestation in you, for a certain reason that I will tell you. The horrible mystery of this creature' s strength had its root in that other mystery of sex, and therefore it could be used best, by each person, upon one of the opposite sex. Remember how, long ago, Scorpio even when a boy dominated the girl Alcyone by its means, but was at once overthrown by the boy Sirius, upon whom it had no effect.
+And Mercury replied: "Grandson, the monster' s power of will was greater far than yours, aye, greater even than your father' s; not greater than the power of the Light, but greater than its manifestation in you, for a certain reason that I will tell you. The horrible mystery of this creature' s strength had its root in that other mystery of sex, and therefore it could be used best, by each person, upon one of the opposite sex. Remember how, long ago, Scorpio even when a boy dominated the girl Alcyone by its means, but was at once overthrown by the boy Sirius, upon whom it had no effect.
 
 Again, Scorpio easily influenced Electra, but could do nothing against you, even when you went to his house and openly threatened him. Yet when the operator was a woman—when you came face to face with the prodigy herself- you were overcome, and so was your father, while against Alcyone, because she was a women, her efforts were fruitless. Because your mother was dressed as a man, the monster was probably deceived; the magnetism which she poured out was aimed at men, and so your mother was unaffected. Truly you would have been unharmed also, if through you the Light had shown with perfect purity; because you have not yet attained perfection, because you are still human, there was within you that upon which her terrible forces could play. In the strength of utter purity, even the weakest will may naught that can be stained, naught upon which the can seize; but while there is even a germ of evil there is still danger. Yet though that fiend could neutralize your will, ad could draw you within her unholy cave and hold you there as prisoner, she could not dominate your very soul and bend you to her evil ends as she did those who yielded voluntarily to her. She could perhaps have taken your life; she could not make you her slave. So always there are limits to the power of evil; and only that can come to each man that he has himself deserved.
 
@@ -791,9 +720,7 @@ In the lives which have just been described we have seen glimpses of the work, w
 
 The Manu' s theories of education were still the same, and Sirius followed them devoutedly, so Alcyone and Apollo were less harassed and misunderstood than the modern boy usually is, and consequently they retained through life a certain amount of their sensitiveness.
 
-He talked often and eagerly of his dreams to his father and mother, but they had not his memory, though they often had a feeling that they were on the brink of remembering while they listened to her vivid descriptions, and once when Mizar was slightly feverish, she had a very clear vision of one of the scenes -
-
-an endorsement of his accuracy which greatly pleased Alcyone. He also discovered that when he related one of his dreams in the presence of his younger brother Apollo, the; latter was able to catch the thought picture from his mind and to make a drawing of what he described, sometimes including details which he himself had omitted to mention. The younger brother had an intense admiration for the elder, and during their youth they were always together, living a life of great happiness and full mutual comprehension.
+He talked often and eagerly of his dreams to his father and mother, but they had not his memory, though they often had a feeling that they were on the brink of remembering while they listened to her vivid descriptions, and once when Mizar was slightly feverish, she had a very clear vision of one of the scenes - an endorsement of his accuracy which greatly pleased Alcyone. He also discovered that when he related one of his dreams in the presence of his younger brother Apollo, the; latter was able to catch the thought picture from his mind and to make a drawing of what he described, sometimes including details which he himself had omitted to mention. The younger brother had an intense admiration for the elder, and during their youth they were always together, living a life of great happiness and full mutual comprehension.
 
 In due course they both married. And this introduced into their lives new interests which made their previous inseparability impossible, but caused no diminution in their affection, their marriage call for no special comment, but that of their sister Orion caused a good deal of excitement in the family. This sister came between them in age—a handsome and striking-looking girl, beloved by both, and also by various other young men. One of the most passionate of these suitors was Gamma, the son of a neighbor in humble position, named Thetis, who was regarded as under a cloud in consequence of a wicked action committed many years before.
 
@@ -818,9 +745,7 @@ And Herakles bowed his head and gave his promise, feeling that in doing this he 
 
 That same evening, as Herakles and Alcyone walked together in the great garden of Sirius, talking reverently of what had happened that day and of the plans which the Manu had disclosed, a man suddenly leaped forth from behind a tree, and struck savagely at Herakles with a knife. Herakles was not looking in that direction at the moment, and might have fallen an easy prey to the assassin, but to reach him he had to cross in front of Alcyone, who, seeing the gleam of the knife in the starlight, dashed himself against the man and hurled him to the ground, so that Herakles received only a slight scratch. Before the ruffian could rise both gentlemen had seized him, and Alcyone had twisted the knife out of his hand.
 
-When they dragged to the light they found him to be Gamma, who had been maddened by the idea that his adored one should thus be borne off by another—and not even an Aryan! He was handed over to the officers of justice, and the Manu sentenced him to lie banished from the empire of Manoa, telling him that he came from a bad stock, and was unworthy of the privilege of being an Aryan. So he was sent forth into what the Aryan poets called"the outer darkness,"
-
-where the religion of the light was not professed; and his place knew him no more.
+When they dragged to the light they found him to be Gamma, who had been maddened by the idea that his adored one should thus be borne off by another—and not even an Aryan! He was handed over to the officers of justice, and the Manu sentenced him to lie banished from the empire of Manoa, telling him that he came from a bad stock, and was unworthy of the privilege of being an Aryan. So he was sent forth into what the Aryan poets called"the outer darkness," where the religion of the light was not professed; and his place knew him no more.
 
 Sirius with his children moved into the chosen valley, and the history of ten thousand years before repeated itself. The same work of reclaiming the ground and bringing it under cultivation, of mapping it out into estates and gradually building palatial country houses; even the very plan of terracing which Corona had adopted in the other valley was closely followed, for naturally all those who were doing the work had made a special study of the plan, and were familiar with its results and with all the improvements which later centuries had introduced. The character of this new valley rendered desirable certain modifications of the scheme, but Alcyone' s cleverness at this work had not deserted him, and results soon began to show. Herakles had joyously accompanied his brother-inlaw, and threw himself into the pioneer work with his characteristic assiduity.
 
@@ -839,25 +764,15 @@ On receipt of this news our party pushed forward rapidly up that valley, but abo
 Alcyone and Viraj would have none of this, but shouted back defiance to him, and ordered their followers to charge in open order up the valley. This they did in the face of another discharge of arrows, and as soon as they got to close quarters with the savages the latter broke and fled, for they were unable to stand before the better arms and greater valour of the civilised men. But though they would not fight man to man, they dodged behind rocks and trees and kept up a shower of Parthian shafts, and the small party of Aryans had suffered considerably before they finally put them to fight. Deneb had cheered on his savages at first, and some of his Aryan attendants were among them trying to check their flight; but when he came down from his rock and Alcyone sprang to meet him, he lowered the point of his sword and said: "Friends, I thought to withstand you because it seems to me that I have not been treated fairly; but I find that I cannot fight along with savages against a nobleman of my own race."
 
 Thus the indomitable pride of the Aryan blood told when a crisis came, and Alcyone understood and recognised the sentiment, even though he was angry at the unnecessary slaughter both of his own men and of the barbarians. He said: "But you have caused the death of many men at the hands of these creatures; is that conduct worthy of an Aryan? Do you not know that for that alone you should be banished from the company of men?"
-(For it was the custom of the Aryans to speak of themselves as the noble—that indeed being the meaning of the word Aryan; of the highly civilised Atlantean races as' men'
-
-or as foreigners; and of the savage tribes simply as barbarians, not using for them the term' men'
-
-at all.)
+(For it was the custom of the Aryans to speak of themselves as the noble—that indeed being the meaning of the word Aryan; of the highly civilised Atlantean races as' men' or as foreigners; and of the savage tribes simply as barbarians, not using for them the term' men' at all.)
 
 "I know,"replied Deneb,"that that is against good morals because it is not our custom; but it has happened because you have pursued me thus into far countries and have not left me alone to carry out my plan."
 
-But Viraj broke in:"Your plan is a wicked one, for none who is worthy of the name Aryan would thus try to coerce a free- born lady; you know quite well that your father, your mother, your brothers disapprove of it and are much ashamed because of you; you know that you yourself would be full of anger if anyone thus treated your sister Aulus. I demand therefore that you shall at once yield the young lady to me whom she has chosen, and if you will not I shall kill you here and now."
+But Viraj broke in: "Your plan is a wicked one, for none who is worthy of the name Aryan would thus try to coerce a free- born lady; you know quite well that your father, your mother, your brothers disapprove of it and are much ashamed because of you; you know that you yourself would be full of anger if anyone thus treated your sister Aulus. I demand therefore that you shall at once yield the young lady to me whom she has chosen, and if you will not I shall kill you here and now."
 
 "No,"
 
-Deneb;"
-
-interposed Alcyone,"
-
-I cannot allow that,"replied for what he says as to my sister Aulus is true, though I
-
-had not thought of it in that way before. I thought only of giving the Lady Selene an opportunity of knowing me thoroughly, feeling sure that my devotion would win her; but if it will not, I am far from desiring her unhappiness. I will abide by her decision."
+"Deneb," interposed Alcyone, "I cannot allow that,"replied for what he says as to my sister Aulus is true, though I had not thought of it in that way before. I thought only of giving the Lady Selene an opportunity of knowing me thoroughly, feeling sure that my devotion would win her; but if it will not, I am far from desiring her unhappiness. I will abide by her decision."
 
 So they all climbed up the hill together, calling the scattered savages to them, and telling them that peace had been arranged.
 
@@ -965,9 +880,7 @@ Standing there, he looked upwards, but could not see anything; he stretched his 
 
 No theory which he could formulate would explain the facts, and he began to suspect some supernatural interference, and to wonder whether he had been entrapped by some weird denizens of the underworld, who could see in the dark. An unpleasant suggestion, which he hurriedly rejected; and he decided that as it seemed to be impossible to get up he might well move along the wall as before, so as at least to discover the dimensions of his prison. He was not sure of his direction, and for some time he could not find the wall, and when at last he did touch it he came upon it obliquely instead of at right angles as before. He wondered whether it was the same wall, or whether he had reached the other side of his dungeon; but as he moved along it he found that it had the same characteristic of apparently indefinite extension. He had been in caves before—many of them; but none in the least like this. The extraordinary smoothness of both the wall and the floor impressed him, as well as the amazing size of the place. He walked with his hand upon the wall - cautiously indeed, for he knew that in caves one often came suddenly upon holes, and even pits of great deapth but here the floor seemed as smooth as a pavement, and the idea crosses itself into his mind that this must be an artificial excavation. But he had never heard of any such thing. Besides, he knew that a cave of any size is usually of corresponding height, which this could not be because of the small distance that he had fallen; and he knew that he had been walking beside that wall long enough to have crossed half of the great city itself; and how could any cave be of such dimensions as that?
 
-The affair was a hopeless riddle; but at least he could do nothing but keep moving, though he was beginning to be oppressed by fears that there was something uncanny in the business, and that this nightmare of walking in the darkness would never end. Indeed, at one time he seriously entertained the idea that he might have been killed by the fall without knowing it, and was now wandering in some strange underworld of the dead! Still, there were difficulties in the way of that theory, and meantime he was growing physically tired, which seemed to show that he was still in the body. On and on he went, and his pace grew insensibly faster, for he learnt to trust the unvarying smoothness of the floor, and stepped out almost as briskly as if he were in the light, though always keeping one hand on the wall beside him, and the other stretched out in front, in case this amazing excavation should come to an end at last. But all the while two things daunted him -
-
-the intensity of the darkness and the silence. In a dark room on earth there is generally some ray of half light, some diminution of the blackness; but here it was so absolute, so uncompromising that it seemed to fold about him like a pall. Then the silence again; it was not the relative silence of the upper world, but an absolute silence that seemed unearthly in its finality. And then the utter incomprehensibility of the whole business; perhaps it was better not to think; but just mechanically to push on.
+The affair was a hopeless riddle; but at least he could do nothing but keep moving, though he was beginning to be oppressed by fears that there was something uncanny in the business, and that this nightmare of walking in the darkness would never end. Indeed, at one time he seriously entertained the idea that he might have been killed by the fall without knowing it, and was now wandering in some strange underworld of the dead! Still, there were difficulties in the way of that theory, and meantime he was growing physically tired, which seemed to show that he was still in the body. On and on he went, and his pace grew insensibly faster, for he learnt to trust the unvarying smoothness of the floor, and stepped out almost as briskly as if he were in the light, though always keeping one hand on the wall beside him, and the other stretched out in front, in case this amazing excavation should come to an end at last. But all the while two things daunted him - the intensity of the darkness and the silence. In a dark room on earth there is generally some ray of half light, some diminution of the blackness; but here it was so absolute, so uncompromising that it seemed to fold about him like a pall. Then the silence again; it was not the relative silence of the upper world, but an absolute silence that seemed unearthly in its finality. And then the utter incomprehensibility of the whole business; perhaps it was better not to think; but just mechanically to push on.
 
 A hard trial for a boy of twelve; but fortunately even then he was already determined and persevering. So he pushed on steadily and tried to feel his mind a blank, even when he felt as though time must have ended and eternity begun. And then suddenly in front of him appeared a point of light like a star - so suddenly that he uttered an exclamation.He could not tell how far from him it was - that tiny spot of intense light, but he forgot his fatigue and hurried forward towards it, only then realising, by the magnitude of his relief, how near to hopelessness had been before. For a long time it seemed no nearer, for all his hurried walk; but at long last he saw that it was larger - that instead of being a point it was a hole. After yet another spell of walking the darkness began to grow less intense, and presently through the gloom he discovered another wall running parallel to his, and a little later a roof, perhaps six feet above his head; so that he realized that he must have walking for miles along an unquestionably artificial tunnel, and he began to hope that the point of light in front might prove to be the mouth of it.
 
@@ -1005,9 +918,7 @@ Among other functions Alcyone had to act as judge, and obtained a certain reputa
 
 There was in the chief city of the valley a man named Homara, who had acquired great wealth by trading and money lending, and had the reputation of being grasping and unscrupulous; in fact, though many made use of him in emergencies, few had a good word to say for him, and he was strongly suspected of blackmailing, though nothing had ever actually was proved against him. One night this man was murdered; his body was found in the road, the head being crushed in, as though by a succession of tremendous blows with a heavy cudgel. The road where the body lay was one of those running along the side of the valley and just underneath a terrace, so that all along one side of it was a high blank wall which was in reality the front of the terrace above, with houses and gardens coming to the edge of it; while on the other side of it was a row of houses, each standing in its own garden. Though the gates of these gardens opened from the road, it was only their backs which were visible from it, as all their principal rooms faced downhill across the valley for the sake of the view. Consequently though the street was in a populous residential quarter, and really had houses gardens continually on both sides, it was nevertheless comparatively lonely and very little overlooked. Thus the murder had not been witnessed, though it seemed certain that it had been committed early in the evening.
 
-Homara' s wife informed the police that her husband had left home at dark, saying that he had an appointment to meet Clio. Now Clio was heavily in debt to Homara, and the latter was pressing him for immediate payment which would have meant ruin to Clio; so here seemed a possible motive for the murder, and Clio was promptly arrested. He admitted having an appointment with the murdered man in the same street where his body was found, but stated that Homara had not kept it, and that after waiting for some hours at the rendezvous he had returned home. Various people came forward to bear testimony that while passing along the road they had seen Clio lurking about, and that he endeavored to avoid them; and two witnesses declared that they had also seen Clio' s brother Theodorous loitering suspiciously in that same area. An order was therefore issued for his arrest, and it was elicited that he had a grudge against Homara on his own account, as the latter was in love with Taurus, whom Theodorous desired to marry; but as Homara had some kind of hold over her elder brother Stella, he was able to put obstacles in Theodorous'
-
-way.
+Homara' s wife informed the police that her husband had left home at dark, saying that he had an appointment to meet Clio. Now Clio was heavily in debt to Homara, and the latter was pressing him for immediate payment which would have meant ruin to Clio; so here seemed a possible motive for the murder, and Clio was promptly arrested. He admitted having an appointment with the murdered man in the same street where his body was found, but stated that Homara had not kept it, and that after waiting for some hours at the rendezvous he had returned home. Various people came forward to bear testimony that while passing along the road they had seen Clio lurking about, and that he endeavored to avoid them; and two witnesses declared that they had also seen Clio' s brother Theodorous loitering suspiciously in that same area. An order was therefore issued for his arrest, and it was elicited that he had a grudge against Homara on his own account, as the latter was in love with Taurus, whom Theodorous desired to marry; but as Homara had some kind of hold over her elder brother Stella, he was able to put obstacles in Theodorous' way.
 
 Each of these two brothers, Clio and Theodorous, believed secretly that the other had committed the murder, and each credited the other with semi-unselfish motives; for Clio thought that Theodorous had done this thing to save the family from ruin, while Theodorous supposed that Clio had been principally influenced by a desire to secure the happiness of his younger brother. Thus each was animated with the idea of sacrificing himself to save the other, and consequently each confessed himself guilty, to the great perplexity of the judge. The natural suggestion was that the brothers had conspired together to remove the obstruction from their path, but both of them vehemently denied this, and all the testimony of those who had seen them agreed that they had not been together.
 
@@ -1037,9 +948,7 @@ Chart VII - Central Asia - 31000 B.C.
 Yet a third time we find Alcyone in the valley of the Third Root Race, born just in time to take part in the great migration, for which the previous lives had been a preparation. The Manu Himself ruled at this period, and under Him His sons Orpheus and Surya, with His grandson Mars, Corona, Vulcan, Theodorous and Vajra. These grandsons were to be the captains of his Hosts, their sons in turn forming a special staff of aides de camp; and it is among this staff that we find our hero who had been born eighteen years before as the son of Vulcan and Venus. With him was his brother Sirius, two years older, and the twin younger brothers Yajna and Aurora, only just sixteen, but full of valour and keen to distinguish themselves in the field. Chief among these young people were Herakles, the son of Mars, and other comrades were Pallas, Herminius, Rosa, Fons,
 Aletheia.
 
-In this case there was definitely a kingdom to be conquered, so the migration was divided into two parts. First went a splendid army, three hundred thousand strong, and it was only some four years later, when the new Persian empire was thoroughly established, that the women and children were brought from their native valley to their future home. The conquest being achieved, the young soldiers took unto themselves wives and settled down into the life of organisation and building to which they had in previous incarnations been so well accustomed. A lcyone chose as his partner Fides, with whom Herakles had also fallen in love. The latter went off disgusted to the wars; that is to say, he led a punitive expedition to supress Tripos -
-
-a rebellious aboriginal chief; and when he returned victorious he married Psyche, an orphan cousin who had long worshipped him from a distance. The elder brother Sirius married Achilles, and the twins, Yajna and Aurora, now hardy soldiers with many brave actions to their credit, took unto themselves Alba and Dorado respectively. Among the children who came to them as the years rolled on were many of our well known characters: to Alcyone came Mercury himself, and Mizar, Apollo, Albireo, Hector, Leo—all friends true and tried; to Sirius came Saturn and Brihat, Vega, Rama, and others with whom our researches have made us familiar.
+In this case there was definitely a kingdom to be conquered, so the migration was divided into two parts. First went a splendid army, three hundred thousand strong, and it was only some four years later, when the new Persian empire was thoroughly established, that the women and children were brought from their native valley to their future home. The conquest being achieved, the young soldiers took unto themselves wives and settled down into the life of organisation and building to which they had in previous incarnations been so well accustomed. A lcyone chose as his partner Fides, with whom Herakles had also fallen in love. The latter went off disgusted to the wars; that is to say, he led a punitive expedition to supress Tripos - a rebellious aboriginal chief; and when he returned victorious he married Psyche, an orphan cousin who had long worshipped him from a distance. The elder brother Sirius married Achilles, and the twins, Yajna and Aurora, now hardy soldiers with many brave actions to their credit, took unto themselves Alba and Dorado respectively. Among the children who came to them as the years rolled on were many of our well known characters: to Alcyone came Mercury himself, and Mizar, Apollo, Albireo, Hector, Leo—all friends true and tried; to Sirius came Saturn and Brihat, Vega, Rama, and others with whom our researches have made us familiar.
 
 After the country was settled, the leaders of the army took up the positions of governors of the various provinces and cities. For fifteen years the Manu retained it nominally as a portion of His empire, and several times made a sort of royal progress through its provinces to see for Himself that all went as He wished. At the end of this time, being a man of great age, he retired from active life and was succeeded by His grandson Mars. Corona was then made King of Persia, with Theodorous under him as King of Mesopotamia and Babylonia, and thus the independent Persian Empire was fairly launched upon its long career.
 
@@ -1068,30 +977,7 @@ He carried on this process of gradual annexation for two years, closing the camp
 
 Yajna' s wife Alba was inordinately proud of the fact that she was the eldest daughter of Koli, who in turn was the eldest grandson of the Manu and she founded upon this a claim to succession to the throne of Persia on behalf of her son Muni. To pacify her, her husband finally promised to lay this claim before Sirius and Alcyone, though he took pains expressly to dissociate himself from it, and to explain that he personally favored the theory of the descent of a title through male heirs only. Sirius and Alcyone disallowed the claim, but as some sort of compensation they conferred upon Yagna the title of King instead of Viceroy of Armenia, and arranged that it should descend to his son Muni, and to his heirs forever, bearing with it the same nominal subordination to the crown of Mesopotamia that the latter yielded to Persia. It was at the same time arranged that in case of war the King of Armenia should act as commander in chief of the combined armies of the three countries, because of the genius which he had shown in military matters. The reputation which he had already won for the Persian armies, however saved them from the necessity of any further manifestation of strength during Alcyone' s lifetime; the three brothers were in due course succeeded by their eldest sons, Vega, Mizar and Muni, and the peaceful development of the Empire made steady progress under their care.
 
-Chart IX
-Central Asia and Persia
-
-30200 B.C.
-
-Orpheus Parthe
-
-Kudos Ronald
-
-Chart IX
-Central Asia and Persia
-
-30200 B.C.
-
-Electra Colos
-
-Chart IX
-Central Asia and Persia
-
-30200 B.C.
-
-Parthe Orpheus
-
-Tripos
+Chart IX - Central Asia and Persia - 30200 B.C.
 
 ## Life X
 
@@ -1099,9 +985,7 @@ An unusually short interval separates this next life of our hero from the last. 
 
 Mars had a family of seven children, four sons and three daughters—all of them characters with whom we are already acquainted. His eldest son and heir was Jupiter; Mercury came next, and then our hero Alcyone, while Orion was the youngest of the brothers. The sisters were Electra, Rama and Fides, while other old friends were to be found close by in the family of the Chief Priest Surya, who had Mizar, Yajna and Selene among his sons, and Sirius among his daughters. All these young people played, learnt, and grew up together, and were to all intents and purposes members of one household, so the affection which already existed between them as the result of association in previous ages had every opportunity to manifest and develop.
 
-As our young people approached adolescence their affection took on a new form, and presently Jupiter married Leo, and Mizar took to wife Electra, his fellow-member in that' trinity'
-
-of old.
+As our young people approached adolescence their affection took on a new form, and presently Jupiter married Leo, and Mizar took to wife Electra, his fellow-member in that' trinity' of old.
 
 Mercury did not marry, as all his thoughts were turned in the direction of preparation for the coming of the Mahaguru.
 
@@ -1123,9 +1007,7 @@ Sirius modestly answered that she could and would, so the couple were then and t
 
 Alcyone started and led her back up the long hall; and when his father turned to him with surprise, he said: "I ought to tell you Sire, that my brother Orion also loves this lady, and that this betrothal will be a great blow to him."
 
-"Oh!"
-
-ejaculated the King;"and which of them do you prefer, young lady? You seem quite happy with things as they are!"
+"Oh!" ejaculated the King;"and which of them do you prefer, young lady? You seem quite happy with things as they are!"
 
 Sirius blushingly intimated that she was more than satisfied, and that she could not think of disturbing the King' s arrangements. So Mars said:
 
@@ -1165,30 +1047,7 @@ Because of this they were all at an early age thoroughly conversant with all the
 
 A busy and useful life, in harness up to its last days, extending into the reigns of three Emperors—his father Mars, his brother Jupiter, and his nephew and son-in-law Capella, whose wife Ivy was celebrated as the beauty of the family. He passed away peacefully in his own house in the eighty-fifth year of his age, and on his deathbed the Mahaguru appeared to him in the well-known form of his brother Mercury—not aged like himself, but young and glowing as he had last seen it on the memorable day of the Ascension— congratulated him on a life spent without stint in His service, and called him to a time of well-earned rest with Him. He passed through the astral world almost immediately, and during the eight hundred years of his life in the heaven-world the Mahaguru was the principal figure in his surroundings, and in the bliss of His presence he grew as the flower grows, eagerly opening its heart to the sun.
 
-Chart X
-Persia
-
-29700 B.C.
-
-Mahaguru
-
-Mercury
-
-Orion
-
-Spica Gimel
-
-Chart X
-Persia
-
-29700 B.C.
-
-Chart X
-Persia
-
-29700 B.C.
-
-Gamma
+Chart X - Persia - 29700 B.C.
 
 ## Life XI
 
@@ -1225,9 +1084,7 @@ Their first object was to get clear of the city, so as to avoid any probability 
 
 As several people were hurrying along the road into which they had come so abruptly, they thought it wise not to hesitate, but to walk straight across it as though they had some business with the ship which lay against the quay opposite. As they could see no one on board, it seemed best to walk straight on to the half deck as though they had a right there, and their movements apparently excited no suspicion on the part of the passers-by. At first they had a wild hope that they might be able to seize the ship and escape by its means, but they saw men moving about on another vessel close by, and realised that these people' s attention would be attracted by anything so unusual as an attempt to move a ship at night. Alcyone however caught sight of a small boat attached to the stern, and it at once occurred to him that though the larger craft certainly could not be moved without arousing curiosity, it would not strike anyone as unusual that a small boat should pass along from one vessel to another. He communicated his idea in a whisper to his companions, who highly approved; but Electra said:
 
-"
-
-Before we embark upon a voyage, let us see whether we can find anything to eat aboard here."
+"Before we embark upon a voyage, let us see whether we can find anything to eat aboard here."
 
 Searching quickly yet carefully, they soon came upon a store of food—curiously shaped loaves of coarse hard bread, and masses of dates and figs, all crushed together into cakes. It was the fare of the common sailor, but our half-starved heroes recked naught of that; Alcyone hastily stripped off his cloak and made a sort of bag of it, which they filled with bread and fruit, while Electra found and promptly appropriated a little of olive oil. Meanwhile Saturn, who was examining the after part of the vessel, came suddenly and excitedly to tell them that a man(probably the watchman) lay asleep there upon a heap of sails. They moved like cats to avoid waking him; and contrived to get safely into a boat, which was only just large enough for the three. They cast it silently and pushed themselves along by the side of the ship, and paddled quietly with their hands for a few yards, so as to make no noise. There were two oars in the boat, but they did not use these until they were well out of sight of the line of vessels, fearing to attract attention.
 
@@ -1281,9 +1138,7 @@ There were naturally various subdivisions—weaving, pottery, carving, ironfound
 
 Another section of government work was the maintenance of roads and communications, to which great attention was paid. A subdivision of this concerned itself of opening up of trade routes, and arranging for regular caravans to use them.
 
-Each of these great departments of state had its own head and its own specialists, but the King had to understand and supervise the whole; so, as part of his preparation, Alcyone passed some time in each of them, studying and carefully watching. When later he came to the throne, he kept them all at high level of efficiency, paying frequent surprise visits to them, and occasionally workings of the machinery of state, and constantly taking a hand in them himself. He"plagiarised by anticipation”
-
-the methods of the renowned Haroun-al-Raschid, for he often went among his people in disguise, in order to do justice and to discover merit. In this way he found among the undistinguished mass of his subjects some very honest and clever servants, who might otherwise have remained mute and inglorious. Some of his adventures when upon these curious secret expeditions were not unlike those of the great Muhammadan Caliph. He was often accompanied upon them by his brother Viraj, and later I life by his son Mercury.
+Each of these great departments of state had its own head and its own specialists, but the King had to understand and supervise the whole; so, as part of his preparation, Alcyone passed some time in each of them, studying and carefully watching. When later he came to the throne, he kept them all at high level of efficiency, paying frequent surprise visits to them, and occasionally workings of the machinery of state, and constantly taking a hand in them himself. He"plagiarised by anticipation” the methods of the renowned Haroun-al-Raschid, for he often went among his people in disguise, in order to do justice and to discover merit. In this way he found among the undistinguished mass of his subjects some very honest and clever servants, who might otherwise have remained mute and inglorious. Some of his adventures when upon these curious secret expeditions were not unlike those of the great Muhammadan Caliph. He was often accompanied upon them by his brother Viraj, and later I life by his son Mercury.
 
 Many and varied were the duties of an autocratic monarch in those days of long ago, and Alcyone fulfilled them with painstaking exactitude. Indeed, it may be said that he were himself in doing the work of his country, for he died at what for him the comparatively early age of sixty-two—to a large extent a victim of too keen a sense of responsibility and of a system of excessive centralisation. His sister Yajna had married Corona; and when at the death of Alcyone, his son Mercury succeeded to the throne, Corona' s advice and remarkable organising power were invaluable to the new King, who with that assistance endeavoured so to divide the labour that everything could be carried on efficiently without making the royal position impossibly onerous.
 
@@ -1344,9 +1199,7 @@ His father and mother were reconciled to his undertaking this long journey, thou
 
 "My dear daughter, I know exactly what you are feeling; you have never lost the memory of your spectre-suitor, and you cannot bear the idea of unfaithfulness to him. I sympathise deeply, yet I also feel that we have absolutely no certainty that he really existed, that he still lives, that he on his part is faithful to you. Even if he lives, even if he still loves you, he may have been forced into a marriage in his own country; we know nothing of its customs; we do not even know where it is. Is it well to sacrifice your life to what may after all have been only some strange kind of unusually vivid dream? You know that your father and I wish to see you settled, and you will never have a better offer than this."
 
-The daughter admitted that her heart was entirely devoted to her spectre-boy, and said quite frankly that though she did not know whether she should ever see him again, she would rather submit to perpetual spinsterhood than marry any one else, for she felt that the boy she had twice so strangely seen was her own mate. Her mother acknowledged that the dictates of her own instinct agreed entirely with her daughter' s decision, though on the physical plane such a course should not be defended as sensible. "If only he would come to us again,"
-
-she said,"we could perhaps discover something more about him, so that we might have a comprehensible reason to give for at least asking for a delay."
+The daughter admitted that her heart was entirely devoted to her spectre-boy, and said quite frankly that though she did not know whether she should ever see him again, she would rather submit to perpetual spinsterhood than marry any one else, for she felt that the boy she had twice so strangely seen was her own mate. Her mother acknowledged that the dictates of her own instinct agreed entirely with her daughter' s decision, though on the physical plane such a course should not be defended as sensible. "If only he would come to us again," she said,"we could perhaps discover something more about him, so that we might have a comprehensible reason to give for at least asking for a delay."
 
 Surya heard all this, and burned with eagerness to manifest himself; but he remembered his promise to his mother, and so was torn between two duties. Suddenly it occurred to him to wonder why he was obviously invisible to his friends, though he could himself hear and see quite clearly. Without understanding the detail of the matter, he saw that the circumstances of his presence were somehow different, and he instinctively felt that even if he had been free to make the same effort as before, it could not have been successful. So he turned his attention in another direction. He had lately been studying what we should now call mesmerism, and so it came naturally to him to turn to account his newly acquired knowledge. He exerted all his strength to impress upon the mind of the girl the fact of his presence, and in a few moments he saw that he was succeeding. She started, turned towards him, and peered earnestly into the shadows in the corner where he stood. He redoubled his efforts, throwing his whole soul into his fiery glance and directly afterwards she uttered a loud cry: "Mother, he is here! Do you not see him?"
 
@@ -1354,7 +1207,7 @@ She rushed towards him, but her outstretched arms passed trough him, and she cri
 
 "He is but a spectre indeed; I cannot touch him; alas, he must be dead!"
 
-With all the strength he impressed upon her the reply:"Not dead, but living! Within a year I shall come to claim you."
+With all the strength he impressed upon her the reply: "Not dead, but living! Within a year I shall come to claim you."
 
 And she heard and understood, and eagerly repeated his words to her mother. Then he turned the current of his will upon the mother, and for a moment she saw him too; then the strain told upon him, and he vanished from their sight. But he was still able to watch long enough to see them fall into each other' s arms, weeping tears of joy, and to hear them speak of his noble appearance, and say that he had more than fulfilled the promise of his boyhood. Then he returned to his body, woke up in great excitement and high resolve, and as soon as it was light went to his father and mother and told them what he had seen and heard. They agreed with him that his destiny was manifest, and that the will of the Sun-God had clearly declared itself in this matter. Indeed, his father publicly related the circumstances at one of the great religious gatherings as a gracious indication of the interest of the Deity in his worshippers, and he sent his son upon his long journey with an equipment worthy of his rank.
 
@@ -1364,9 +1217,7 @@ With such methods of physical transit as were available, it took him almost a ye
 
 Inquiry in the neighbourhood had obtained for him the name of the lady of the house, so he boldly asked for her. When he was ushered into her presence, she recognised him immediately, and welcomed him with profound joy and many exclamations of wonder. Her daughter was instantly sent for, and when she entered the room she sprang into his arms with a glad cry of triumph and love. He was at once on the footing of a friend of the family, or rather of an honoured member of it; and he lost no time in inquiring about their side of the amazing story of their previous meetings. It agreed exactly with his own recollection in every particular; but naturally they had also to tell of the shock of stupefaction with which they had seen him vanish on his first and second visits. They had never doubted that he was a real living man, though only the daughter had been unshakably certain that she would one day meet him in the flesh.
 
-Presently the father came in, and Surya was introduced to him; indeed, it was then that for the first time he really explained who he was, and from what country he came, for before they had all been too busy discussing his previous appearances to do anything else than take him for granted. His account of himself was accepted as eminently satisfactory, though his prospective mother in law looked very sober when she understood how far away from Manoa her daughter' s new home would be. Surya was careful to explain that in Ireland there was less of luxury than in Manoa, and that their life was lived chiefly in the open air; but of all this his lady-love recked less than nothing, caring for naught else now that she had at last found the lover who for so many years had been to her halfmyth, and yet at the same time the most vivid fact in her consciousness. Naturally she had filled up by her imagination the numerous gaps which inevitably existed in her knowledge of him;
-
-and she was surprised to find in how many cases she had guessed exactly right, so that eventually they began to see that some sort of clairvoyance or intuition had guided her when she thought she was giving rein to her maiden fancies.
+Presently the father came in, and Surya was introduced to him; indeed, it was then that for the first time he really explained who he was, and from what country he came, for before they had all been too busy discussing his previous appearances to do anything else than take him for granted. His account of himself was accepted as eminently satisfactory, though his prospective mother in law looked very sober when she understood how far away from Manoa her daughter' s new home would be. Surya was careful to explain that in Ireland there was less of luxury than in Manoa, and that their life was lived chiefly in the open air; but of all this his lady-love recked less than nothing, caring for naught else now that she had at last found the lover who for so many years had been to her halfmyth, and yet at the same time the most vivid fact in her consciousness. Naturally she had filled up by her imagination the numerous gaps which inevitably existed in her knowledge of him; and she was surprised to find in how many cases she had guessed exactly right, so that eventually they began to see that some sort of clairvoyance or intuition had guided her when she thought she was giving rein to her maiden fancies.
 
 There had been so manifestly an intervention of divine power in their wondrous story that it never even occurred to the parents to object to the departure of their daughter to a far-away and unknown country; but they did plead for some delay, and eventually it was decided that the marriage should take place immediately, but that the newly-weded pair should reside in the bride' s old home for a year, especially in the hope that the first child might be born under that roof. Surya gladly agreed to this, and despatched one of his suite to return to Ireland and bear to his mother news of his safe arrival, his marriage and his plans, and ask her to be ready in a year' s time to welcome her daughter-in-law. The twelve months passed quickly, and before they were over the hopes of elders were fulfilled, for a noble son was born-our old friend Electra.
 
@@ -1377,13 +1228,11 @@ Thus it will be seen that Aryan blood was introduced into the family of Chief Pr
 Electra was a wise father, and contrived to retain the full confidence of his little boy, so that they were always very happy together. Alcyone was a great favourite also with his grandfather Surya and his grandmother Dhruva, and he loved nothing better than to sit at the feet of the latter while she told him wonderful stories of the city where his father was born, of its wide streets and its magnificent buildings, and above all of the marvellous beauty and serenity of the mighty Temples, built who knows how long ago by the hands of giants and godlike men of the old upon the mysterious
 White Island.
 
-"Why have we no such temples here, grandfather?"
+"Why have we no such temples here, grandfather?" he asked Surya one day.
 
-he asked Surya one day.
+And the great Priest answered:
 
-And the great Priest answered:"
-
-My boy, each race has its own customs, and its own ways of worshipping God; and so long as they acknowledge Him, it matters but little how. We have no temples because our forefathers have taught us that our God is everywhere, and that we need not set apart one time or one place more than another in which to serve Him, because our love to Him should be always in our hearts, so that every grove or field or house is to us a temple of His service, and every day a holy day upon which to do Him honour. We think that the trees and the sky which He has made are grander than any human work, and so we make them the pillars and the roof of our temple. For the same reason we have few ceremonies, because we think that our whole life should be one long ceremony of devotion to His service. You donot remember how, soon after you were born, you were carried up the hill in the early dawn to the great alter-stone near the summit, and laid upon it to await the morning kiss of our Lord the Sun, and how, as the first glad beam of rosy light fell upon you, I blessed you in His name and offered to Him as a sacrifice the life long devotion of your strength to His service, and of your body as a channel for His love. And if you so choose, later on there will be yet another ceremony which will dedicate you in a new sense to a still fuller service, when you become a Priest like me and like your father."
+"My boy, each race has its own customs, and its own ways of worshipping God; and so long as they acknowledge Him, it matters but little how. We have no temples because our forefathers have taught us that our God is everywhere, and that we need not set apart one time or one place more than another in which to serve Him, because our love to Him should be always in our hearts, so that every grove or field or house is to us a temple of His service, and every day a holy day upon which to do Him honour. We think that the trees and the sky which He has made are grander than any human work, and so we make them the pillars and the roof of our temple. For the same reason we have few ceremonies, because we think that our whole life should be one long ceremony of devotion to His service. You donot remember how, soon after you were born, you were carried up the hill in the early dawn to the great alter-stone near the summit, and laid upon it to await the morning kiss of our Lord the Sun, and how, as the first glad beam of rosy light fell upon you, I blessed you in His name and offered to Him as a sacrifice the life long devotion of your strength to His service, and of your body as a channel for His love. And if you so choose, later on there will be yet another ceremony which will dedicate you in a new sense to a still fuller service, when you become a Priest like me and like your father."
 
 Alcyone was satisfied; but he nevertheless resolved that as soon as he grew old enough he would travel to far-away Central Asia, and visit the great city with which his fate seemed so strangely linked. This resolve he duly carried out, for he made that journey, bearing gifts from King Mars of Ireland to the Emperor of Manoa, and he spent two years in the city which long centuries before he had helped so much in building. Perhaps it was this latter fact, or perhaps it was only the many stories which he had heard about it, which caused him to feel that nothing there was strange to him, but that he was as much at home as upon his own hill-sides. His great grandmother was still alive, and delighted to see him, and to show him the tank from which his grandfather saved his grandmother, the room in which his father was born, and all such mementoes of earlier days as very old people delight in. She was much pleased with him, and heaped upon him presents of great value, so that he returned home after two year' s stay in Manoa a far richer man than he had been on his arrival. When he reached home, it was he who had tales to tell to his grandmother Dhruva—tales of the country which forty years before she had left for the sake of love, yet had never forgotten even for a day.
 
@@ -1430,9 +1279,9 @@ Naga continued:
 
 "My little niece was so strongly attracted to the boy who led her into the garden, and it makes her sad not to see him again; cannot this be arranged? May they not play sometimes as they did on that occasion?"
 
-The young man answered:"
+The young man answered:
 
-Tell her that just as she loves that boy, so does he love her, and desires earnestly to see her; yet it is better that they should not meet, for they are of different worlds, and it is not meant that these worlds should intermingle too freely. If she came to us she would be lost to you; and she has work to do in your world. Believe me, things are best as they are. The boy will continue to love her and watch over her unseen. See I will call him."
+"Tell her that just as she loves that boy, so does he love her, and desires earnestly to see her; yet it is better that they should not meet, for they are of different worlds, and it is not meant that these worlds should intermingle too freely. If she came to us she would be lost to you; and she has work to do in your world. Believe me, things are best as they are. The boy will continue to love her and watch over her unseen. See I will call him."
 
 In a moment a handsome boy stood beside him. Naga held out his arms to him, and he came forward and gravely allowed him to embrace him; his look was full of longing, but he spoke no word.
 
@@ -1441,14 +1290,6 @@ Naga kissed him on the forehead, saying: "Take that as a greeting from her who l
 Then in a moment the figures were gone, and Naga tried to persuade himself that it had been but a dream. Yet he well knew enough that it was something of the kind; and Alcyone and Yajna realised it too as soon as he told them the story. Many times Yajna dreamed of her boy friend, and often unexpected and inexplicable help was given to her in sundry childish difficulties; and she always attributed such help to his watchfulness. She clung tenaciously to his memory, and always said as a child that she meant to find him and marry him; but as she grew up the impression gradually wore off, and she finally married Muni—though she said that she did so only because he reminded her of her fairy boy more than any one else.
 
 Alcyone lived as usual to a ripe old age, loved and reverenced by all the thousands who knew him.
-
-Chart XII - Ireland - 27500 B.C.
-
-Inca Kepos
-
-Chart XII - Ireland - 27500 B.C.
-
-Chart XII - Ireland - 27500 B.C.
 
 Chart XII - Ireland - 27500 B.C.
 
@@ -1463,11 +1304,7 @@ Our boys had realised the condition of affairs when some distance away, and they
 
 The whole group was cowed by the suddenness of this unexpected assault, but after a few moments seeing only three small boys, they turned upon them savagely and made as if to attack them. Our three stood round the old man, who now sat up and looked about him in a dazed sort of way; and Herakles seized the ivory staff, and held it out towards the menacing crowd, shouting.
 
-"
-
-I am the son of the King, and I order you instantly to retire
-
-."
+"I am the son of the King, and I order you instantly to retire."
 
 It is probable that some of the ruffians recognised him, for after a few hurried whispers they drew back sullenly, and the little crowd gradually melted away, so that our three boys were able to turn their attention to the elderly stranger whom they had rescued.
 
@@ -1479,9 +1316,9 @@ The old man ( who has previously been known to us as Laxa) seemed touched by the
 
 "I suppose,"he said,"you did not expect such rooms in a house which seem so poor."
 
-When they assented he continued:"
+When they assented he continued:
 
-I am not quite so poor as I find it advised to appear in a country where men of my race are despised and often ill-treated. I can assure you that you will find me not ungrateful for the great kindness which you have shown me, and perhaps my gratitude may not be so entirely worthless as at first sight it might seem to be."
+"I am not quite so poor as I find it advised to appear in a country where men of my race are despised and often ill-treated. I can assure you that you will find me not ungrateful for the great kindness which you have shown me, and perhaps my gratitude may not be so entirely worthless as at first sight it might seem to be."
 
 The boys understood but little of the meaning of his talk, but they saw that he intended to be friendly, and their native courtesy induced them to treat so old a man with deference. They were much interested in many curiosities in the room, and Laxa seemed pleased to show in many of the curiosities in the room, and Laxa seemed pleased to show them to them, and to explain their character and use. Presently he struck upon a beautifully-chased gong, and a servant appeared, to whom he gave orders to bring refreshment. The boys at first demurred, but the old man pressed food upon them so insistently that they were afraid of hurting his feelings by refusing, and consequently partook of some curious little sweet cakes with an odd spicy flavour quite new in their experience.
 
@@ -1551,25 +1388,7 @@ Both the cousins had been betrothed before they left home, and deep had been the
 
 As the years rolled by large families grew up around them, and life went very well with them. Alcyone and Naga endeared themselves to all the people in their great province, travelling constantly about it, and obtaining private and detailed information as to the needs of the people through the organisation to which they belonged. On several occasions they paid visits to their relations at Manoa, Naga remaining in charge of the province when Alcyone was away, and Alcyone doing double work during the absence of Naga; but they were never both away simultaneously, until at the age of sixty Alcyone obtained from Herakles(who had by that time succeeded his father Mars) leave to retire and spend the rest of his days in his own country. Five years after his return Alcyone passed peacefully away, leaving behind him a record of efficient and useful work for his country.
 
-Chart XIV
-Manoa
-
-26800 B.C.
-
-Chart XIV
-Manoa
-
-26800 B.C.
-
-Chart XIV
-Manoa
-
-26800 B.C.
-
-Chart XIV
-Manoa
-
-26800 B.C.
+Chart XIV - Manoa - 26800 B.C.
 
 ## Life XV
 
@@ -1591,11 +1410,7 @@ In a home of this sort Mars and Alcyone lives their lives very happily and broug
 
 Mars ruled his tribe as ever well and wisely, and Alcyone' s life was a placid and happy one. Though her work consisted largely of superintending the spinning and weaving and the household duties, it was by no means confined to this, for she constantly discussed with her husband the affairs of the tribe, and accompanied him on long rides over the rolling and somewhat barren country. The people were not wholly vegetarian, for they certainly ate goats flesh dried and smoked. In addition to this their staple food was cheese and bread, although they ate a good deal of fruit when they could get it. The religion of these people was not very prominent or well defined. It may be described as animistic in type, for they unquestionably deified some of the powers of nature, but they also offered what practically amounted to worship to their ancestors. This uneventful life ended at what is for Alcyone the comparatively early age of sixty.
 
-Chart XV
-Mangolia
-
-Chart XV
-Mangolia
+Chart XV - Mangolia
 
 ## Life XVI
 
@@ -1622,27 +1437,7 @@ They made prisoners of the three people we have mentioned, and brought them befo
 
 This was on the whole a quiet and uneventful life, passed in a pleasant land and among an amiable people. They were not by any means unlike those of their race whom we have already described as living in Ireland a few centuries before. They were good farmers and bold seamen, hospitable and affectionate, showing a great reverence for old age. The great men among them were rather orators and poets than fighters; and certain amount of excellence along these lines was expected from the leaders of the people, as all judgements, sermons and public speeches of any sort on great occasion were invariably delivered in extemporaneous verse. They were clever builders, weavers and dyers; and their woodcarving was remarkably good, intricate and detailed. The life was on the whole happy and simple one, with no striking events, and at the end of it Alcyone passed peacefully away at the elevated age of eighty-eight.
 
-Chart XVI
-New Zealand
-
-25,528 B.C.
-
-Chart XVI
-New Zealand
-
-25,528 B.C.
-
-Oak Ophis
-
-Chart XVI
-New Zealand
-
-25,528 B.C.
-
-Chart XVI
-New Zealand
-
-25,528 B.C.
+Chart XVI - New Zealand - 25,528 B.C.
 
 ## Life XVII
 
@@ -1692,11 +1487,7 @@ The next morning that vast amphitheatre was even fuller than it had been the day
 
 Solemnly and slowly he rode up the lane kept by his soldiers, his sons walking on either side of him, when he reached the central pyramid he dismounted and climbed the steps, and then turned and spoke to his people:
 
-"
-
-My people,"
-
-he said,"
+"My people," he said,"
 
 I come to you today to bring you glad tidings of great joy. For many years you have suffered terribly.
 
@@ -1704,9 +1495,7 @@ You have yielded up your dear sons to the sacrifice, and have seen them drawn fr
 
 And he ranged before him on the steps of his pyramid Rama, Neptune, Naga, Euphra, Selene, Mizar, and Brihat. And turning to the people he said:
 
-"
-
-Here now before you all I consecrate these my children to the work of the priesthood, and they shall go forth through all the land and teach the faith of light instead of darkness, of joy instead of fear. And now since a great tyranny is overthrown, I call upon you all to make this a day of rejoicing—such rejoicing as you have never known before. For this day you are all my guests, and I bid you make merry and rejoice. I order also that every year for ever this day shall be set apart and kept holy in memory of the beginning of a new era. And so for the first time as your real High Priest and King I give you the blessing of the Great God who is the true Father of His people."
+"Here now before you all I consecrate these my children to the work of the priesthood, and they shall go forth through all the land and teach the faith of light instead of darkness, of joy instead of fear. And now since a great tyranny is overthrown, I call upon you all to make this a day of rejoicing—such rejoicing as you have never known before. For this day you are all my guests, and I bid you make merry and rejoice. I order also that every year for ever this day shall be set apart and kept holy in memory of the beginning of a new era. And so for the first time as your real High Priest and King I give you the blessing of the Great God who is the true Father of His people."
 
 All those who had heard the words of the King raised a great shout of joy, and the gist of them was quickly repeated all through that vast crowd clear back to the walls of the amphitheatre, and then to the thousands outside who had been unable to enter. And truly, as all, rich and poor alike, though there were many among them who wondered whether indeed this thing could be really true, and whether perchance the old and the evil gods would not presently take strange vengeance upon them.
 
@@ -1718,20 +1507,16 @@ The Priests, with Scorpio at their head, were consequently driven over to the so
 
 The change in the country was marvellous, and the people blossomed out like flowers under its influence. For a long time they seemed hardly able to believe in their freedom, and a sort of popular song or recitation was composed, of which the burden was"Never again."
 
-"Never again,"
-
-it said,"shall blood flow upon the alters;
-
-never again shall our children be torn from our arms; never again shall our property be stolen from us; never again shall we suffer unnamable horrors in the name of those devils whom we took for
+"Never again," it said,"shall blood flow upon the alters; never again shall our children be torn from our arms; never again shall our property be stolen from us; never again shall we suffer unnamable horrors in the name of those devils whom we took for
 Gods; never, never again."
 
 In the midst of all this general rejoicing Spica' s heart was full of sorrow for though indeed her son had been rescued from the power of Scorpio, his mind was clouded and the evil influence was still strong upon him. She heard from one of those who had been monks, who was therefore acquainted with the nefarious mesmeric powers of Scorpio, that one who had once come under his control could never break away from it again, but most inevitably pass through the various stages of degradation which ended in vampirism. Much horrified at this, she carried her case once more before her father the King, but he had to confess himself powerless in this matter, knowing nothing as to how to deal with it. He spoke with great kindness to his daughter, and showed much sympathy and sorrow, but yet he knew not what to advise. At last he turned suddenly to Alcyone and said to her: "Daughter, through you there came to us the advice which has saved my kingdom, and has freed it for ever from the powers of evil. Can it be that in this case also you can come to our assistance, and rid this poor suffering boy of evil, even as you have done for the country as a whole?"
 
 Then the power seized once more, and she arose and said: "O King, the power of evil is terrible indeed, and to oppose it may well mean the rending asunder of body and soul. Yet it must be opposed, even though the victim die, because if we do not oppose it, then is he lost not for this time only but for all time, for never again can he free himself from the downward course of the vampire. I cannot tell what the result may be, yet must I set him free even though in doing so I may destroy his body."
 
-So she turned upon her shrinking nephew, and raised her hands in the air above his head, and cried aloud:"
+So she turned upon her shrinking nephew, and raised her hands in the air above his head, and cried aloud:
 
-In the Name of the Great Father of all, let this curse depart from thee!"
+"In the Name of the Great Father of all, let this curse depart from thee!"
 
 The boy uttered a terrible cry and fell to the ground as one dead. He lay in a trance of unconsciousness for many days, but at least he did not die, and after a long while consciousness returned to him, and he called faintly for his mother. Weak and ill he was indeed, yet she knew that she had her son back again from the dead, for now he knew her and clung to her as of old. Presently he slowly recovered, yet the shock had been so terrible that all through his life he remained nervous and easily disturbed. Indeed, for many lives and through thousands of years something of the effect of that terrible psychic convulsion was still to be seen. For the evil High Priest had seized upon the very soul of him, and had made for it a link with that whose name must not be spoken. And the breaking of such a link is a feat which but few can accomplish, yet this case it has been done by the power and love of Alcyone—and of Surya who worked through her, though not then in physical incarnation.
 
@@ -1739,33 +1524,13 @@ Alcyone' s life passed on in great love and happiness. She married her cousin Se
 
 Chart XVI - Mexico - 24700 B.C.
 
-Chart XVI - Mexico - 24700 B.C.
-
-Chart XVI - Mexico - 24700 B.C.
-
-Chart XVI - Mexico - 24700 B.C.
-
-Scorpio
-
-Tripos
-Cancer
-Lacey
-
-Chart XVIIa
-Egypt
-
-24045 B.C.
-(Birth of Orion)
+Chart XVIIa - Egypt - 24045 B.C. (Birth of Orion)
 
 Alcyone now takes an interval of nearly a thousand years before his next incarnation, and the majority of our characters move along with him.
 
 Some few, however, who distinctly belong to the type which takes shorter intervals, seem to find it impossible to stay away so long, and consequently come back as, a small group on their own account in Egypt, about the year 24000. A list of their relationships is here appended.
 
-Chart XVIIb
-Hawaii
-
-23875 B.C.
-(Birth of Orion)
+Chart XVIIb - Hawaii - 23875 B.C. (Birth of Orion)
 
 Orion, one of our list of characters, has been found to have a somewhat abnormal list of lives, which were written out in some detail in volumes xxxii and xxxiii of The Theophist. In this book we shall reproduc the charts, in order that our list of incarnations may not be seriously imperfect, but of the lives themselves we can publish here only the briefest epitome, referring our readers to the magazine for further details.
 
@@ -1777,12 +1542,7 @@ Alastor was a very vindictive man, and having contrived to quarrel with the King
 
 Presently the old King died, and his son succeeded to the throne. This change of rulers was unfavourable to Orion's plans. He had been able to manage the older man, but found the son distinctly suspicious of him, and disposed to find fault. An embassy arrived from a neighbouring island, and the King consulted Orion as to how he should receive it. Orion advised that it should be received haughtily and disrespectfully, and the result of this was an invasion. When the enemy arrived Orion was advised to curse them and prevent them from landing but his curses proved ineffectual, and he lost much of his prestige and power. Eventually the King took advantage of a quarrel to depose Orion, and sent him away; and as soon as it was seen that he was no longer under the protection of the King, Epsilon, who was one of his enemies, fell upon him and stabbed him. Epsilon had been a lover of Zeta, a sensitive, highly strung girl, the daughter of a rich man. When Epsilon wished to marry her the high priest refused his consent (which according to the law of the country was required) unless the father of the girl would surrender to the priesthood a large part of the patrimony. This the father declined to do, and Orion threatened all kinds of physical and supernatural ills. These threats so preyed upon the girl's mind that eventually she became insane, and her lover Epsilon vowed vengeance upon Orion, and took it as soon as the opportunity presented itself.
 
-Orion -(1) Cancer
--(2)Gamma
-Epsilon
-Zeta
-
-Cygnus
+...
 
 ## Life XVIII
 
@@ -1828,36 +1588,9 @@ So it came to pass that when the time of mourning was over Mizar and Alcyone wer
 
 Mizar and Alcyone certainly merited the blessing called down by the wise king of old on the man who hath his quiver full, for they had no fewer than fourteen children in addition to the two who were Dhruva' s. In the fullness of years King Rama also died, and Alcyone' s brother Viraj came to the throne—the eldest of the seven brothers. All the other six still survived, and were acting either as Governors of provinces under Viraj or as travelling inspectors, for the scheme that Mars had instituted long before was still being carried out. Several outlying provinces had had by this time been annexed, and the system of frontier guards had been perfected, so that the latter half of Alcyone' s life was a time of peace and great progress so far as the country was concerned. As usual Alcyone lived to old age, and finally passed away at the age of eighty-nine, after a life of great usefulness in which her many children had been well and happily trained.
 
-Chart XVIII
-North America
+Chart XVIII - North America - 23,681 B.C.
 
-23,681 B.C.
-
-Alcyone 1. Dhruva
-2. Mizar
-
-Chart XVIII
-North America
-
-23,681 B.C.
-
-Chart XVIII
-North America
-
-23,681 B.C.
-
-Nimrod
-
-Chart XVIII
-North America
-
-23,681 B.C.
-
-Chart XVIIIa
-Tartary
-
-15690 B.C.
-(Birth of Orion)
+Chart XVIIIa - Tartary - 15690 B.C. (Birth of Orion)
 
 Orion was born in a Tartar race in Central Asia. He was the son of a high official, a governor of a district whose duty led him to travel constantly all over his province. In the intervals between these journeyings he and his family lived in one of the principal houses in the chief city of the province.
 
@@ -1865,29 +1598,9 @@ Here unfortunately lived Gamma, the same woman who had exercised such an evil in
 
 Meanwhile, news of their flight together had reached Orion's family, who was furious, considering that he had disgraced their name and had dragged their honour in the dust by intermarrying with their hereditary enemies; so his father sent his brother succeded in tracing the pair ; finding them domiciled among a powerful warlike tribe he hesitated to make any attack upon them. Presently he allied himself with a robber band, which occupied a small rocky valley among the hills, and presently, with the aid of a couple of bandits he made an attack upon his brother and tried to kill him. Orion, however, succeeded in beating off his assailants; so Scorpio, having failed in that, kidnapped Orion's little son Aldeb. Orion thereupon organised an attack upon the bandits' valley, and after hard fighting captured it and rescued his little son. In the course of the fighting he killed Scorpio, who was in disguise, and then for the first time he discovered that it was his own brother who had been thus pursuing him. The remainder of his life passed comparatively quietly and he at the age of fifty-eight.
 
-Chart XVIIIa
-Tartary
+Chart XVIIIa - Tartary - 15690 B.C. (Birth of Orion)
 
-15690 B.C.
-(Birth of Orion)
-
-Pax
-
-Sagitta
-Ophis
-
-Scorpio
-
-Gamma
-Kappa
-
-Nu
-Abel
-
-Chart XVIIIb
-Madagaskar
-
-22,978 B.C.
+Chart XVIIIb - Madagaskar - 22,978 B.C.
 
 Orion re-appears in a female body in the year 22,978, in the island of Madagaskar. She was again the child of Alastor, who this time was a celebrated hunter. When Orion grew up she fell deeply in love with Cygnus, who had been her son in a previous life. Alastor was unfavourable to their union, and sold Orion to an older man, Cancer, who had been his wife in that other life. This man had a previous wife Gamma, who in Hawaii had been the lover of Orion's wife Cancer, and had been poisoned by him. Gamma was jealous and vindictive, and made things most unpoeasant for Orion, but was afraid to do her any serious harm while the husband continued to love her and to her children. The husband became more and more indifferent, because he was in love with Zeta, who had been in Hawaii the young girl who was driven mad by Orion's threats. Orion tried to console herself by a love affair with Cygnus, but Gamma discovered their proceedings and brought the husband down upon them. Cygnus was horribly mutilated before Orion's eyes and then thrown to a giant octopus, who was regarded as some sort of a deity. Maddened by a suspicion that it was not his own, the husband snatched from her her year old baby, and threw it into the fire before her eyes, and then degraded her to the position of a slave in his house, a position in which she was kept for twenty years, and very harshly treated. During all this time she nourished the most intense hatred towards her husband and Gamma. Now the latter had a little grandson whom she loved passionately, and one Orion, maddened by some special act of cruelty, seized this grandson and pushed him into the fire in turn. In revenge for this, Gamma ordered Orion to be seized and stretched naked upon the ground near a hill of huge driver ants, who at once attacked and devoured her.
 
@@ -1933,9 +1646,7 @@ Many handsome presents were given to them, and it is noteworthy that all these w
 
 Some beautiful chased silver swinging lamps were given by Mizar, and were filled with sweet scented oil which perfumed the whole temple. At various points during the ceremony the bells in the domes sounded soft muffled tones, but as it finished they rang out joyfully.
 
-In this family alone we find a considerable gathering of the theosophical clan, for in addition to the nine children of Helios there were sixteen born to Sirius and Alcyone, all of them egos well known to us. If we include the children of the King, and those of Vajra and Herakles, who are also numerous, we find nearly all our dramatis personnae. The children of most of these families were taught by the Priests of the temple, and some of the sons became inmates of it.
-
-besides the sixteen children of Alcyone and Sirius, they also adopted the orphan Olaf, because Mercury was deeply interested in him.
+In this family alone we find a considerable gathering of the theosophical clan, for in addition to the nine children of Helios there were sixteen born to Sirius and Alcyone, all of them egos well known to us. If we include the children of the King, and those of Vajra and Herakles, who are also numerous, we find nearly all our dramatis personnae. The children of most of these families were taught by the Priests of the temple, and some of the sons became inmates of it. besides the sixteen children of Alcyone and Sirius, they also adopted the orphan Olaf, because Mercury was deeply interested in him.
 
 Somewhat strained relations existed just at this time between the court of Mars and the authorities of the great Temple, chiefly owing to a number of small misunderstandings intentionally created by two young priests of bad character,
 
@@ -1967,35 +1678,25 @@ Alcyone' s hair was white on one side where the beast had struck her, and for da
 
 When Alcyone had called Sirius to help her, he and others were sitting round a camp-fire, and at once he fell back in a trance. He plainly heard his wife' s call, and somehow found himself in a room which he did not know. Seeing his wife in dreadful danger, he rushed to her aid, endowed with superhuman strength; when he had rescued her in the manner described, he seemed to lose consciousness, and when it returned his friends of the camp were sprinkling water on his face. He felt quite weak after this, and was not fully himself for several days, so his exertion had evidently been a great strain upon him.
 
-Alcyone went to Mercury and told him her story, asking him what could have been the cause of all these strange happenings; he looked into the matter and unearthed the fact that on the spot where Demeter lived there had been long ago a centre for a peculiarly obscene form of early magic. Its devotees used to provide their seance a bath of human blood, and huge scorpion-like creatures materialised and stalked round it, squirting out a poison which seared everything which came near them. Among these creatures was the unpleasant object that attacked Alcyone, and as it had been starving for a long time it was proportionately ferocious. These elementals were expressions of a certain form of evil thought, deliberately intensified and materialised by magical ceremonies, and, being ensouled by' familiar spirits'
-
-of a particularly obscene kind, they were exceedingly dangerous. By those who made them they were called' sendings', because they could be sent to anyone whom the magician hated to materialise in his bed-room, to sit on his breast in the night and spit venom on him. An entity of an evolution lower than the physical used to be put into such a thing, and enabled to hold together.
+Alcyone went to Mercury and told him her story, asking him what could have been the cause of all these strange happenings; he looked into the matter and unearthed the fact that on the spot where Demeter lived there had been long ago a centre for a peculiarly obscene form of early magic. Its devotees used to provide their seance a bath of human blood, and huge scorpion-like creatures materialised and stalked round it, squirting out a poison which seared everything which came near them. Among these creatures was the unpleasant object that attacked Alcyone, and as it had been starving for a long time it was proportionately ferocious. These elementals were expressions of a certain form of evil thought, deliberately intensified and materialised by magical ceremonies, and, being ensouled by' familiar spirits' of a particularly obscene kind, they were exceedingly dangerous. By those who made them they were called' sendings', because they could be sent to anyone whom the magician hated to materialise in his bed-room, to sit on his breast in the night and spit venom on him. An entity of an evolution lower than the physical used to be put into such a thing, and enabled to hold together.
 
 In the year 22,605, when Sirius was about sixty years old, the King prepared an expedition to a certain holy city in Yucatan, which was about to be visited by Surya, the Head Priest of the great Atlantean religion, and Alcyone, Sirius, Mizar, Helios, Mercury, Uranus and many others set forth, starting in the late summer and travelling southward round the Gulf. At first they used carts, but after a time they had to leave the great main rock road and abandon the carts, using their mule-like horses or mustangs both for pack and riding. The main rock roads were really remnants of a previous age.
 
 When Atlantis was at the height of its glory, wide roads of solid rock were formed radiating in all directions from the Great City of the Golden Gate, stretching over hill and dale for thousands of miles; and these were crossed by a network of local roads, which, however, were not so well made of kept.
 
-On one occasion our party fell into difficulties in trying to cross a river. At a later point in the journey they met a caravan of merchants who were using a curious camel-like sort of animal, resembling a big llama. It was some type between the two; the Atlanteans had been fond of experimenting in the crossing of animals. Once our travelers came to a deep canon, and though it was less than fifty yards across they had to travel thirty miles round to reach the opposite side of it.
-
-when about half way on their journey they met another caravan, of which all the people were in a dying condition, because the savages had poisoned the water of the stream from which they had drunk. Mercury magnetised the people and neutralised thee poison, thus saving them all. They now bent their course towards the east and then a little to the north, and soon a guide met them, a curious aboriginal man, who had been sent from Yucatan for the purpose of showing them all. They now bent their course towards the east, and then a little to the north, and soon sent from Yucatan for the purpose of showing them the way. The people in the city were aware of the approach of the pilgrims, at least of this particular caravan, and a procession met them at the gate.
+On one occasion our party fell into difficulties in trying to cross a river. At a later point in the journey they met a caravan of merchants who were using a curious camel-like sort of animal, resembling a big llama. It was some type between the two; the Atlanteans had been fond of experimenting in the crossing of animals. Once our travelers came to a deep canon, and though it was less than fifty yards across they had to travel thirty miles round to reach the opposite side of it. when about half way on their journey they met another caravan, of which all the people were in a dying condition, because the savages had poisoned the water of the stream from which they had drunk. Mercury magnetised the people and neutralised thee poison, thus saving them all. They now bent their course towards the east and then a little to the north, and soon a guide met them, a curious aboriginal man, who had been sent from Yucatan for the purpose of showing them all. They now bent their course towards the east, and then a little to the north, and soon sent from Yucatan for the purpose of showing them the way. The people in the city were aware of the approach of the pilgrims, at least of this particular caravan, and a procession met them at the gate.
 
 Mars, Mercury and the Priests at once repaired to the great temple of which Saturn was the Chief Priest, where they found some kind of initiation ceremony taking place. The number of people admitted to this was of course limited, but both Sirius and Alcyone were allowed to be present. There was a sort of golden throne, magnificently decorated; it had lion arms and a flight of nine steps leading up to it with carved animals on either side, something of the Egyptian style of work. Surya sat upon this throne, and received the people as they were presented to him, exchanging with each of them certain signs. Each priest as he appeared before Surya, gave him the same secret salutation, which is one of those still used in the White Lodge at the present day. Surya sent out streams of blessing or perhaps they were sent through him. Afterwards the huge brazen gates of the were thrown open, and the rest of the party came in, and Surya came down from his throne to speak with them, saluting them with the most friendly words.
 
 One remarkable fact that was observed is that he must have known even then to speak with them, saluting them with the most friendly words. One remarkable fact that was observed is that he must have known even then the same which Alcyone would choose on his admission to the Sangha twenty-eight incarnations later, in the life in which he met lord Buddha, because he distinctly referred to it. our friends attended also another great gathering on an occasion when Surya spoke of love which is so characteristically his own, telling all the pilgrims the emphasis that must be laid upon that quality.
 
-"Love is life,"
-
-he said,"the only life that is real. A
-
-man who ceased to love is already dead. All conditions in life are to be judged fortunate or unfortunate according to the opportunities that they offer for love. Love will come under the most unlikely circumstances, if men will but allow it to come.
+"Love is life," he said,"the only life that is real. A man who ceased to love is already dead. All conditions in life are to be judged fortunate or unfortunate according to the opportunities that they offer for love. Love will come under the most unlikely circumstances, if men will but allow it to come.
 
 Without this all other qualifications are only as water lost in the sand."
 
 Our band of pilgrims stayed in the city for about two months and then started for home. On the journey they ran short of water and could find no source of divining twig. While they were still on the way Helios died, to the great sorrow of her friends and relations. Mizar could not bear to leave the body to decay in the wilderness, and was grief-stricken because they had not the usual acid which was the custom to inject into the corpse to burn it up at once. In compassion for Mizar, Mercury placed his hands on the body and disintegrated it by some means, as though by sending a current of consuming heat through it. Alcyone, being psychic, felt no separation from her mother, and so through her Helios was just as much in touch with the family as ever, as she accompanied them on their journey in her astral body.
 
-Sirius died at the age of sixty-four, but both he and Helios continued for a long time to keep up the closest relations with Alcyone, lingering intentionally on the higher levels of the astral world in order to do so. Her children and her brother Herakles looked after her thoroughly well as far as her physical wants were concerned. She occupied herself for the last twenty years of her life in writing a great book on religious subjects. It was in four parts or volumes, with curiously epigrammatic and untranslatable titles. The nearest we can come to rendering them in English is:"Whence?
-
-Why? Whither? Beyond."
+Sirius died at the age of sixty-four, but both he and Helios continued for a long time to keep up the closest relations with Alcyone, lingering intentionally on the higher levels of the astral world in order to do so. Her children and her brother Herakles looked after her thoroughly well as far as her physical wants were concerned. She occupied herself for the last twenty years of her life in writing a great book on religious subjects. It was in four parts or volumes, with curiously epigrammatic and untranslatable titles. The nearest we can come to rendering them in English is: "Whence? Why? Whither? Beyond."
 
 Mercury ordered that when this work was finished it should be preserved in the crypt of the Temple; but some centuries later, in consequence of the danger of invasion, it was removed to the other Temple in Yucatan. A copy of it was made by Alcyone herself for the Chief Priest Surya, which she sent to him in Atlantis; it now rests in the secret museum of the Great White Lodge.
 
@@ -2007,48 +1708,11 @@ Among the latest incidents of Alcyone' s life, we notice that, at the age of 84,
 
 In the year 22,578 this eventful life closed and Alcyone passed away, loved and respected by all who had known her.
 
-Chart XIX
-Mississippi
-
-Mahaguru
-
-22,662 B.C.
-
-Surya
-Viraj
-Jupiter
-Saturn
-
-Chart XIX
-Mississippi
-
-22,662 B.C.
-
-Chart XIX
-Mississippi
-
-22,662 B.C.
-
-Chart XIX
-Mississippi
-
-22,662 B.C.
-
-Cancer
-
--
-
-Scorpio
-Thetis
+Chart XIX - Mississippi - 22,662 B.C.
 
 Orion appears again in the year 22,208, in a female body in the peninsula of Malacca, as the daughter of a trader. She was born with an overwhelming horror of all creeping things, and a great fear of fire and often had frightful dreams of her past life, so that she suffered much from hysteria. She grew up, married, and had two children; but her eldest child one day fell into the fire and was burned, and this accident had a terrible effect upon her, for it drove away her reason. Her life after this was a long period of mental suffering, and it ended in a horrible death. A great bonfire was lit to celebrate a victory, and when she saw it she fell into the fire with wild shrieks. The only other of our characters appearing at the same time was Zeta, the girl who was driven mad in Madagaskar; but appeared in this case as the son of a watch-doctor, who tried to care Orion's hysteria.
 
-Chart XIXa
-India
-
-(Birth of Mercury)
-
-21,917 B.C.
+Chart XIXa - India - 21,917 B.C. (Birth of Mercury)
 
 We have here another instance of the phenomenon which we mentioned in Life XVIIIa. Alcyone remains out of incarnation for a period of 819 years, and then has an unusually short life, so that her next interval was 275 years, thus making a total interval between the nineteenth and twenty first lives of 1,111 years. This fitted conveniently enough as one interval for some of our characters, but there were others who were unable to stay away so long, and consequently took an intermediate incarnation in India, as will be shown in the following chart.
 
@@ -2067,7 +1731,7 @@ Everything seemed to promise for her a long and brilliant life under the most fa
 
 The baby had been left with his nurse in an upper room, but she had gone out, confiding her charge to some fellow-servants.
 
-These fled downwards on the alarm of fire, forgetting the baby, and the terrified nurse, rushing for the child, fell back at the sight of the blazing staircase, which was the only way to the nursery. Wringing her hands, she screamed out:"The child! the child”, but dare not face the roaring flames which barred the road."My boy?"gasped Alcyone, and sprang up through the sea of fire. Several of the stairs had already fallen, leaving only in some places the supporting wooden bars not yet burned through, though blazing. Desperately she plunged on, climbing, slipping, leaping across the gaps through which the flames flaring upwards, caught her garments and scorched her flesh. Surely no human strength would suffice to carry her to the top! But mother' s love is omnipotent, and, in less time than it takes to tell it, she reached the room where the baby lay.
+These fled downwards on the alarm of fire, forgetting the baby, and the terrified nurse, rushing for the child, fell back at the sight of the blazing staircase, which was the only way to the nursery. Wringing her hands, she screamed out: "The child! the child”, but dare not face the roaring flames which barred the road."My boy?"gasped Alcyone, and sprang up through the sea of fire. Several of the stairs had already fallen, leaving only in some places the supporting wooden bars not yet burned through, though blazing. Desperately she plunged on, climbing, slipping, leaping across the gaps through which the flames flaring upwards, caught her garments and scorched her flesh. Surely no human strength would suffice to carry her to the top! But mother' s love is omnipotent, and, in less time than it takes to tell it, she reached the room where the baby lay.
 
 Smoke was pouring into it, and she wrapped an unburnt fragment of clothing across her mouth and crawled along the floor. The babe, crowing at the dancing flames, stretched out chubby arms to his mother, and, catching him up, she pressed his face into her bosom and fled downwards with her boy close wrapped in her arms. Again she crossed that burning torrent, her body nude, her hair blazing, the diamonds dropping from it, flashing back the flames. Somehow she reached the bottom, the open air, and fell prostrate outside, shielding the babe even as she fell. He was unhurt, but she was dying, and in less than an hour she breathed her last. More out of her body than in it, too terribly injured to retain feeling, she was scarce conscious of suffering, and her last smile seemed to be on the freed astral form, as it bent over the rescued boy. Is it not the karma she made, by dying for Surya then, being reaped in the present opportunity given to Alcyone to serve the Blessed one again?
 
@@ -2075,16 +1739,7 @@ After its mother' s death the child was taken in charge by his aunt Viraj (Satur
 
 It seems as though from time to time the members of the present Hierarchy of Adepts were born together in different countries to assist in the founding of a new religion, or of a magnetised centre, we see them also spreading the religion and sending expeditions to other distant centres, as in the previous life in North America, where an expedition was sent to Yucatan. In the present one, some twentyfive years after Alcyone' s death, we see Surya sending one north to the city of Salwan. Some of the party lost their lives from the hardships endured; and among these was Alcyone' s younger brother Vulcan, at the age of about thirty-five.
 
-Chart XX
-Chittagong
-
-21,759 B.C.
-
-Uranus
-
-Viraj
-
-Surya
+Chart XX - Chittagong - 21,759 B.C.
 
 ## Life XXI
 
@@ -2100,7 +1755,7 @@ The politics of the time were complicated and troublous, and Alcyone, though anx
 
 In order to save the King Leo from certain defeat at the hands of a coalition of neighbouring States, Alcyone' s mother Orion had induced Leo to place it under the suzerainty of the Atlantean Emperor, Jupiter, and there was much discontent among the people about this. A few years after, when Orion had had to change bodies, and could therefore no longer direct Leo' s policy, the discontent broke out into open rebellion, and Leo was defeated and killed. Sirius (the son of Gimel, an Atlantean Noble) was sent sent over from Atlantis by Jupiter to be governor of the Kingdom which was thus made a province of the vast Atlantean Empire. Sirius made friends with Alcyone and Orion, at first perhaps from motives of policy, but the friendship quietly ripened into real affection. He fell in love with Orion and demanded her hand from her brother Alcyone, who gladly gave it, and a close tie united the two families and also that of the priest Mercury. This made the government of the province an easy matter, as the official heads of both the parties in it were now so thoroughly united. In fact the three families were almost like one, and made a kind of little society of their own, in which all sorts of interesting problems were discussed.
 
-We find that the language commonly used then in India was not Sanskrit, and ceremonies usually began with the word Tau, not with Aum. The doctrines of reincarnation and karma were commonly known to the people. The Teacher (Mercury) knew of the Great ones behind who sometimes helped. Some of the expressions which are familiar to us now were in use then also, as for example:"I am That”. Mercury told the people that of all the qualities that they could develop, all the qualifications they could possess, the most important was the power to recognise that all was That. "you cut down a tree,"He said"that is the life of the tree; dig up a stone, That is what holds the particles of stone together; That is the life of the sun, That is in the clouds, in the roaring of the sea, in the rainbow, in the glory of the mountain” and so on. These words are taken from a discourse of Mercury on death. In a book from which he read to the people there were well known phrases, such as:"One thing is the right,while the sweet is another; these two tie a man to objects apart. Of the twain it is well for who taketh the right one, who chooseth the sweet, goeth wide of the aim. The right and the sweet come to a mortal; the wise sifts the two and sets them apart. For,right unto sweet the wise man prefereth; the fool taketh sweet to hold and retain”.(Kath Upanishad; words in Meads translation.) The wording in Mercury' s book was not actually identical, but it was clearly the same set of verses.
+We find that the language commonly used then in India was not Sanskrit, and ceremonies usually began with the word Tau, not with Aum. The doctrines of reincarnation and karma were commonly known to the people. The Teacher (Mercury) knew of the Great ones behind who sometimes helped. Some of the expressions which are familiar to us now were in use then also, as for example: "I am That”. Mercury told the people that of all the qualities that they could develop, all the qualifications they could possess, the most important was the power to recognise that all was That. "you cut down a tree,"He said"that is the life of the tree; dig up a stone, That is what holds the particles of stone together; That is the life of the sun, That is in the clouds, in the roaring of the sea, in the rainbow, in the glory of the mountain” and so on. These words are taken from a discourse of Mercury on death. In a book from which he read to the people there were well known phrases, such as: "One thing is the right,while the sweet is another; these two tie a man to objects apart. Of the twain it is well for who taketh the right one, who chooseth the sweet, goeth wide of the aim. The right and the sweet come to a mortal; the wise sifts the two and sets them apart. For,right unto sweet the wise man prefereth; the fool taketh sweet to hold and retain”.(Kath Upanishad; words in Meads translation.) The wording in Mercury' s book was not actually identical, but it was clearly the same set of verses.
 
 There was another saying"if one is killed, and I am the slain, yet I am I also the sword of the slayer, and none slays or is slain because all are one. There is no first nor last, no life nor death,
 because all are one in him."
@@ -2111,21 +1766,17 @@ In one temple there were no images at all. The religion was not sun-worship—at
 
 In another temple there were many images which were set in niches in its back wall. The people wore a different dress from those in the former temple, and there were men who were distinctly priests, which was not the case in the other. The images sat crosslegged, and had not more than the natural number of arms. This was the old form of Jainism, presumably, and the images of Tirthankar. Some images were naked; others, which had a lose garment over them, were probably regarded as dressed, or perhaps a conventional symbol was intended.
 
-In another temple a long way to the north, there was already a lingam. Up there the trimurthy was fully recognised, though the names were not those used now. In one cave-temple there was a gigantic face carved out of the rock which was three faces in one though it was so arranged that only one face could be clearly seen at a time. There was a great temple in South India which also contained a Trimurti. We tried to discover the meaning of the name attached to it, to see what idea was connected with it in the mind of its priest, and we found that one priest thought of it as:"He whose life flows through all."
+In another temple a long way to the north, there was already a lingam. Up there the trimurthy was fully recognised, though the names were not those used now. In one cave-temple there was a gigantic face carved out of the rock which was three faces in one though it was so arranged that only one face could be clearly seen at a time. There was a great temple in South India which also contained a Trimurti. We tried to discover the meaning of the name attached to it, to see what idea was connected with it in the mind of its priest, and we found that one priest thought of it as: "He whose life flows through all."
 
-While another had the idea that the three persons were:"He who opens the gates, He who guides the stream, and He who closed the gates."We saw no specimens here of the many-armed images which are so plentiful at the present time.
+While another had the idea that the three persons were: "He who opens the gates, He who guides the stream, and He who closed the gates."We saw no specimens here of the many-armed images which are so plentiful at the present time.
 
 The priest had strong ideas about a"Lake of Light,"which was also Death and Life and Love; all streams led into the Lake of Light, whence so ever they seem to begin. There were traces also of the theory that all we see is illusion but the only Reality is the Lake of Light."We live in the Lake of Light and donot know it. We think of ourselves separated, but we are each a drop in the lake."
 
-The priest seemed to be perpetually urging the people to get behind the illusion of, the senses, and to realise that That was the real Presence behind all and the separated forms were the separated drops:"When they fall in again they are all one,"they said,"and it is we ourselves who make all the sorrow and trouble."
+The priest seemed to be perpetually urging the people to get behind the illusion of, the senses, and to realise that That was the real Presence behind all and the separated forms were the separated drops: "When they fall in again they are all one,"they said,"and it is we ourselves who make all the sorrow and trouble."
 
-They had a prayer to the"
+They had a prayer to the "Lords who Are the Lights, who consist of the Light”.
 
-Lords who Are the Lights, who consist of the Light”.
-
-What is written above represents something of what was taught to the people, but in this small and strictly private family circle
-
-, mercury was willing to go, a little further, and expound the true meaning of the symbol, and give far more information about the lake of life and the Lords who are the light. He told them of a great teacher, who might be invoked by certain prayers and ceremonies, whose blessing might be called down upon them if they asked for it earnestly and with pure heart. They invoked him at their meetings, and a response always came, and on two special occasions He even showed Himself. This Great One was He whom we know as the Mahaguru, and His special connection with this group was that He had, in a previous birth, founded their religion and arranged that He would, as the founder, respond to certain invocations made under proper conditions by it' s true adherents. He threw into the mind of mercury the solution of his problems and the answers to their questions on religious matters, and once or twice certain personal directions were given to them, though this was a rare occurrence.
+What is written above represents something of what was taught to the people, but in this small and strictly private family circle, mercury was willing to go, a little further, and expound the true meaning of the symbol, and give far more information about the lake of life and the Lords who are the light. He told them of a great teacher, who might be invoked by certain prayers and ceremonies, whose blessing might be called down upon them if they asked for it earnestly and with pure heart. They invoked him at their meetings, and a response always came, and on two special occasions He even showed Himself. This Great One was He whom we know as the Mahaguru, and His special connection with this group was that He had, in a previous birth, founded their religion and arranged that He would, as the founder, respond to certain invocations made under proper conditions by it' s true adherents. He threw into the mind of mercury the solution of his problems and the answers to their questions on religious matters, and once or twice certain personal directions were given to them, though this was a rare occurrence.
 
 The priest Mercury had married Ulysses. The pleasant intercourse between the families and their study of the questions which so deeply interested them went on harmoniously for years, and the first break in the party occurred in the year 21423 BC, when Orion confessed her black magic to Mercury and Sirius, threw the magic emerald into the sea, and retired to an ascetic life, with a view of atoning for her deeds. She handed over her children to the care of a friend Helios, and four years later the latter married Albireo, a young brother of Alcyone.
 
@@ -2145,60 +1796,9 @@ Sirius and Alcyone lived together in the same house as brothers for ten years, a
 
 During these ten years they jointly prepared a book upon Southern India, which was highly esteemed, and was regarded for centuries in Poseidonis as the classical work on its subject. It was in two volumes, one treating of the different races and their customs, and the other of the various religions—the latter embodying much of the teaching given to them long before by the priest Mercury.
 
-Chart XXI
-South India
+Chart XXI - South India - 21,467 B.C.
 
-Melpo
-
-21,467 B.C.
-
-Theo
--(1) Orion
-
--(2) Nu
-
-Cygnus
-Camel
-Alastor
-Adrona
-Sigma
-
-Iota
-
-Chart XXI
-South India
-
-21,467 B.C.
-
-Cassio Corona
-
-Theseus
-
-(Sigma)
-
-Chart XXI
-South India
-
-21,467 B.C.
-
-Chart XXI
-South India
-
-21,467 B.C.
-
-(Theseus)
-
-In Atlantis
-Jupiter
-
-Pollux
-
-Chart XXIa
-India
-
-(Birth of Vulcan)
-
-21,234 B.C.
+Chart XXIa - India - 21,234 B.C. (Birth of Vulcan)
 
 The few members of the band of servers who take the somewhat earlier incarnation recorded in'Chart XIXa, but were not drawn into the vortex of chart XXI, re-appear in India about the year 21,200,clustering round the teacher Vulcan.
 
@@ -2212,8 +1812,7 @@ Indeed when his life is cut short by accident, he rarely stops short of the four
 
 This new chapter of our story takes us once more to the south of India, but this time to what is now the Salem district, where Uranus, the father of Alcyone, was an important land-owner—a sort of petty chieftain, who could lead a respectable regiment of his retainers to the standard of his overlord Mars. Uranus was a man of great courage and justice, and he trained his children in both these virtues, telling them that without these qualities a man of the highest birth was lower than the commonest person who possessed them.
 
-He had a large family, all of them prominent members of the band of
-Servers.
+He had a large family, all of them prominent members of the band of Servers.
 
 Alcyone who was born in 20574 B.C., was a bright, encouraging, unselfish child, intensely devoted to his mother Mercury. All through her life his love for her never wavered, and he took no action of any importance without first consulting her. Nothing requiring special note for the purpose of our story occurred during his childhood and youth. He received what was considered at the time a good education, and at the age of twenty he married Percy, by whom he had twelve children. He had a beautiful home and all that wealth could give him; but his desire was rather for the life of a hermit than for that of the world, and his mother encouraged him in this inclination, advising him however to wait until his children were grown up before leaving them.
 
@@ -2223,9 +1822,7 @@ The first was when he was quite a young man, and accompanied his father, when th
 
 When this expedition was over, the King summoned Alcyone to his presence, and requested that Herakles should assume his father' s duties in the kingdom. Alcyone replied that whatever the King wished should be done, but that he believed himself still quite able to continue his services towards him. But the King said: "No; it will not be possible, for when you return to your home you will find that you have sustained a great bereavement, in consequence of which you will no longer fight for me in this life, and on your next visit to this city you will wear the robe of a holy man—a pilgrim."
 
-"Be it as the King wills,"said Alcyone;"but living or dead I shall always be at the King' s service.""It is true that you will do the service,"
-
-replied Mars,"not this time only but many times, through ages yet to come; yet your greatest service will be not in fighting my enemies, but in helping me to build up a kingdom in the future which shall endure for thousands of years, and the results of your achievements in that future kingdom will never pass away."
+"Be it as the King wills,"said Alcyone;"but living or dead I shall always be at the King' s service.""It is true that you will do the service," replied Mars,"not this time only but many times, through ages yet to come; yet your greatest service will be not in fighting my enemies, but in helping me to build up a kingdom in the future which shall endure for thousands of years, and the results of your achievements in that future kingdom will never pass away."
 
 The King then thanked him and bade him farewell.
 
@@ -2279,58 +1876,13 @@ Passing on, the wanderer visited a number of places on the way home, and altoget
 
 During his meditations Mercury constantly appeared to him and gave him much advice and instruction. She helped him to recover the memory of previous lives and of those who had been in them with him so that his cave was peopled with thought-forms of many of the characters who have previously appeared in this series of lives.
 
-Chart XXII
-South India
+Chart XXII - South India - 20,574 B.C.
 
-20,574 B.C.
-
-Cetus
-
-Bruce
-Chrys
-
-Viraj
-Jupiter
-Saturn
-Brihat
-Venus
-Lyra
-Pallas
-
-Chart XXII
-South India
-
-20,574 B.C.
-
-Chart XXII
-South India
-
-20,574 B.C.
-
-Kratos Xulon
-
-Chart XXII
-South India
-
-20,574 B.C.
-
-Cancer
-
-Chart XXIIa
-Tibet
-
-(Birth of Yajna)
-
-19,877 B.C.
+Chart XXIIa - Tibet - 19,877 B.C. (Birth of Yajna)
 
 Again we find occurring the same phenomenon which we have already noticed-a certain number of the members of the band cannot or donot remain our of incarnation as long as does Alcyone, and consequently we have an important little group in that part of Central Asia which we now know as Tibet. It appears to be there for the sake of reforming and elevating the religion of the people, and centres round a priest, Jupiter, who derives his inspiration from Surya. The latter, however, is not observed as in incarnation at this period, but occassionally appears astrally.
 
-Chart XXIIa
-Tibet
-
-(Birth of Yajna)
-
-19,877 B.C.
+Chart XXIIa - Tibet - 19,877 B.C. (Birth of Yajna)
 
 ## Life XXIII
 
@@ -2388,45 +1940,9 @@ The exposure of Scorpio had greatly enhanced the reputation of Sirius, and his s
 
 When she was about thirty, Mars, now a very old man, made a sort of triumphal progress through his kingdom, and when he came into sort of triumphal progress through his kingdom, and when he came into their district it was the duty of Sirius and Alcyone to entertain him. Thus it happened that Mars met Mercury, and was at once greatly impressed by her. He did not lose sight of her, and eventually induced her to leave the temple and marry Osiris, one off his grandsons, so that later she became queen of the country. But that of course was long after her father' s death. Sirius and Alcyone were just as inseparable as old men as they had been as boys; throughout a long life no misunderstanding had ever arisen between them, and they died within a few days of each other, each feeling his life imperfect without the other. As Sirius had never married, Alcyone' s son Leo imperfect without the other. As Sirius had never married, Alcyone' s son Leo was appointed to the vacant Governorship, which he filled creditably, greatly insisted by the fact of his good wife Iris.
 
-Chart XXIII
-China
+Chart XXIII - China - 19,554 B.C.
 
-19,554 B.C.
-
-Sirius
-
-Chart XXIII
-China
-
-19,554 B.C.
-
-Lili
-
-Chart XXIII
-China
-
-19,554 B.C.
-
-Aries Draco
-
-Virgo Libra
-
-Orpheus
-Boreas
-Auriga
-Pollux
-Scorpio
-
-Muni
-
-Thetis
-
-Chart XXIIIa
-Chaldea
-
-(Birth of Erato)
-
-19,245 B.C.
+Chart XXIIIa - Chaldea - 19,245 B.C. (Birth of Erato)
 
 Our first experiment in the way of investigating the details of past lives was made in connection with a character called Erato, and the point at which it chanced that those investigtions commenced was his birth in Chaldea in the year 19,245 B.C. He was born into the hereditary sacrodotal caste; but unfortunately he was also at the same time born into a xurious hereditary feud connected with it. His grand-father Castor had twins, Melete and Again, and as the law was that the high-Priesthood descended to the eldest son of its present occupant the matter of a few minutes precedence was important. Unfortunately, the nurse in charge got the children mixed, and did not know which was which; so, as the matter could not be decided, Castor decreed that they should be coheirs. When they grew up there was a certain amount of jealousy between them, and each was determined that his own son should later be co-heirs. When they grew up there was a certain amount of jealousy between them, and each was determined that his own son should later be the high priest. Erato was the son of melete, while Phocea was the son of Aglaia's jealousy, and he even went to the length of thrice trying to murder his nephew Erato. The third attempt was at least partially successful, for although Erato escaped, his father Melete was killed. A fourth attempt was made, but again Erato escaped, his younger brother Juno being killed in his stead. This time the whole story came out, and the governor of the town intervened; but the matter was taken out of his hands, for the emperor Theodorous, happened at that period to be making one of his customary visits of inspection. Hearing of the matter he had the parties brought before him;and when he had inquired into the whole of the story he decided to put an end to all difficulties by giving to each of the cousins a separate field of activity. As Phocea had not been privy to the plot to murder his cousin he left him in sole charge of the temple of his native place, but he carried off Erato with him to his own capital to fill a vacancy in the great temple there. There he led a peaceful and useful life under the headship of the chief priest Pallas; and on, the death of the latter he succeeded to his office, and thus became the most important religious authority in the kingdom of Chaldea.
 
@@ -2468,19 +1984,13 @@ Sometimes a chieftain was alarmed by the report of their numbers, and refused th
 
 Under these conditions Alcyone' s early life was as unsettled and adventurous one. He was about ten years old when his father decided upon the migration, and consequently at an age to enjoy to the full the constant change and adventure of it. He had as it were two sides to his character—one frankly boyish and fond of all this excitement and variety, and the other dreamy and mystical. He dearly loved both of his parents, but he seems to have specially associated his father with the former of these moods and his mother with the latter. On some days he rode by his father at the head of the caravan, or dashed on far in front on some sort of scout duty, keen and active and very much on the physical plane; on others he remained behind with his mother, often riding curled up in one of the panniers on the back, often riding curled up in one of the panniers on the back of some draught-animal, buried in his own visions and taking no heed of the country through which they were passing.
 
-In this latter condition he seemed to be living not in the present but in the past, for he had often extraordinarily vivid visions (most often really of past incarnations, though he did not know that) which he regarded as so entirely private and scared that he would hardly ever speak of them even to his mother, and ever at all to any one else. These visions were of varied character, some of them connected with lives which we have already investigated, but others which are at present unknown to us. In many of these scenes his father and mother appeared, and he always recognised them, under whatever veil of race or sex they might be hidden. Sometimes, when a rare wave of confidence swept over him, he would describe these visions to his mother, making them marvellously picturesque and life-like. He called them his picture-stories, and he would say: "Mother, in this story you are a priest in the temple,"
-
-you are my mother, just as now,"
-
-or"In this or again,"In this you are my little baby, and I carry you in my arms."
+In this latter condition he seemed to be living not in the present but in the past, for he had often extraordinarily vivid visions (most often really of past incarnations, though he did not know that) which he regarded as so entirely private and scared that he would hardly ever speak of them even to his mother, and ever at all to any one else. These visions were of varied character, some of them connected with lives which we have already investigated, but others which are at present unknown to us. In many of these scenes his father and mother appeared, and he always recognised them, under whatever veil of race or sex they might be hidden. Sometimes, when a rare wave of confidence swept over him, he would describe these visions to his mother, making them marvellously picturesque and life-like. He called them his picture-stories, and he would say: "Mother, in this story you are a priest in the temple," you are my mother, just as now," or"In this or again,"In this you are my little baby, and I carry you in my arms."
 
 Whenever he said These things his mother felt herself identified with the figure in the vision, and her memory was as it were awakened by his. She remembered now that when she was herself a child she used to have similar recollections, though as she grew older they faded from her mind; and she realised that her son was seeing what she used to see. In one of his most splendid visions—that which he liked best of all—neither his father nor mother appeared, but he saw himself as a young girl filled with intense love and determination, rushing through raging flame and suffocating smoke to rescue a child who was the hope of the world—a memory of the life in Burma three thousand years before.
 
 But he had also other memories in which his parents bore no part, and some of these were far less desirable.
 
-One curious set of visions which came now and then appeared to image some ceremonies of the darker magic, evidently from a remote past. They were indescribably weird, yet thrilling and they excited a feeling of inexpressible horror and loathing which was yet somehow mingled with a kind of savage ecstasy. There was about them a distinct sense of something radically unholy and evil— something from which Alcyone' s present nature shrank with terror and disgust, while he was yet keenly conscious that there had been a time in the far-distant past when it had filled him with a fierce joy—
-
-when he had somehow been able to revel in what now he utterly abhorred. He disliked these visions intensely, yet occasionally they asserted themselves, and when one had commenced he seemed compelled to play his part in it to the end. Of these he had never been able to speak to his mother, though she had twice noticed the prostration which followed them, for he came out of them in a condition of profuse perspiration and utter nervous exhaustion. But he said only his dreams had been terrifying, but that he could not describe them.
+One curious set of visions which came now and then appeared to image some ceremonies of the darker magic, evidently from a remote past. They were indescribably weird, yet thrilling and they excited a feeling of inexpressible horror and loathing which was yet somehow mingled with a kind of savage ecstasy. There was about them a distinct sense of something radically unholy and evil— something from which Alcyone' s present nature shrank with terror and disgust, while he was yet keenly conscious that there had been a time in the far-distant past when it had filled him with a fierce joy— when he had somehow been able to revel in what now he utterly abhorred. He disliked these visions intensely, yet occasionally they asserted themselves, and when one had commenced he seemed compelled to play his part in it to the end. Of these he had never been able to speak to his mother, though she had twice noticed the prostration which followed them, for he came out of them in a condition of profuse perspiration and utter nervous exhaustion. But he said only his dreams had been terrifying, but that he could not describe them.
 
 It is not easy to recover the actual subject matter of these evil visions, but they evidently reflected some of the wild orgies of the darker worship as practiced in Atlantis—som ething of the same order as the alleged witches'
 
@@ -2550,61 +2060,15 @@ commonly called the dark
 
 Caucasians, are unquestionably descended from the tribe whose arrival we have described, though from long residence in tropical lands they are a good deal darker than their ancestors.
 
-Chart XXIV
-Central Asia
+Chart XXIV - Central Asia - 18,885 B.C.
 
-18,885 B.C.
-
-Mahaguru
-Manu
-Surya
-Osiris
-
-Chart XXIV
-Central Asia
-
-18,885 B.C.
-
-Argus (1) Andro
-(2)Math
-
-Uranus
-
-Regu
-
-Chart XXIV
-Central Asia
-
-18,885 B.C.
-
-Brihat (1) Vulcan
-(2)Corona
-
-Crux
-
-Chart XXIV
-Central Asia
-
-Alastor
-
-18,885 B.C.
-
-Chart XXIVa
-North Africa
-
-(Birth of Orion)
-
-18,301 B.C.
+Chart XXIVa - North Africa - 18,301 B.C. (Birth of Orion)
 
 In the interval between this life and the next Orion took a birth in North Africa, as the son of an important trader and cultivator.
 
 He was a passionate youth, and fell into bad company, and so by way of instituting a reform his parents married him before he was twenty years of age to Sigma, whom he neglected, as he had fallen in love with Epislon, a woman of rather unpleasant character. This lady had another admirer in the person of Cancer, the son of the governor of the district, and she finally decided in his favour. Orion, finding them together one day, killed Cancer, and tried to carry off the fainting Epislon. In his headlong flight wih her he fell into a ravine; he was not seriously hurt, but the girl appeared to be killed. As some men who had seen the incident were shouting after him and chasing him, Orion fled to the seashore, and as he saw a vessel which he recognised as one of his father's, only a short distance from the land, he sprang into the sea and swam out to it. The ship was on a voyage down the West Coast of Africa, but on the way she fell in with a very heavy storm and was wrecked. Orion was the only survivor, and eventually found himself thrown upon an uninhibited island now called the Great Salvage. As this island was quite out of the normal course of trading vessels, he lived there alone for twenty years, and was at last rescued by a vessel which had been driven far out of its course. He started to make his way over land to his own country, and found it a very long and wearisome journey. Even when he reached his birthplace he feared to make himself known;but he made discreet enquiries. He found that both the governor's family and his own had moved away from that part of the island, and that there was only one female member remaining of the family of the girl Epislon. Presently he contrived to see this member and found it to be Epislon herself, who recognised him in spite of the passage of time and the great changes which it had wrought in him. She explained to him that she had recovered from the fall, though it had left her permanently lame, and all her lovers had consequently deserted her. Eventually Orion married her, and as she had some money they set up in trade and lived out the rest of their lives in a quiet and orderly fashion.
 
-Orion;
-
-Sigma; Epislon ;
-
-Cancer
+...
 
 ## Life XXV
 
@@ -2658,11 +2122,9 @@ Mercury mourned long and sincerely for Vajra, and after his death gave up all th
 
 Brihat had some reputation also as a healer, though it appears to have been not so much his own doing as that Surya something sent power through him and effected cures in that way. This was done once with regard to Alcyone himself, after an unfortunate accident which occurred at the University. Alcyone' s second son, Aldeb, had taken up keenly the study of the chemistry of the period, having travelled as far as Egypt inn order to obtain additional information from the professors there. He had made several important and useful discoveries, and was always engaged in experiments, often of the most daring character, in which his sister Mercury also took much interest.
 
-One day when Alcyone had been invited to the laboratory to inspect the results of some new processes, a serious explosion took place, stunning both Mercury and Aldeb, and setting on fire the garments of the former. Alcyone displayed great personal bravery in this emergency, rushing forward and beating out the flames with his hands, and dragging the body of Mercury out of a pool of blazing liquid, thereby unquestionably saving her life. He was badly burned himself in doing this, and it was in consequence of this that he was taken to Brihat. The latter passed his hands lightly over the wounds and blisters, applied to them some sort of oil which he specially magnetised, and then deftly enveloped them in bandages, telling Alcyone not to touch them for a certain time, and promising that when at the end of that time he removed them he should find the wounds healed, which proved to be the case. It is noteworthy that Brihat always used the nave Surya in his magnetisations, and that he invoked him when operating upon Alcyone, saying :"I cure him in thy name and for thy work."
+One day when Alcyone had been invited to the laboratory to inspect the results of some new processes, a serious explosion took place, stunning both Mercury and Aldeb, and setting on fire the garments of the former. Alcyone displayed great personal bravery in this emergency, rushing forward and beating out the flames with his hands, and dragging the body of Mercury out of a pool of blazing liquid, thereby unquestionably saving her life. He was badly burned himself in doing this, and it was in consequence of this that he was taken to Brihat. The latter passed his hands lightly over the wounds and blisters, applied to them some sort of oil which he specially magnetised, and then deftly enveloped them in bandages, telling Alcyone not to touch them for a certain time, and promising that when at the end of that time he removed them he should find the wounds healed, which proved to be the case. It is noteworthy that Brihat always used the nave Surya in his magnetisations, and that he invoked him when operating upon Alcyone, saying : "I cure him in thy name and for thy work."
 
-Owing to Alcyone' s prompt action
-
-Mercury was but slightly injured, but Aldeb, who had been nearest to the retort, was much hurt by the force of the explosion, though hardly burnt at all.
+Owing to Alcyone' s prompt action Mercury was but slightly injured, but Aldeb, who had been nearest to the retort, was much hurt by the force of the explosion, though hardly burnt at all.
 
 Alcyone was so much interested by Brihat' s procedure that he afterwards went to him to learn the art of mesmeric healing, and practiced it among his own students with considerable success.
 
@@ -2682,40 +2144,7 @@ Perfect understanding always subsisted between the twinbrothers Sirius and Alcyo
 
 But he soon realised that nothing was really lost, for each night he dreamt vividly of Sirius, and during the two years which he survived it may truly be said that he lived through the days only for the sake of the nights. Up to the last, however, he retained the keenest interest in his University, and it was his greatest joy to see how thoroughly his son Herakles entered into his feelings, and how eagerly he carried on his work. Finally Alcyone passed away peacefully during sleep, at the age of 71, leaving behind him as a monument a university the renown of which lasted some two thousand years, until the civlisation wore itself out, and was overrun by barbarous tribes. We find another of our characters Phocea, acting as a clerk in the office of the University.
 
-Chart XXV
-Algeria
-
-18,209 B.C.
-
-Brihat
-
-Vajra
-
-Onyx
--Uchacha
-
-Mercury
-
-Ulysses
-
-Chart XXV
-Algeria
-
-18,209 B.C.
-
-Psyche Algol
-
-Chart XXV
-Algeria
-
-18,209 B.C.
-
-Chart XXV
-Algeria
-
-18,209 B.C.
-
-Boreas
+Chart XXV - Algeria - 18,209 B.C.
 
 ## Life XXVI
 
@@ -2757,47 +2186,13 @@ Beside the large band of our characters who marched into India with Mars, we fin
 
 From this time onward events moved along ordinary courses—skirmishes with sorrounding tribes, embassies to neighbouring Chiefs, cultivation of land, and the business of a great settlement. Mars passed away at about the age of sixty-five, leaving Herakles to succeed him, with Alcyone as his most trusted councillor and dearest friend.
 
-Alcyone died at the age of sixty, in 17,404 B.C., his wife preceeding him by a few years. Herakles died soon after Alcyone, never recovering quite from the loss."The better half of myself is gone,"
-
-he said sadly;"why should I remain behind?"
+Alcyone died at the age of sixty, in 17,404 B.C., his wife preceeding him by a few years. Herakles died soon after Alcyone, never recovering quite from the loss."The better half of myself is gone," he said sadly;"why should I remain behind?"
 
 Not considering that either of his sons Gem and Arcor was sufficiently steady and reliable to succeed him, he named his brother Siwa as his successor, and sent his sons away, each with a strong troop and caravan, to found cities for themselves.
 
-Chart XXVI
-Central Asia and India
+Chart XXVI - Central Asia and India - 17,464 B.C.
 
-17,464 B.C.
-
-Chart XXVI
-Central Asia and India
-
-17,464 B.C.
-
-th
-
-Chart XXVI
-Central Asia and India
-
-17,464 B.C.
-
-Fomal Cygnus
-
-Chart XXVI
-Central Asia and India
-
-17,464 B.C.
-
-Alastor
-Myna
-Sirona
-Pomo
-
-Chart XXVIa
-Poseidonis
-
-(Birth of Orion)
-
-17,228 B.C.
+Chart XXVIa - Poseidonis - 17,228 B.C. (Birth of Orion)
 
 Orion was born in the year 17,228, in an Accadian race in the southern part of Poseidonis. The country was in an unsettled condition, and the people, who were chiefly manufacturer's and traders, suffered much from the depredations of pirates.
 
@@ -2805,30 +2200,11 @@ Orion was the son of a rich merchant, and was early taken into his business, but
 
 Orion afterwards took service with a goldsmith, and in that way supported Zeta until his death, Orion in the course of time succ eeded to the budiness and amassed some wealth, but lost it all thorugh the dishonesty of a workman. He was now too old to obtain regular work, so he drifted gradually downwards, became a begger again and lived in poverty and obscurity to extreme old age.
 
-Orion;
-
-Zeta;
-
-Gamma.
-
-Chart XXVIb
-Egypt
-
-(Birth of Erato)
-
-17,147 B.C.
+Chart XXVIb - Egypt - 17,147 B.C. (Birth of Erato)
 
 Erato was born in the year 17,147 in an Arab family, but at about the age of nine was captured and carried off into Egypt as a slave. He was fortunate enough to fall into the hands of a kindly family, and was appointed as the attendant of the little son of his master. He was treated very much as a member of the family, and when the head of it died he married his young master's sister and established his footing definitely. The father's property had become involved, and after his death they were very poor, and it was mainly Erato who supported them, as his young brother-in-law was by no means a practical man. Erato presently obtained a position as secretary to Pallas, an old man who had a very fine library and was engaged upon a great historical work. He held this post for ten years until the death of Pallas, who left to him his library and also some of his property on condition of his finishing the great historical work. This he did, though it took him many years, and eventually he presented a copy of the book to the Pharaoh,who placed it in the royal archives and offered Erato a position in connection with the royal library at the capital. Erato Erato, however, declined this, and ended his life peacefully upon his own estate.
 
-Pallas
-
-Vale
-
-Algol
-
-Stella
-
-Thetis
+...
 
 ## Life XXVII
 
@@ -2865,7 +2241,7 @@ Presently, when it became evident that the city which he knew was much smaller, 
 
 When they were carried out to the University on a curious hydraulic rock tramway he became still more excited, and described exactly how it used to work, and the form of the old cars, which had for centuries been superseded by another type; and when they reached the University itself he was quite unable to contain himself, for he declared that he knew every walk in the garden, and dragged his father about to show it all to him. Presently his fullness of memory reawakened that of his father, and Mercury also began to see things as they used to be and to recollect events as well as scenes of a far-away past. Then father and son were able to compare notes, and to realise that in those old days they had been, not father and son, but father and daughter, and that the relative positions had been reversed. Then Alcyone said to his father: "You are an advanced priest of the Temple, and I am only a beginner; how could I remember all this before you did?"
 
-Mercury replied:"It is just because your body is younger than mine that it is easier for you to remember; I have changed sex too, and so have an entirely different outlook on life, while you have not. Besides, this University was your life work, and so it was impressed more strongly upon your mind than upon mine."
+Mercury replied: "It is just because your body is younger than mine that it is easier for you to remember; I have changed sex too, and so have an entirely different outlook on life, while you have not. Besides, this University was your life work, and so it was impressed more strongly upon your mind than upon mine."
 
 They talked over all that time together, and marvelled greatly as they recalled incident after incident of the earlier life, and went from building to building, noting the changes. Most of all, perhaps, they were interested in the library, where they found some of the very books in which they used to read—some even that they had copied with their own hands.
 
@@ -2878,9 +2254,7 @@ After their work in connection with the library was completed, they started on t
 
 Their voyage home was accomplished without serious mishap, though a heavy storm carried them far out of their course and gave them some new experiences. The vessel this time called in passing at the great City of Golden Gate, and Alcyone was much impressed with its architectural splendour, though Mercury felt its moral atmosphere to be foul and degraded. Of course they took this opportunity to pay a visit to Mars, who received them with great kindness, and kept them with him for two months.
 
-By force of example and by stern repression of evil tendencies, Mars had kept his court at least outwardly decent; but he was well aware that the Toltec civilisation was even then decadent, and that a strong party among his subjects scarcely veiled their impatience of the restrictions which he imposed upon them. He felt that the outlook for the Empire was a gloomy one,and congratulated his descendents that their lot was cast in a part of the continent in which, though the inhabitants were often materialistic and avaricious, they were at least much freer from the darker magic and from what was called' refined'
-
-forms of sensuality. Even
+By force of example and by stern repression of evil tendencies, Mars had kept his court at least outwardly decent; but he was well aware that the Toltec civilisation was even then decadent, and that a strong party among his subjects scarcely veiled their impatience of the restrictions which he imposed upon them. He felt that the outlook for the Empire was a gloomy one,and congratulated his descendents that their lot was cast in a part of the continent in which, though the inhabitants were often materialistic and avaricious, they were at least much freer from the darker magic and from what was called' refined' forms of sensuality. Even
 
 Alcyone, young though he was, felt that there was something wrong with the place, despite its magnificence, and was glad when the time came for them to pursue their journey.
 
@@ -2959,38 +2333,7 @@ On several occassions he mesmerically cured people suffering from various diseas
 
 So he lived on for seventeen years, passing the evening of his life peacefully and contentedly, hale and vigorous, and keeping all his faculties to the last. Mizar remained inseparable from him (she had of course accompanied him to Africa) and their devotion to one another was touching. When Mizar died in the year 16,793 he seemed scarcely to mourn her, saying that it was not worth while to sorrow over so short a seperation, as he knew he should soon follow her almost immediately. His prediction was justified, for he passed quietly away the following year, leaving behind him a great reputation on two continents. Two exactly similar statues of him were made, and were set up in the Central Halls of his two Universities—in that in Africa besides that other statue of his earlier personality on the pedestal of which in his boyhood he had had his present name engraved. The same sculptor produced the two statues, and each University presented one to the other with a suitable inscription. The story of the founder who had so strangely returned and recognised his work was repeated in Africa for centuries, though later, when the statues had disappeared, it became confused, and ran that he was a great magician who had preserved the same body for fourteen hundred years, and so had revisited the scene of his former labours.
 
-Chart XXVII
-Poseidonis
-
-Surya
-
-16,867 B.C.
-
-Alcyone -(1)Sirius
-
-Vega(1)Leo
-(2)Pindar
-
--(2)Mizar
-
-Chart XXVII
-Poseidonis
-
-16,867 B.C.
-
-Chart XXVII
-Poseidonis
-
-16,867 B.C.
-
-Chart XXVII
-Poseidonis
-
-16,867 B.C.
-
-Phocea
-
-Boreas
+Chart XXVII - Poseidonis - 16,867 B.C.
 
 ## Life XXVIII
 
@@ -3002,20 +2345,7 @@ This migration seems to have been one of special importance, and a large number 
 
 Beside Him, on His right, stood the Mahaguru, His priestly Brother, the Head of the Religion of the community. Stately and mighty also was He, but while the Manu breathed resistless Will and every gesture spoke of Rule, this Blessed One breathed Love most compassionate, and a Wisdom as pure and deep as the Manu' s Will was mighty. His hair dusky as ebony, His eyes of darkest violet, almost black, His mouth tender, easily curving into a gracious smile.
 
-Seeking His name, we find many in the people' s minds—as though reverence and love sought varied expression; often Pita,
-Deospita,
-
-Vyas,
-
-Sarvajnarshi,
-
-Sugata,
-
-Ravidas,
-
-Ushadas,
-
-Mahamuni, Jnanraja—such are some of the names by which the people love Him. On the left side of the Manu stands Surya, with radiant hair and shining eyes—eyes that dwell with deep affection on His noble sons, the chief figures in the crowd facing the alter, which stands between the Heads of the community and Their people.
+Seeking His name, we find many in the people' s minds—as though reverence and love sought varied expression; often Pita, Deospita, Vyas, Sarvajnarshi, Sugata, Ravidas, Ushadas, Mahamuni, Jnanraja—such are some of the names by which the people love Him. On the left side of the Manu stands Surya, with radiant hair and shining eyes—eyes that dwell with deep affection on His noble sons, the chief figures in the crowd facing the alter, which stands between the Heads of the community and Their people.
 
 They are clad with great magnificence; a long cloak of cloth of gold with heavy jewelled clasps falls around Their feet; the Mahaguru and Surya have, beneath this, long white robes of finest material; the Manu wears a double-like garment of rich erimson, reaching below His knees, the legs and feet bare. They are waiting, expectant, for the overshadowing presence of the Mighty Lords of the Flame, who are to appear to bless th e departing hosts.
 
@@ -3029,19 +2359,15 @@ The accents fall upon the hushed stillness; a hand is raised in blessing, and wh
 
 Surya stepped out and blessed his sons, who bent the knee before him and then, stooping, raised the little Alcyone, his favorite grand daughter, and drew close to him the sturdier form of Herakles:
 
-"My little ones,"
-
-he said, and his tender face grew gently solemn,"on a far rough way you go. Mothers of brave men you shall be, and fair women also shall call each of you' mother'.
+"My little ones," he said, and his tender face grew gently solemn,"on a far rough way you go. Mothers of brave men you shall be, and fair women also shall call each of you' mother'.
 
 Your race shall dwell long in the land and thither also you shall come again many times, to learn and teach. But this is the first of the lives of expiation, that old Karma may be outworn, old wrongs made right.
 
 Death shall come to both of you together, in strange and violent way. In that hour, call on me and I will come to you, and the Light you have just now seen shall shine in the darkness then."
 
-Little Alcyone hid her face in his neck and laughed softly; she did not understand, but she loved her grandfather; and Herakles looked up boldly, unwitting the gravity of the prophecy;"I shall call loud, so that you will hear,"
+Little Alcyone hid her face in his neck and laughed softly; she did not understand, but she loved her grandfather; and Herakles looked up boldly, unwitting the gravity of the prophecy;"I shall call loud, so that you will hear," and Jupiter, who always called
 
-and Jupiter, who always called
-
-Herakles his little wife, said proudly:"I will take care of you."
+Herakles his little wife, said proudly: "I will take care of you."
 
 Long and arduous was the journey, and many years had passed ere the three commanders met again. Corona found his way south fairly easily, as the road through Kashmir was known, and the people of the settled portions were not unfriendly. But on reaching the Punjab he fell out with the inhabitants almost from the beginning, and presently he had to fight his way through a hostile country. He besieged the great Toltec city, now under Aryan rule, where Mars had been betrayed some fifteen hundred years before, and at length reduced it by starvation, and made its ruler swear fealty to himself; he next subdued Ravipur—near the site of the modern Delhi—and established there one of his own officers as a tributary King; he pressed southwards, ever fighting and reducing his enemies to submission, till he had carved himself out an empire, with half a hundred tributary chiefs. Forty years had rolled away ere he reached Bengal, an aged warrior of over seventy years of age, to find Mars settled in Central Bengal, having founded and established his kingdom.
 
@@ -3051,11 +2377,7 @@ Vulcan had found his way through Tibet and Bhutan a good sixteen years earlier, 
 
 The route of Mars, on leaving Central Asia, took him in four years across the great Range into Tibet, and he remained there for a full year, to rest the feebler members of his army-caravan, ere they began the toilsome road across the mountains to Nepal. During this time Castor was born, and much time was given daily to training the boys of the party in athletics of every sort. Jupiter was the leader in all manly exercises, and among the boys whom he formed into a troop, which he trained in scouting and mimic warfare, we note his cousins Leo, Vajra and Selene, Vajra making up for his juvenility by his reckless daring and extreme activity—and their friends Albeiro and Arcor. Alcyone, a girl between seven and eight, was a somewhat dreamy maiden, quiet and thoughtful, more apt to sit at home than to roam abroad. She would sing softly to herself the chants to the angels of her people and lose herself in visions as she sang.
 
-At the end of the fifth year since leaving Manoa, the army started again on its way, and climbed slowly over the mountains which lay between Tibet and Nepal. It tried to follow the course of a mountains which lay between eastwards and southwards, but was constantly forced to turn aside when the river plunged into impassable gorges and foamed through ravines where the cliffs almost closed above it. There were many skirmishes with hill-tribes, but no serious fighting until two years later they approached Nepal, where Mars found himself obliged to divide his army, leaving half under Mercury to guard the huge entrenched camp, and going out himself with remainder of his troops to subdue the country sufficiently to make a safe road for his people. He took with him his eldest son, Jupiter, and his young troop, Mercury specially bidding his son Vajra learn the soldierly duty of obedience. One attempt was made to rush the camp during his absence, but Mercury repelled it without great difficulty and with little loss of life. It is a pretty scene to see Mercury seated with his wife and sister-in-law, with Alcyone nestling on his breast, and a girl-friend Capri, Herakles'
-
-special chum, leaning against his knee, as he told them stories of Surya and the Mahaguru, and sometimes, speaking softly and low, of the great Kumaras whom they had seen ere leaving Manoa. Herakles was a more restless child, and her eyes would rove eagerly over the camp outside while her father was speaking, bringing on herself sometimes a solemn reproof from the more demure Capri. Osiris and Uranus also, with little Viraj, were interested auditors while Ulysses was apt to sympathise with Herakles'
-
-wandering gaze.
+At the end of the fifth year since leaving Manoa, the army started again on its way, and climbed slowly over the mountains which lay between Tibet and Nepal. It tried to follow the course of a mountains which lay between eastwards and southwards, but was constantly forced to turn aside when the river plunged into impassable gorges and foamed through ravines where the cliffs almost closed above it. There were many skirmishes with hill-tribes, but no serious fighting until two years later they approached Nepal, where Mars found himself obliged to divide his army, leaving half under Mercury to guard the huge entrenched camp, and going out himself with remainder of his troops to subdue the country sufficiently to make a safe road for his people. He took with him his eldest son, Jupiter, and his young troop, Mercury specially bidding his son Vajra learn the soldierly duty of obedience. One attempt was made to rush the camp during his absence, but Mercury repelled it without great difficulty and with little loss of life. It is a pretty scene to see Mercury seated with his wife and sister-in-law, with Alcyone nestling on his breast, and a girl-friend Capri, Herakles' special chum, leaning against his knee, as he told them stories of Surya and the Mahaguru, and sometimes, speaking softly and low, of the great Kumaras whom they had seen ere leaving Manoa. Herakles was a more restless child, and her eyes would rove eagerly over the camp outside while her father was speaking, bringing on herself sometimes a solemn reproof from the more demure Capri. Osiris and Uranus also, with little Viraj, were interested auditors while Ulysses was apt to sympathise with Herakles' wandering gaze.
 
 Two years passed before the waiting camp again welcomed Mars and joyous were the greetings which met the returning wanderers. He had secured a passage through Nepal, partly by fighting, partly by diplomacy, and the whole caravan set out, a couple of months later, in early summer. That winter they camped near the borders of Nepal, resuming their journey the following summer, and thus slowly they went forwards, marching during the summer, camping in the winter, and spending weary years on the way ere they reached India itself.
 
@@ -3091,29 +2413,23 @@ As the months passed, the growlings grew louder, and a conspiracy was formed to 
 
 It was 15,937 B.C. and the high day, or rather night, of the forbidden festival was near. The early morning dawned clear and cool, but scattered groups might be seen slowly converging to a centre, and that centre the house of Albeiro. The groups coalesced into a crowd; the crowd grew in number and denseness. Presently a deep clanging note clashed into the quiet: it was the note of the great bell of the temple, unheard for long, the bell that no longer might be sounded. The roar of the crowd answered the brazen voice of the bell, and in a moment a riot had broken out. The house of Albeiro was broken into, the guards slaughtered, and in front of the crowd, as it surged inwards, towered the tall gaunt form of the Atlantean High Priest, Scorpio, on whose head a price had long been set, and who had lain hidden in the underground vaults of the temple, known to none but the initiated priesthood."Ya-uli! Yauli!,"shrieked the mob, half deeming him risen from the dead, and frenzied by religious excitement. A slow stern smile curved his iron lips as he heard his name re-echo, and turning, he waved back the yelling mob, and they stopped silent.
 
-"
+"Wait, children of the Lord of the Dark Face; your day has come. I go to bring forth the accursed, the women of the barbarians of the North, who have crushed your worship and closed the temples of your Gods. Aiyo! Aiyo! The Lords have risen; they cry for blood, and blood shall they have. Slay! slay all but the two women who are theirs. They are mine, as the priest of the Gods who drink human blood and devour human flesh. Tonight shall their thirst be slaked and their hunger appeased, Aiyo! Aiyo! I have said!"
 
-Wait, children of the Lord of the Dark Face; your day has come. I go to bring forth the accursed, the women of the barbarians of the North, who have crushed your worship and closed the temples of your Gods. Aiyo! Aiyo! The Lords have risen; they cry for blood, and blood shall they have. Slay! slay all but the two women who are theirs. They are mine, as the priest of the Gods who drink human blood and devour human flesh. Tonight shall their thirst be slaked and their hunger appeased, Aiyo! Aiyo! I have said!"
-
-Into the house he stalked, grim as death and stern as an incarnate Hate. At the first alarm Arcor had sounded his conch to summon his men, and, as they flung themselves into the passages and held the stairways, a fierce but hopeless combat had ended in their extermination. Arcor himself had rushed to the private entrance into the ladies'
-
-apartment, had struck down the priests who led the crowd—Ya-uli cautiously withdrawing till the way was clear—and had battled desperately, though alone, to bar the road. He fell, pierced by a score of wounds, and the Chief Priest stepped over his body to his prey.
+Into the house he stalked, grim as death and stern as an incarnate Hate. At the first alarm Arcor had sounded his conch to summon his men, and, as they flung themselves into the passages and held the stairways, a fierce but hopeless combat had ended in their extermination. Arcor himself had rushed to the private entrance into the ladies' apartment, had struck down the priests who led the crowd—Ya-uli cautiously withdrawing till the way was clear—and had battled desperately, though alone, to bar the road. He fell, pierced by a score of wounds, and the Chief Priest stepped over his body to his prey.
 
 Alcyone and Herakles were at their morning worship when the crash of breaking doors told them of danger, and as they rose, two tall and stately women—Herakles, now at the age of sixty, crowned with silver hair, and Alcyone with dark tresses, silver streaked, falling below her waist—the door of their worship-chamber burst open, and the tall Priest stood on the threshold. The two women faced him, a proud interrogation as to such intrusion spoken by the uplift of the noble heads, the gaze of the steady eyes. "Come, ye accursed! The day of your oppression is over; the night of your doom is near. Come, for the Dark Lords call. I am their messenger of vengeance."
 
 Herakles threw her arm round her sister' s slight form: "Priest! You threaten those who know not fear. Begone! invite not death."
 
-A harsh laugh grated on the air:"Death, woman! I give it, I do not accept it. Come forth: you are mine."
+A harsh laugh grated on the air: "Death, woman! I give it, I do not accept it. Come forth: you are mine."
 
 He made a gesture to some priests behind him; they came in and seized the women by the arms, drawing out cords to bind.
 
-"Bind not!"
-
-said Herakles."
+"Bind not!" said Herakles."
 
 We shall not flee. Come, dearest, come. Our father' s daughters know how to die."
 
-Alcyone glanced up at her sister, an angelic smile upon her face:"I am ready, sister beloved."
+Alcyone glanced up at her sister, an angelic smile upon her face: "I am ready, sister beloved."
 
 And they moved slowly forward, surrounded by the priests, through the passages strewn with the bodies of the dead.
 
@@ -3127,31 +2443,21 @@ At first, no harm was wrought on them; they were offered rich food and wine, but
 
 A dread and awful place it was in which they were left. Dim shapes, some red, some black, some sickly grey, were half visible through the gloom. Low moans, as of something in pain, came, dully muffled, to their ears.
 
-"Herakles,"
-
-whispered Alcyone,"are these things alive or dead? They make me shudder."
+"Herakles," whispered Alcyone,"are these things alive or dead? They make me shudder."
 
 "Darling, I know not, but living or dead, they cannot hurt the soul."
 
 They whispered to each other in the gloomy cavern, spoke of home, of husbands, of children, and then of the days of happy childhood, and the glorious vision of the past.
 
-"I think the time has come,"
-
-said Alcyone,"and we shall see our grandfather again."
+"I think the time has come," said Alcyone,"and we shall see our grandfather again."
 
 "And the Light!"breathed Herakles.
 
-It was ten o' clock, and a dense crowd filled the huge dark building, silent, expectant, awe-struck. At a given sign the women were seized, and lifted upon a high altar, in view of all, and a lurid light, blood red shone out, none could say whence, and threw the awful figures around into grim semblance of life. There was a sound of rending cloth, and the robes of the two women were torn from them, and the fair white bodies shone out nude and shrinking. A low cry of horror burst from them, and then Herakles threw up her proud head and flung her arms around her sister, striving to shield her from the gaze of the rough crowd:"You shame your mothers, men, in shaming us,"
-
-she cried, and then stood silent."Look at them,"
-
-called the Priest,"before the Dark Lord feasts upon them. When next you see them, he shall have had his fill."
+It was ten o' clock, and a dense crowd filled the huge dark building, silent, expectant, awe-struck. At a given sign the women were seized, and lifted upon a high altar, in view of all, and a lurid light, blood red shone out, none could say whence, and threw the awful figures around into grim semblance of life. There was a sound of rending cloth, and the robes of the two women were torn from them, and the fair white bodies shone out nude and shrinking. A low cry of horror burst from them, and then Herakles threw up her proud head and flung her arms around her sister, striving to shield her from the gaze of the rough crowd: "You shame your mothers, men, in shaming us," she cried, and then stood silent."Look at them," called the Priest,"before the Dark Lord feasts upon them. When next you see them, he shall have had his fill."
 
 And then the light faded, and the crowd filed out, to wait for the rites that none save the priests might see and live.
 
-How tell the horrors that ensued: flames rose from surrounding altars, and shrieking captives were led in, and the fire fed with fat skinned from their living bodies till the flames roared high; then their blood was set flowing and caught in iron vessels, and set to boil in huge iron pots, and poured upon the images set in the circle round; foul creatures of the slime, huge spiders, monstrous scorpions, fed on the remnants of the slime, huge spiders, monstrous scorpions, fed on the remnants of the mutilated bodies; and presently one after another of the images woke into awful life, began to stir, to slip downwards from their pedestals, obscene shapes of unimaginable horror, and crawled and writhed towards the centre where Alcyone and Herakles still stood, clasped in each other' s arms."Fly! Fly!"
-
-yelled the priests,"the Dark Lord is coming, and his hosts are here!"and they tumbled over each other in a mad rush to escape from the terror they had invoked.
+How tell the horrors that ensued: flames rose from surrounding altars, and shrieking captives were led in, and the fire fed with fat skinned from their living bodies till the flames roared high; then their blood was set flowing and caught in iron vessels, and set to boil in huge iron pots, and poured upon the images set in the circle round; foul creatures of the slime, huge spiders, monstrous scorpions, fed on the remnants of the slime, huge spiders, monstrous scorpions, fed on the remnants of the mutilated bodies; and presently one after another of the images woke into awful life, began to stir, to slip downwards from their pedestals, obscene shapes of unimaginable horror, and crawled and writhed towards the centre where Alcyone and Herakles still stood, clasped in each other' s arms."Fly! Fly!" yelled the priests,"the Dark Lord is coming, and his hosts are here!"and they tumbled over each other in a mad rush to escape from the terror they had invoked.
 
 Out of the darkness loomed a gigantic face—a face of power majestic, of pain and wrath too deep for words, of intolerable weariness and despair. A mighty hand was waved, just visible by its own dull glow, as of hot iron half-quenched and the fearful figures rolled up around the alter and reared up red gaping mouths and hairy tearing claws. Then rang out the voice of Herakles, loud and clear:
 
@@ -3163,35 +2469,7 @@ And that night in Puri, there was fear and trembling, for earthquake rent the gr
 
 Of the vengeance Vajra wrought when he returned, and of the grief of Jupiter and Albeiro, there is here no room to tell. And it was all over very long ago.
 
-Chart XXVIII
-Central Asia and India
-
-15,995 B.C.
-
-The Kumaras
-
-Maha guru
-
-Manu
-
-Jupiter -Herakles Canopus -Fomal
-
-Chart XXVIII
-Central Asia and India
-
-15,995 B.C.
-
-Achills
--Yajna b
-
-Chart XXVIII
-Central Asia and India
-
-15,995 B.C.
-
-Dome Trefoil
-
-Scorpio
+Chart XXVIII - Central Asia and India - 15,995 B.C.
 
 Simultaneously with this two of our characters. Rhea and Vale are found in Atlantis, Vale being male and Rhea female.
 
@@ -3205,10 +2483,7 @@ In the lives already described our hero has had the privilege of frequent and cl
 
 Alcyone, then, was born this time in a female body in the year 15,402 B.C. in Rahana, in the Oudh district of India. Her father, Cetus was the priest of a religion about which there seemed to be much mystery. Although he himself was unquestionably of Aryan descent, the religion was certainly aboriginal, for it was at the same time too elaborate and too barbarous for the joyous-hearted Aryans.
 
-It may well have been the seed from which Kali worship has since arisen, for it consisted mainly of gloomy rites to a bloodthirsty female deity. There was a good deal of reckless gaiety about the outer side of this faith, but through it all there always rang a sombre note of gloom and fear. Many secret services were held to which only the
-' initiated'
-
-were admitted, and at these the most horrible rites of the darker magic were freely practiced. Many parts of some of these services were held in a language incomprehensible to the people, but at the same time some of the recitations were at least partially
+It may well have been the seed from which Kali worship has since arisen, for it consisted mainly of gloomy rites to a bloodthirsty female deity. There was a good deal of reckless gaiety about the outer side of this faith, but through it all there always rang a sombre note of gloom and fear. Many secret services were held to which only the 'initiated' were admitted, and at these the most horrible rites of the darker magic were freely practiced. Many parts of some of these services were held in a language incomprehensible to the people, but at the same time some of the recitations were at least partially
 Sanskrit.
 
 Alcyone' s father was a fit person for such a faith, a stern, reserved and gloomy man, but nevertheless a person of very great influence. He was supposed to have won many powers by sacrifices and austerities, and was further credited with readiness to use them for evil in a great many ways. Her mother, Cancer, was not unkind, but was always in a condition of anxiety and terror, which speedily communicated itself to the child. The latter lived a rather frightened and neglected life; she was not actually badly treated, and as she was not admitted to the inner services, she saw nothing definite of the more unnecessary horrors of her religion, but the gloom and the fear of the inner circles reacted upon her childhood miserable with vague terrors.
@@ -3236,9 +2511,7 @@ Human sacrifice formed a regular part of the secret rites of this horrible faith
 
 "From the earth is the breath and the blood, but whence is the soul? Who is he who holds the unborn in his hands? The watchers of old are dead, and now we watch in turn. By the blood which we offer, hear us and save! The breath and the blood we give thee. Save thou the soul and give it to us in exchange."
 
-These last words seemed to point to the idea that the soul, or perhaps more exactly th e astral body, of the sacrificed was to be given into their power to become one of their horrible band of obsessing entities, to be at once an instrument and yet in some strange way one of the objects of their degraded worship. As has been said, most of their incantations were entirely incomprehensible, and bore a considerable resemblance to those employed in Voodoo or Obeah ceremonies by the Negroes. Others, however, contained distinct Sanskrit words, usually buried in the midst of a series of uncouth exclamations delivered with a furious energy which certainly made them terribly powerful for evil. One of their characteristics was the use of certain cacophonous combinations of constants into which all the vowels were inserted in turn. The syllable"hrim” was used in this way, as also the interjection"kshrang”. In the midst of these uncouth outbursts of spite occurred what appears to be an evil wish in unmistakable Sanskrit:"Yushmabhih mohanam bhavatu,"
-
-and the whole utterance concluded with some peculiarly explosive curses which it seems impossible to express in any ordinary system of letters.
+These last words seemed to point to the idea that the soul, or perhaps more exactly th e astral body, of the sacrificed was to be given into their power to become one of their horrible band of obsessing entities, to be at once an instrument and yet in some strange way one of the objects of their degraded worship. As has been said, most of their incantations were entirely incomprehensible, and bore a considerable resemblance to those employed in Voodoo or Obeah ceremonies by the Negroes. Others, however, contained distinct Sanskrit words, usually buried in the midst of a series of uncouth exclamations delivered with a furious energy which certainly made them terribly powerful for evil. One of their characteristics was the use of certain cacophonous combinations of constants into which all the vowels were inserted in turn. The syllable"hrim” was used in this way, as also the interjection"kshrang”. In the midst of these uncouth outbursts of spite occurred what appears to be an evil wish in unmistakable Sanskrit: "Yushmabhih mohanam bhavatu," and the whole utterance concluded with some peculiarly explosive curses which it seems impossible to express in any ordinary system of letters.
 
 Poor Alcyone led an exceedingly miserable life amidst all the chaos of obscene horrors. Her husband was an evil and crafty man, who prayed upon the credulity of the people, and was often in a condition of complete intoxication from the use of hemp and some form of opium. Soon Alcyone came bitterly to regret the fit of mad revenge which had led her into all this network of evil, but she was too firmly entangled in it to be able to make her escape, and indeed there still were times when the obsession dominated her and she felt that revenge would be right and sweet. Presently her father died, and the family fell back into a position of less influence.
 
@@ -3289,81 +2562,21 @@ So at the end of about a year she took leave of him with many regrets and travel
 
 Alcyone acquired a wide reputation because of her remarkable knowledge on all religious points, and she became an authority to be consulted even by the priests and the Brahmans of the neighbourhood. So the life which had begun amidst such horrors of storm and strife ended with the calm of a peaceful sunset, and she passed away deeply regretted by all those who knew and loved her so well.
 
-Chart XXIX
-Oudh India
+Chart XXIX - Oudh India - 15,402 B.C.
 
-15,402 B.C.
-
-Mars Vulcan
-
-Ivan Alma
-
-Chart XXIX
-Oudh India
-
-15,402 B.C.
-
-Thetis -
-
-Tiphys
-
-Chart XXIX
-Oudh India
-
-15,402 B.C.
-
-Boreas
-
-Chart XXIXa
+Chart XXIXa - Rajputana - 14,698 B.C.
 
 A small group of our characters appear at this time in Rajputana, and a few more are found to be existing contemporaneosly in Mysore.
 
-Rajputana
-
-Jupiter
-
-Mars
-
--(1)Osiris
--(2)Pallas
-
-14,698 B.C.
-
-Laxa
-
-Mysore
-
-Capri
-Olaf
-Concord
-
-Fort
-
-Boreas
-
-Chart XXIX (supplement)
-Poseidonis
-
-(Birth of Erato)
-
-15,288 B.C.
+Chart XXIX (supplement) - Poseidonis - 15,288 B.C. (Birth of Erato)
 
 In the course of the development of his character it became necessary at this time for Erato to undergo a severe test. Having triuphed over certain difficulties in his last life in Egypt, he was now thrown into the midst of the corrupt and effete Atlantean civilisation --presumably with the hope that the strong development in his previous lives would enable him to triumph over the evil, and to live a pure and noble life in the midst of gross impurity. Thus he reappears in 15,288 in Poseidonis as the son of a man who was rich and well connected, but wholly devoted to gain, unscrupulous, hard and grasping, with no thought of anything beyond this world. Naturally, therefore, Erato was an uneasy, unhappy sort of boy, with vague feelings of discomfort and discontent with his surroundings, and dim aspirations toward something better. As he grew up, however, he became absorbed in the idle and vicious life of the time; but was in no way specially bad, but neither better. As he grew up, however, he became absorbed in the idle and vicious life of the time; but was in no way specially bad, but neither better nor worse than those around him. This being the case, it is perhaps hardly to be regretted that his life was cut short at the age of forty-four by a wound received in a street brawl. Five others of our characters are found along with him:
 
-North America
-
-Erato
-Lacey
-Hespar
-Laxa
-
-(Birth of Erato)
-
-14,746 B.C.
+...
 
 His next appearance may be regarded as directly the consequence of the last life, for it took him out of the luxurious and enervating conditions of the civilisation of Poseidonis, and placed him amidst surroundings as bleak, as hardy and as uncomfprtable as can well be imagined. There was a change of sex, for he was born in 14,746 in the extreme North America, in the Rmohal branch of the Atlanteans. It was clearly a life of hard training, and Erato's immediate associates in it were by no means at his level. He had temporarily been cast among people for below him in evolution, none of whom can be identified as belonging to our band of servers.
 
-Erato
+...
 
 ## Life XXX
 
@@ -3432,9 +2645,7 @@ There house also became a kind of religious centre, since it was recognised that
 Chart XXX
 Oudh India
 
-[Mercury ]
-
-b
+[Mercury ] b
 
 14,551 B.C.
 
@@ -3446,19 +2657,11 @@ Draco
 
 Cassio
 
-Chart XXX
-Oudh India
-
-14,551 B.C.
+Chart XXX - Oudh India - 14,551 B.C.
 
 Karu
 
-Chart XXX
-Oudh India
-
-14,551 B.C.
-
-v
+Chart XXX - Oudh India - 14,551 B.C. v
 
 Arthur --Hebe
 
@@ -3555,9 +2758,7 @@ She caused her sons to take an oath never to rest until that Emperor and his pow
 
 The doubt grew and increased until it became a nightmare to her, and she commenced a kind of invocation to her dead husband, declaring that she would not cease to call for him until he should tell her what was his will. For days and nights she continued this strange invocation until at last she fell asleep in sheer exhaustion; then in her dream she saw Sirius once more. Sirius and Mercury came to her together, and they told her that, while by all the standards of the time her act of revenge had been allowable and even laudable, there was yet a higher standpoint from which all revenge was not prerogative of the Law.
 
-"My daughter,"
-
-said Mercury,
+"My daughter," said Mercury,
 
 "in this you have erred, though well I understand the reason for your error. Your excuse seemed to you a sufficient one, yet no excuse can ever make wrong right, nor violence justifiable, and this act of yours will bring much suffering in the future, both to you and the devoted instrument whom you have employed; but through suffering wisdom shall come to you, and in the far future your hand shall lead to the light him whose career of sin you have now cut short, and in that future I shall help and direct you both as I have done in this life."
 
@@ -3576,12 +2777,7 @@ Mizar married Irene—an event which took place much later than any of the other
 
 Selene led a quiet life and studious life.
 
-Chart XXXI
-Poseidonis
-
-13,651 B.C.
-
-f
+Chart XXXI - Poseidonis - 13,651 B.C. f
 
 Corona
 Ulysses
@@ -3604,17 +2800,11 @@ V
 C Tripos -Uchcha
 V
 
-Chart XXXI
-Poseidonis
-
-13,651 B.C.
+Chart XXXI - Poseidonis - 13,651 B.C.
 
 Ursa -(1)Orion
 
-Chart XXXI
-Poseidonis
-
-13,651 B.C.
+Chart XXXI - Poseidonis - 13,651 B.C.
 
 -(2)Hesper
 
@@ -3622,12 +2812,7 @@ Thetis
 
 Boreas
 
-Chart XXXIa
-India and Egypt
-
-(Birth of Mars)
-
-13,524 B.C.
+Chart XXXIa - India and Egypt - 13,524 B.C. (Birth of Mars)
 
 At this time Viraj was Ruler of the great South Indian empire, and Brihat was his queen, and Mars was one of their sons. The Manu appeared astrally to the Emperor, and directed him to send Mars over the sea to Egypt by way of Ceylon. He was directed also to choose a band of young men and young women who were to accompany him and take part in the great work of the Aryanisation of Egypt. Among those so chosen were a number of our characters, as will be seen from the subjoined chart.
 
@@ -3643,12 +2828,7 @@ Manu
 Surya
 Jupiter
 
-Chart XXXIa
-India and Egypt
-
-(Birth of Mars)
-
-13,524 B.C.
+Chart XXXIa - India and Egypt - 13,524 B.C. (Birth of Mars)
 
 ## Life XXXII
 
@@ -3690,27 +2870,15 @@ Both Alcyone and his wife lived to a good old age, and were much respected, he b
 
 Although there were few striking events in this life, and many years of comparatively quiet prosperity, it was not without its effect in developing the character of Alcyone, who gained in courage and decision, and showed considerable administrative ability, learning also especially the art of dealing wisely with men—an acquisition which was of great value to him in his next incarnation.
 
-Chart XXXII
-Punjab
+Chart XXXII - Punjab - 12,877 B.C.
 
-12,877 B.C.
+Chart XXXII - Punjab - 12,877 B.C.
 
-Chart XXXII
-Punjab
-
-12,877 B.C.
-
-Chart XXXII
-Punjab
-
-12,877 B.C.
+Chart XXXII - Punjab - 12,877 B.C.
 
 Rector Arthur
 
-Chart XXXII
-Punjab
-
-12,877 B.C.
+Chart XXXII - Punjab - 12,877 B.C.
 
 Vale appears in a female incarnation in the algerian mountains about the year 12,500 B.C.
 
@@ -3758,10 +2926,7 @@ Ulysses belonged to the royal family, being the son of Corona.
 
 He was educated in a technological school and became a great agriculturist. Later in life he was sent to persuade Vajra to return from a wild tribe to which he had gone, and while they were on their return journey they fell into an ambush. Ulysses, seeing a man about to shoot Vajra with an arrow rushed in between and was killed.
 
-Chart XXXIII
-Peru
-
-12,093 B.C.
+Chart XXXIII - Peru - 12,093 B.C.
 
 Jupiter
 Saturn
@@ -3776,27 +2941,18 @@ Thetis
 
 (Fides) -Gluck
 
-Chart XXXIII
-Peru
-
-12,093 B.C.
+Chart XXXIII - Peru - 12,093 B.C.
 
 Surya
 
 Zephyr
 Laxa
 
-Chart XXXIII
-Peru
-
-12,093 B.C.
+Chart XXXIII - Peru - 12,093 B.C.
 
 Sextans Pax
 
-Chart XXXIII
-Peru
-
-12,093 B.C.
+Chart XXXIII - Peru - 12,093 B.C.
 
 Boreas
 
@@ -3862,44 +3018,26 @@ He died in the year 11,111, at the age of seventy-one, deeply reverenced by a wi
 
 Mercury was in physical incarnation at this time, but far away in the south of India, where most of our characters were gathered round him. He did not meet Alcyone in this incarnation upon the physical plane.
 
-Chart XXXIV
-Norht India
+Chart XXXIV - Norht India - 11,182 B.C.
 
-11,182 B.C.
+Chart XXXIV - Norht India - 11,182 B.C.
 
-Chart XXXIV
-Norht India
-
-11,182 B.C.
-
-Chart XXXIV
-Norht India
-
-11,182 B.C.
+Chart XXXIV - Norht India - 11,182 B.C.
 
 Karu
 
-Chart XXXIV
-Norht India
-
-11,182 B.C.
+Chart XXXIV - Norht India - 11,182 B.C.
 
 About 11,000 B.C. Poseidonis a few of our characters appear.
 
 Scorpio
 Lacey
 
-Chart XXXIVa
-China
-
-10,749 B.C.
+Chart XXXIVa - China - 10,749 B.C.
 
 A good many of our characters are gathered together in China about 10,750 B.C. Mars is as usual the Ruler of the country--a powerful Emperor; he marries the daughter of the eloquent High Priest Herakles, who is to a large extent the centre of attraction for the rest of the party, as they are all more or less his desciples, or followers of his desciples, in turn. Some of the families involved have come from a considerable distance, attracted by the fame of the High Priest, and have even sacrificed their patrimony in order to do so. Surya himself appears on the scene as a grandson of the Emperor Mars, and a great-grandson of High-Priest Herakles, at whose death he takes up and carries on the work of religious reform which the high priest had begun. Surya had four brothers; the eldest Viraj was heir-presumptive to the throne, and had to devote himself to the material exercises and studies appropriate to that line of life; but the other three, Yajna, Naga and Sirius, threw themselves whole heartedly into the work of helping Surya in his plans, and devoted their lives to his serice. their sons in turn took up this life enthusiastically as soon as they became old enough to be of assistance. Their sons in turn took up this life enthusiastically as soon as they became old enough to be of assistance. They travelled over vast areas of country, and it is not too much to say that the whole of China and a great part of central Asia was affected by their work.
 
-Chart XXXIVa
-China
-
-10,749 B.C.
+Chart XXXIVa - China - 10,749 B.C.
 
 Capri
 
@@ -3919,9 +3057,7 @@ His father Brihat had been a great Aryan leader, but now that the invading bands
 
 Alcyone was earnest, eager, and easily impressible. He responded at once to true affection, but shrank into stolidity if treated unkindly. He had an intense admiration for his father, his mother and his elder sisters. He was extremely sensitive, and to some extent psychic and clairvoyant when young—sufficiently so at least to see nature-spirits and sometimes to hear voices, especially one which occasionally gave him counsel at crises in his life. He was always fond of the sea, and was perpetually swimming in it, or rowing sailing on it; and as a small boy he would have liked nothing better than to be a sailor. On one occasion he was some distance out in a small boat with a clumsy sail, when he was caught by a sudden squall of great severity. The people watching on shore thought that he must inevitably be lost, but just at the critical moment the voice told him to keep his presence of mind, and gave him directions what to do, so that he brought in his boat in safety, in a way which could not have been surpassed by the most experienced seaman, and by the use of a manoeuvre of which few would have thought.
 
-He was much interested in all religious ceremonies, and performed them solemnly and—effectively. His father, seeing this, was encouraged to hope that he might have the priestly vocation, which was the dearest wish of his heart for him. The boy was delighted at the idea, and his sisters also encouraged it, so he was entered as a novice, and was proud of it. his life in the temple was pleasant to him, for all the priests were attracted by his charming ways, and thus every one helped him and made his work easy. The religion seems to have been principally Sun-worship, and it is curious to note that they spoke of their Deity always as the"Sea-
-
-born Sun”. When Alcyone came to man' s estate he married Ajax, and in the course of the years had a family of twelve children.
+He was much interested in all religious ceremonies, and performed them solemnly and—effectively. His father, seeing this, was encouraged to hope that he might have the priestly vocation, which was the dearest wish of his heart for him. The boy was delighted at the idea, and his sisters also encouraged it, so he was entered as a novice, and was proud of it. his life in the temple was pleasant to him, for all the priests were attracted by his charming ways, and thus every one helped him and made his work easy. The religion seems to have been principally Sun-worship, and it is curious to note that they spoke of their Deity always as the"Sea- born Sun”. When Alcyone came to man' s estate he married Ajax, and in the course of the years had a family of twelve children.
 
 In the neighbouring town of Puri there was still a great centre of one of the forms of the old Atlantean religion of the darker sort— the worship of an entity which required human sacrifices, but in return for them seems to have displayed a large number of manifestations of various kinds which were popularly regarded as miracles. Because of these marvellous results, members of Brihat' s band were occasionally drawn away to follow the priests of this magic, much to their leader' s sorrow, for he regarded all members of the band which he had led into India as though they were his children, so that this other temple was a considerable source of annoyance to him, and among his immediate followers there was a strong feeling against it. Alcyone, who had an inquiring turn of mind, was curious about anything in the way of phenomena, and once paid a visit to this temple, on the occasion of a certain festival on which there was to be a special display. His handsome appearance attracted the notice of one of the priests there, who made persistent effort to gain some control over him. He successfully resisted these with some assistance and advice from his father, but found them exceedingly trying. The voice which occasionally intervened in his affairs seems to have been that of a kindred spirit, for it on several occassions suggested lines of investigation, and put him upon the track of all sorts of curious and out-of-the-way things.
 
@@ -3971,7 +3107,7 @@ The voice told Alcyone that this experience was necessary for him, that now he h
 
 There they told the story to Alcyone' s father and the family circle.
 
-The father said:"Yes, there is a tradition, not among us, but among the Atlanteans, of such underground races of men."
+The father said: "Yes, there is a tradition, not among us, but among the Atlanteans, of such underground races of men."
 
 Something of the story was also told by Demeter to some other people outside; but they supposed it to be mere fabrication. The family of course knew it to be true, and fully realised what a wonderful experience it was.
 
@@ -4035,18 +3171,12 @@ His extraordinary adventures made him a person of mark, and his great-grandchild
 
 This naturally brought him into a continuous round of all the old temple ceremonies, and under these influences on several occasions the voice which had so often directed him during the earlier years was heard by him again, though it had apparently altogether abandoned him during the period of his adventures and for some years subsequently. It manifested in these later years only rarely, but among other things it foretold to him the exact day of his death, which took place in 10,356.
 
-Chart XXXV
-Bengal
-
-10,429 B.C.
+Chart XXXV - Bengal - 10,429 B.C.
 
 Helios
 Achilles
 
-Chart XXXV
-Bengal
-
-10,429 B.C.
+Chart XXXV - Bengal - 10,429 B.C.
 
 Fort
 
@@ -4054,17 +3184,11 @@ C
 
 C Colos -Pearl
 
-Chart XXXV
-Bengal
-
-10,429 B.C.
+Chart XXXV - Bengal - 10,429 B.C.
 
 C
 
-Chart XXXV
-Bengal
-
-10,429 B.C.
+Chart XXXV - Bengal - 10,429 B.C.
 
 Boreas
 In 9686 Orion was born in a female body in China, but was drowned at the age of thirteen. The only other of our characters to appear at this time are Theseus, a little girl friend of Orion,, and Erato who was born nearly half a century later as the eldest daughter of Theseus; but Erato also passed away at the age of twelve. It is a little difficult to understand the object for which the two egos thus make a passing call upon the Turanian race; but evidently such a brief visit must have been in some way necessary for their evolution. One reason may have been that they were both needed in the following life in Poseidonis and that a small intermediate incarnation was necessary in each case to fill up the time.
@@ -4213,20 +3337,16 @@ Even as he uttered the words Aries, realising his defeat, fell to the ground ins
 
 With a great start the King sprang to his feet and came down the steps until he faced Alcyone, and said: "What is this that you have done to me? A great change has come over me?"
 
-Alcyone answered:"I have done nothing, O King; but the power of the deity has manifested itself, and thou hast been freed from the prison in which this man had immured thee."
+Alcyone answered: "I have done nothing, O King; but the power of the deity has manifested itself, and thou hast been freed from the prison in which this man had immured thee."
 
-And Ulysses replied, speaking to his courtiers:"
+And Ulysses replied, speaking to his courtiers:
 
-Verily this which he says is true, for I feel as though I had escaped from some dark dungeon, and I know that whereas before I was bound, now I
+"Verily this which he says is true, for I feel as though I had escaped from some dark dungeon, and I know that whereas before I was bound, now I
 am free."
 
-Turning to Alcyone he continued:"You, who have done this great thing for me—I transfer to you by this act all the revenues of him whose wiles you have conquered, and I ask you to instruct me further in a magic so powerful as to defeat so easily the greatest magician whom I have known."
+Turning to Alcyone he continued: "You, who have done this great thing for me—I transfer to you by this act all the revenues of him whose wiles you have conquered, and I ask you to instruct me further in a magic so powerful as to defeat so easily the greatest magician whom I have known."
 
-"There is no magic here, O King,"
-
-replied Alcyone,"
-
-but that of a strong will, a pure heart and a sense of right; yet I thank thee for thy gift, and if it be thy will I will gladly help thee to undo the wrong that has been done. But first let me call my brother."
+"There is no magic here, O King," replied Alcyone," but that of a strong will, a pure heart and a sense of right; yet I thank thee for thy gift, and if it be thy will I will gladly help thee to undo the wrong that has been done. But first let me call my brother."
 
 With a look he called Mizar to his side. Mizar came willingly enough, for the fall of his quondam chief had caused a shock which had enabled him to throw off the hypnotic influence, and now he felt not the slightest attraction to the darker magic which before had meant so much to him. Now he too saw before, him the face of their mother. And he gladly attached himself to Alcyone, unable to comprehend how he could ever have even temporarily left him.
 
@@ -4283,9 +3403,7 @@ This set his wife legally free, and she was formally married to the man of her c
 
 Again we find ourselves in India, for Alcyone took birth this time in the Peshawar district, in the year 7852, in what appears to correspond to the Kshattriya caste, though it was then called "rajan”. I see evidence at this time of three castes only, brahman, rajan, and vis. They seem to have been originally clearly different races; the brahman was the almost unmixed Aryan, the rajan was the Aryan intermingled with the ancient ruling race of the Toltecs, and the vis was Aryan mixed with other Atlantean races, chiefly Mongolian and Tlavatli, with sometimes a certain intermixture of later Lemurian races. They were allowed at that time to intermarry among themselves, but not with any one outside of the three castes; and even already it was beginning to be thought more proper and fashionable to marry only in one' s own caste.
 
-Alcyone was the son of Aurora, a petty chieftain of considerable reputation as a warrior. His mother was Vajra, a brave and somewhat masculine woman. Fighting seems to be the only business of this caste, and it was most persistently pursued. There was a vast amount of apparently needless bloodshed. The part of the country in which we find ourselves was divided into a number of tiny principalities, and among these perpetual warfare went on.
-
-occasionally a stronger man appeared among the princes etc and conquered several others, and thus made himself overlord for a time ,but at his death his kingdom almost invariably broke up, and the same dreary cycle of ceaseless war repeated itself.
+Alcyone was the son of Aurora, a petty chieftain of considerable reputation as a warrior. His mother was Vajra, a brave and somewhat masculine woman. Fighting seems to be the only business of this caste, and it was most persistently pursued. There was a vast amount of apparently needless bloodshed. The part of the country in which we find ourselves was divided into a number of tiny principalities, and among these perpetual warfare went on. occasionally a stronger man appeared among the princes etc and conquered several others, and thus made himself overlord for a time ,but at his death his kingdom almost invariably broke up, and the same dreary cycle of ceaseless war repeated itself.
 
 On the whole it affected the mass of the population much less than might have been expected. Trade and agriculture went on to a certain extent all the time, and only the professional soldiers fought as a rule,though of course no man' s life was ever really safe. It was a very curious state of affairs, the people being in certain ways so highly civilised, and yet life being absolutely uncertain. There was no really settled law or order, but endless years of combat— constant sieges, constant expeditions. The Aryans were not yet settled—in fact, it may be said that the final immigration was still pressing on. by about 9700 B.C. the last Aryan inhabitant had withdrawn from the Central Asian kingdom round the Gobi Sea; but India was already settled and thickly populated, and these later bands were by no means welcome. For two thousand years they were held back in Afghanistan and Baluchistan, and most of them only gradually, individually, peaceably, made their way down to the plains. Sometimes, however, raids were made by organised bands, and occasionally also there was an incursion of Mongols of various kinds, who massacred everybody. Certainly, at this period, this was an uncomfortably turbulent part of the country. A large kingdom, such as I have described, had just recently broken up, and determined struggles for the overlordship were still going on.
 
@@ -4307,9 +3425,7 @@ Chart XXXVII - Peshawar, India - 7852 B.C.
 
 Chart XXXVII - Peshawar, India - 7852 B.C.
 
-Chart XXXVII - Peshawar, India - 7852 B.C.
-
-th
+Chart XXXVII - Peshawar, India - 7852 B.C. th
 Yati5-Sappho
 
 Laxa appears about 7500 B.C. in Chaldea, while Rhea appears in Turkestan. About 300 years later Vale also appears in Turkestan; and five or six hundred years later Calyx and Amal are noted in Assyria.
@@ -4367,10 +3483,7 @@ It would seem that, just as the dissatisfaction with life as a Brahman brought A
 
 It was in this life that Neptune and Athena crossed the sea to Greece in order to attend the Mahaguru in His wandering incarnation as Orpheus, in which He preached the Law to the Greeks through the medium of his glorious music.
 
-Chart XXXIX
-Egypt
-
-6986 B.C.
+Chart XXXIX - Egypt - 6986 B.C.
 
 Herakles -(1)Lutea
 
@@ -4380,24 +3493,15 @@ Eros --Soma
 
 Albireo'-Cassio
 
-Chart XXXIX
-Egypt
-
-6986 B.C.
+Chart XXXIX - Egypt - 6986 B.C.
 
 Sif --Oak
 
-Chart XXXIX
-Egypt
-
-6986 B.C.
+Chart XXXIX - Egypt - 6986 B.C.
 
 Aquilla Aurora
 
-Chart XXXIX
-Egypt
-
-6986 B.C.
+Chart XXXIX - Egypt - 6986 B.C.
 
 Thetis
 
@@ -4505,10 +3609,7 @@ The child honestly tried to appreciate a life of incessant prayer and semi-starv
 A curious little life, this, bearing no visible relation to those which preceded and followed it. it must have worked out a good deal of bad karma, but its principal use was probably as stop-gap. A period of nearly a thousand years had passed since the last life, and as that last life was not in any way highly distinguished, it may well be that the spiritual force generated could not readily be extended to cover a longer time. She was needed in Kathiawar three hundred years later to meet the group to which she belongs, and this quaint little intermediate incarnation, with the heaven-life which it earned, just carried her over to the required time. Her relations with the astrologer-father were probably the conclusion of some piece of karma, for they have not come into contact since; nor will they in this life, as the astrologer passed away from among us before
 Alcyone' s birth.
 
-Chart XL
-Malwa, India
-
-5964 B.C.
+Chart XL - Malwa, India - 5964 B.C.
 
 Alcyone
 
@@ -4531,7 +3632,7 @@ Zoe
 
 ## Life XLI
 
-After a short life spent in solitude, quite apart from her usual friends. Alcyone this time returned to the bosom of her group—to the very heart of it. Indeed, for once more she sat at the feet of Mercury, once more she married Mizar, and for the second time in the recorded lives she and Sirius were twins. They were born in the year 5635 at Girnar, in Kathiawar, and were the children o f the local Raja, Corona. Alcyone had an extraordinary sympathy with her twin brother, always knew what was happening to him, and could sometimes foretell things about him, and could sometimes foretell things about him. When quite a little boy, Sirius once had a fall from his horse, struck his head and was insensible for a few minutes. At the same moment, at home, some miles away, Chandrakirti (Alcyone) cried,"Oh, he is falling,"and herself fell in a faint. Again one day he was lost for a time, and his mother Leo was very anxious, because there was a suspicion that he had fallen down a well, and the mother began reproaching his attendant for not taking proper care of him. The little sister, however, lisped:"It is all right, mother, you need not scold Biru. My brother is on the mountain, and he is very tired. I am also just as tired, and as soon as he comes in we shall both go to bed; but he is quite safe."
+After a short life spent in solitude, quite apart from her usual friends. Alcyone this time returned to the bosom of her group—to the very heart of it. Indeed, for once more she sat at the feet of Mercury, once more she married Mizar, and for the second time in the recorded lives she and Sirius were twins. They were born in the year 5635 at Girnar, in Kathiawar, and were the children o f the local Raja, Corona. Alcyone had an extraordinary sympathy with her twin brother, always knew what was happening to him, and could sometimes foretell things about him, and could sometimes foretell things about him. When quite a little boy, Sirius once had a fall from his horse, struck his head and was insensible for a few minutes. At the same moment, at home, some miles away, Chandrakirti (Alcyone) cried,"Oh, he is falling,"and herself fell in a faint. Again one day he was lost for a time, and his mother Leo was very anxious, because there was a suspicion that he had fallen down a well, and the mother began reproaching his attendant for not taking proper care of him. The little sister, however, lisped: "It is all right, mother, you need not scold Biru. My brother is on the mountain, and he is very tired. I am also just as tired, and as soon as he comes in we shall both go to bed; but he is quite safe."
 
 The twins were always both ill together and recovered together, and they seemed each to know what the other was thinking—or still more they seemed to think together, always liking the same people and things. Perhaps as they grew up the rapport was not quite so perfect in every detail; they still had the same thoughts, but one would emphasize some of them more than the other did. It was commonly said by the people that they had only one soul between them, though in reality they had evolved along quite different lines. They were exceedingly alike physically, except that the brother was a little taller; and one of Alcyone' s great jokes was to dress in brother' s clothes and see for how long she could deceive his servants into believing her to be their young master; and her aptitude was so great that she succeeded in this about nine times out of ten, and even several times went out for long rides with his grooms and attendants without being discovered.
 
@@ -4562,7 +3663,7 @@ Sirius had himself put into a litter and still directed the rest of the battle, 
 
 When later the same enemy gathered a new force and again attacked the country, the reformed Gamma led the troops against them, and won a final victory over them by a desperate deed of valour, leading a forlorn hope to certain death, but thereby gaining the day.
 
-When Sirius wounded by Gamma, had fallen from his horse in that previous battle. Alcyone also had fallen at home, crying :"He is hurt; He will die!"
+When Sirius wounded by Gamma, had fallen from his horse in that previous battle. Alcyone also had fallen at home, crying : "He is hurt; He will die!"
 
 She suffered just as he did, lingered on for months as he did, and finally died on the same day without any reason but sympathy with her wounded brother. She could not however forgive or receive her nephew Gamma, who had caused the death of his father Sirius; and even after Gamma died bravely in the effort to atone, she still said that it was the least he could do, and not half enough to expiate his wickedness. Alcyone herself had seven children, to whom she was a good and loving mother.
 
@@ -4626,11 +3727,7 @@ But the woman came immediately afterwards and asked to see her, and threw hersel
 
 "Now I die, for when I heard that I was too be delivered into your hands I at once took poison, feeling that you could not forgive me, but would torture me for all that I had done made you suffer."
 
-"No,"
-
-said Alcyone;"since you have thus repented you shall not die,"
-
-and she sent for her own court physician and asked what antidote there was for this poison. The administered it, and though Alastor was already deeply under the influence of the drug which she had taken, by long and careful nursing they succeeded in saving her life. She afterwards devoted herself to an ascetic existence of meditation and works of charity, to atone for her previous evil deeds.
+"No," said Alcyone;"since you have thus repented you shall not die," and she sent for her own court physician and asked what antidote there was for this poison. The administered it, and though Alastor was already deeply under the influence of the drug which she had taken, by long and careful nursing they succeeded in saving her life. She afterwards devoted herself to an ascetic existence of meditation and works of charity, to atone for her previous evil deeds.
 
 Herakles, now grown rather old and feeble, arrived one day at Tiraganga, and brought terrible news to Alcyone, the news of the death of her eldest son—the son whom, in her heart, she had always loved the best. Herakles told her, with unaffected sorrow, how he had loved the young man, of the swift progress the latter had made along the line of inner development, and how at last he had died heroically, defending his master from the attack of a party of robbers. Even though Alcyone had long ago made up her mind to give up her son, the news of his death was a great shock to her, and caused her deep grief, but Herakles comforted her by reciting again and again the praised of his nobility of life, his courage and his devotion, and explained the good karma that such a life and such a death could not but make for his own future advancement.
 
@@ -4738,9 +3835,7 @@ This troubled Alcyone greatly; for her father' s seals and signatures were undou
 
 The whole thing was a horrible business for her, especially when her mother questioned her as to whether she really liked this man, and she had to pretend that she did, while all the time her heart was full of loathing. Sirius also was much shocked and pained when he heard the news; he said that, though he could never love anyone but Alcyone, he was quite willing she should marry someone else if she really wished it, and if it was best for her, but that he could not believe that she could commit such an outrage on good taste as to marry that particular person. He insisted upon hearing her decision from her own lips, and even then he told her that he could not really believe it, but thought that she must be under some enchantment. He came near guessing the truth, which terrified her greatly, and made her try the more earnestly to deceive him.
 
-Her elder brother Uranus was away from home at this time, or it is probable that he would have solved the difficulty. As it was, she carried out her bargain and resolved to make the best of it, but her life was never really a happy one, though so far as the physical plane was concerned she had luxuries enough. Her husband disliked Sirius and was jealous of him, so she could see but little of her old lover. In 4017 Sirius'
-
-mother died, at the birth of a little son(Vega). Not long after this Markab died also, and Sirius had the household upon his hands, and as he also succeeded to some of his father' s offices he was immersed in business affairs. He still remained faithful to the memory of Alcyone, and refused to consider the question of any other marriage, though there were many advantageous offers.
+Her elder brother Uranus was away from home at this time, or it is probable that he would have solved the difficulty. As it was, she carried out her bargain and resolved to make the best of it, but her life was never really a happy one, though so far as the physical plane was concerned she had luxuries enough. Her husband disliked Sirius and was jealous of him, so she could see but little of her old lover. In 4017 Sirius' mother died, at the birth of a little son(Vega). Not long after this Markab died also, and Sirius had the household upon his hands, and as he also succeeded to some of his father' s offices he was immersed in business affairs. He still remained faithful to the memory of Alcyone, and refused to consider the question of any other marriage, though there were many advantageous offers.
 
 Alcyone had two children, Taurus and Virgo, and obtained some consolation in loving them, but was always haunted by the fear that they would grow up like father. Her life was really a long martyrdom, for she never forgot her love for Sirius, and never could learn to like her husband, though she tried to do her duty to him.
 
@@ -4862,10 +3957,7 @@ The rest of his life passed in his native city, but never left it for any length
 
 Here he died peacefully at an advanced age.
 
-Chart XLIV
-India
-
-3059 B.C.
+Chart XLIV - India - 3059 B.C.
 
 Melpo
 
@@ -4922,13 +4014,9 @@ Orion took birth in 2736, in an Arab race in South Africa. His father owned land
 Chart XLIV a
 Crete
 
-2821 B.C.
+2821 B.C. thereforee, adopted a hostile attitude. Presently a rebellion arose in the country, and a usurper seized upon the throne. The younger brother took his side, while Orion, who had espoused the cause of the rightful king Sigma, was driven into exile with him. For four years they took refuge with a tribe of negroid race who lived in enormous caves. It was reported that a giant race existed in the recesses of these caves, and Orion promoted an expedition in search of these people, but did not find them. In the course of his exploration he aquired a number of fine diamonds, which he offered to his King, together with an idea which their discovery had suggested to him. In that kingdom the most valuable of the crown jewels was a remarkable diamond-hilted sword, supposed to be of great age, and to possess magical qualities. The legend was that whoever held this sword by its right the ruler of the country. The work on the hilt of this sword was wonderfully fine, and the most valuable part of its decoration was a huge diamond.
 
-thereforee, adopted a hostile attitude. Presently a rebellion arose in the country, and a usurper seized upon the throne. The younger brother took his side, while Orion, who had espoused the cause of the rightful king Sigma, was driven into exile with him. For four years they took refuge with a tribe of negroid race who lived in enormous caves. It was reported that a giant race existed in the recesses of these caves, and Orion promoted an expedition in search of these people, but did not find them. In the course of his exploration he aquired a number of fine diamonds, which he offered to his King, together with an idea which their discovery had suggested to him. In that kingdom the most valuable of the crown jewels was a remarkable diamond-hilted sword, supposed to be of great age, and to possess magical qualities. The legend was that whoever held this sword by its right the ruler of the country. The work on the hilt of this sword was wonderfully fine, and the most valuable part of its decoration was a huge diamond.
-
-The finest specimen in Orion's treasure trove was quite equal to it, or if anything rather larger, so the idea had occurred to Orion that it might be possible to prepare a duplicate of the diamond sword, and he thought that if his King suddenly reappeared among his partisans in apparantly miraculous possession of what could hardly fail to be taken for the sacred relic, their faith in its mystical porperties would so assure them of victory as to make them practically invincible. The king's imagination was fired, but he doubted whether it was right or wise to make a duplication of the sacred sword. Orion then suggested another plan. He offered to make his way back in disguise to their capital, manage somehow to steal the sacred sword and bring it to the king. The king accepted his offer, but he found the matter far from easy, and had to arrange an elaborate plot. He was successful, and fled one night with the sword in his possession, but its absence was discovered sooner than he had calculated. A pursuit was undertaken, and he and his servant Gamma were overtaken and captured. The captors then encamped for the night, and before morning the resourceful servant had contrived to free both himself and his master, had murdered the guard and stolen the sword from the officer in charge.
-
-the usurper endeavoured to conceal the fact that the sword was lost, but it became known in spite of his efforts,and the superstition of the people made them fee that his cause was already lost and his sceptre departed from him. So when the true king appeared with a strong but determined army of followers the resistance offered was only half-hearted, and the usurper fled in dismay.
+The finest specimen in Orion's treasure trove was quite equal to it, or if anything rather larger, so the idea had occurred to Orion that it might be possible to prepare a duplicate of the diamond sword, and he thought that if his King suddenly reappeared among his partisans in apparantly miraculous possession of what could hardly fail to be taken for the sacred relic, their faith in its mystical porperties would so assure them of victory as to make them practically invincible. The king's imagination was fired, but he doubted whether it was right or wise to make a duplication of the sacred sword. Orion then suggested another plan. He offered to make his way back in disguise to their capital, manage somehow to steal the sacred sword and bring it to the king. The king accepted his offer, but he found the matter far from easy, and had to arrange an elaborate plot. He was successful, and fled one night with the sword in his possession, but its absence was discovered sooner than he had calculated. A pursuit was undertaken, and he and his servant Gamma were overtaken and captured. The captors then encamped for the night, and before morning the resourceful servant had contrived to free both himself and his master, had murdered the guard and stolen the sword from the officer in charge. the usurper endeavoured to conceal the fact that the sword was lost, but it became known in spite of his efforts,and the superstition of the people made them fee that his cause was already lost and his sceptre departed from him. So when the true king appeared with a strong but determined army of followers the resistance offered was only half-hearted, and the usurper fled in dismay.
 
 Orion was then placed by the king in a position of honour which he retained until he was killed at the age of forty-eight in a battle with a neighbouring tribe.
 
@@ -4936,9 +4024,7 @@ Sigma
 
 Scorpio
 Gamma
-In 2695 Vega was born in a sort of Bedouin tribe, but at ten years old she was captured and carried off into Egypt as a slave. The person to whom she was assigned was Auriga, who was very good to her and took her as a personal attendant. A son of the house fell in love with her, and affairs presently came to a crisis. The mistress of the house discovered it, and turned out Vega and her little baby. The young man was sent away to reside at a distance for a time and forget his infatuation, but Vega contrived to follow him and presently there were two more babies. Then the young man was recalled to his home, forgiven, and married to a person of his own rank. Vega and her three babies being left behind in the country, where she worked for some years as servant.
-
-eventually, as the children began to grow up, she felt that she must have some education for them, and she consequently presented herself at the town house where there was naturally a great disturbance. Auriga, though very angry, felt that it was right to do something for the children and offered to take charge of them if the mother would let them go, and never see them again. This decision caused her great suffering, but I the end for the sake of the children she yielded, and went away never to return. Her mother who had been captured along with her and had all this time been acting as housekeeper to Auriga went away with Vega, and they lived together for the rest of this life, which ended at the age of fifty.
+In 2695 Vega was born in a sort of Bedouin tribe, but at ten years old she was captured and carried off into Egypt as a slave. The person to whom she was assigned was Auriga, who was very good to her and took her as a personal attendant. A son of the house fell in love with her, and affairs presently came to a crisis. The mistress of the house discovered it, and turned out Vega and her little baby. The young man was sent away to reside at a distance for a time and forget his infatuation, but Vega contrived to follow him and presently there were two more babies. Then the young man was recalled to his home, forgiven, and married to a person of his own rank. Vega and her three babies being left behind in the country, where she worked for some years as servant. eventually, as the children began to grow up, she felt that she must have some education for them, and she consequently presented herself at the town house where there was naturally a great disturbance. Auriga, though very angry, felt that it was right to do something for the children and offered to take charge of them if the mother would let them go, and never see them again. This decision caused her great suffering, but I the end for the sake of the children she yielded, and went away never to return. Her mother who had been captured along with her and had all this time been acting as housekeeper to Auriga went away with Vega, and they lived together for the rest of this life, which ended at the age of fifty.
 
 Vega,Auriga
 
@@ -5001,7 +4087,7 @@ The next news that he had after this was brought by the officers of the law, who
 
 Other men testified to having clearly seen Alcyone carrying a huge load in a sack, which might well have been a human body, a few hours later during the same night; and he had been walking in the direction of the place where the body was afterwards found. The servant positively identified the body as that of his master; as it had been hidden under water, the face had been eaten away by fishes, and was not therefore actually recognisable, but there was no mistake as to the clothes and general shape and appearance of the corpse.
 
-In the face of such circumstantial evidence the judge could scarcely hesitate; but when, even at the last moment, thinking of the unblemished reputation of Alcyone, he delayed to pronounce the sentence, another witness appeared who, passing beneath the window of the dead man' s room, had heard a furious altercation, in which he had recognised the voices of Alcyone and his uncle, the latter crying for mercy and the former angrily refusing it. the witness declared that he had waited for a time to see what would come of it, and watched until he saw Alcyone come forth bearing the sack upon his shoulders as previously described, and with an expression of great fear upon his countenance and obvious bloodstains upon his clothing. A cloak of his with bloodstains on it was produced in court; and the judge reluctantly pronounced the death penalty, adding to it remarks of deep regret that one who had been so universally respected for many years should, in a moment of revengeful passion, have been guilty of so barbarous a deed. Alcyone of course protested his innocence all through, but as the proofs accumulated he seemed quite stunned, and at last he could only say:"I do-not believe that my uncle is dead; but at least his disappearance will kill me."
+In the face of such circumstantial evidence the judge could scarcely hesitate; but when, even at the last moment, thinking of the unblemished reputation of Alcyone, he delayed to pronounce the sentence, another witness appeared who, passing beneath the window of the dead man' s room, had heard a furious altercation, in which he had recognised the voices of Alcyone and his uncle, the latter crying for mercy and the former angrily refusing it. the witness declared that he had waited for a time to see what would come of it, and watched until he saw Alcyone come forth bearing the sack upon his shoulders as previously described, and with an expression of great fear upon his countenance and obvious bloodstains upon his clothing. A cloak of his with bloodstains on it was produced in court; and the judge reluctantly pronounced the death penalty, adding to it remarks of deep regret that one who had been so universally respected for many years should, in a moment of revengeful passion, have been guilty of so barbarous a deed. Alcyone of course protested his innocence all through, but as the proofs accumulated he seemed quite stunned, and at last he could only say: "I do-not believe that my uncle is dead; but at least his disappearance will kill me."
 
 He was sent back to prison and condemned to die at daybreak the next morning. That evening in his cell he received a visit from a foreign priest who had passed through the town some two years previously, as he was making a pilgrimage to all the principal shrines of India. Alcyone had offered entertainment to this visitor on that occasion, and he had spent two or three weeks in his house. The stranger' s name was Sarthon (but we know him as Mercury), and he was a priest initiated into the Egyptian Mysteries.
 
@@ -5086,9 +4172,7 @@ It does not appear that at this period he had the conception of the personificat
 
 He recognised the existence of good spirits, whom he called Ameshapentas, but there was some haziness about the conception, and they appear to have been partially personifications of the ethical ideals or principals. He quite understood reincarnation to be a fact, but seems not to have dwelt upon it, the practical side of his scheme being almost entirely the foundation or promotion of some sort of holy community, or agricultural State, in which thrift and settled tillage of the soil were the great social virtues.
 
-During his ten years'
-
-sojourn in the desert Alcyone went out often to see him, and saw to it that his wants were regularly supplied. Zarathushtra was grateful for this, and on one occasion told Alcyone that he had seen him in a prophetic vision acting as his lieutenant in the preaching of his reform. Alcyone brought him frequent news of his children, and even sometimes took them to see him, but Zarathushtra was so entirely absorbed in his gorgeous series of visions that he scarcely noticed them, and they soon came to cling far more to Alcyone than to their own father.
+During his ten years' sojourn in the desert Alcyone went out often to see him, and saw to it that his wants were regularly supplied. Zarathushtra was grateful for this, and on one occasion told Alcyone that he had seen him in a prophetic vision acting as his lieutenant in the preaching of his reform. Alcyone brought him frequent news of his children, and even sometimes took them to see him, but Zarathushtra was so entirely absorbed in his gorgeous series of visions that he scarcely noticed them, and they soon came to cling far more to Alcyone than to their own father.
 
 At the end of ten years, in 1495, Zarathushtra was ordered by the Great One who appeared to him in his visions to return to the world, to take up the office of the priesthood, and to deliver to the people the truths which had been taught to him. It was prophesied to him that he should spread the faith over the whole of the mighty kingdom of Persia, but that before he began to travel abroad he must await the arrival of one who should come to him from the West,, and certain signs were given to him by which he was to recognise this illustrious stranger. Meantime he was to return to the priestly life in his own country of Bactria. His re-entry was somewhat dramatic, for just as he had left his cave a volcanic outburst took place which destroyed it, and the flames of the eruption and the accompanying earthquake were taken by the people as in some way connected with his return to ordinary life.
 
@@ -5115,9 +4199,7 @@ So deep was the grief of Alcyone at his second terrible disappointment, so entir
 Almost at once Mercury spoke to him of the sorrow which so evidently sat heavily upon him, and drew forth from him the whole story of his life. Then Mercury rose from his seat, and for the moment his figure changed, and he stood before Alcyone in radiant glory in that gracious form that we know so well, and spoke with glowing words of deepest love: "Great indeed had been your sorrow, not this time only, but many times; and even yet some sorrow remains, for he who moves swiftly must pay for his swiftness. But great in proportion shall be your joy. Yours shall be the bliss which no tongue can utter, for through you shall the nations of the world be blessed. This life of sacrifice is the culmination of many sacrifices; and because of this, even in the next life, your reward shall begin, and you shall take the vow which can never be broken. The path lies open before you, and upon it my hand shall guide you, and my blessing shall be with you in life and in death, until we stand in the presence of the King."
 
 So profound was the impression created upon Alcyone by this tremendous prophesy that from that moment his moment his despair was gone, and though sometimes he thought sorrowfully of the mother and daughter whom he had loved so dearly, he turned always from that to the promise that through that sorrow they and all the world should one day be helped. In that faith he lived and worked through all that troublous time—through all the wars of King
-Vishtspa;
-
-through the
+Vishtspa; through the
 
 Tartar invasion which
 
@@ -5346,13 +4428,13 @@ The impression produced upon both the cousins was indescribable. At once Alcyone
 
 "Are you sure that there remains now no taint of hatred in your heart—that you forgive to the uttermost, even the death of your son, and that for all created beings you can feel nothing but love evermore,, even for those who have injured you?"
 
-And Alcyone replied:"Lord, this indeed is so; if my cousin' s wife has injured me, I have forgotten it. I give him freely all my wealth, for I need it no longer. I have now in life only one desire, and though it take me a thousand lives, I vow here at Thy feet that I will never cease the effort until I shall have accomplished it. I vow to follow Thee, to give myself as Thou hast done to help the suffering world. Thou hast freed me from my sorrow, and brought me to eternal peace. To that peace also will I bring the world, and to this I consecrate my future lives, even until I shall be as Thou art, the saviour of the World."
+And Alcyone replied: "Lord, this indeed is so; if my cousin' s wife has injured me, I have forgotten it. I give him freely all my wealth, for I need it no longer. I have now in life only one desire, and though it take me a thousand lives, I vow here at Thy feet that I will never cease the effort until I shall have accomplished it. I vow to follow Thee, to give myself as Thou hast done to help the suffering world. Thou hast freed me from my sorrow, and brought me to eternal peace. To that peace also will I bring the world, and to this I consecrate my future lives, even until I shall be as Thou art, the saviour of the World."
 
-And the Lord Buddha bowed His head and answered:"As thou sayest, so shall it be. I the Buddha, accept that vow which can never be broken, and in the far distant ages it shall be fulfilled."
+And the Lord Buddha bowed His head and answered: "As thou sayest, so shall it be. I the Buddha, accept that vow which can never be broken, and in the far distant ages it shall be fulfilled."
 
 And so He stretched out His hand and blessed him, and Alcyone fell prostrate at His feet.
 
-Then turning to Mizar, He said:"You also shall follow me, but not yet. There is still much for you to do. Take up this charge which my new pupil has laid upon you. Take this which he gives you, for he needs it no longer, for the riches of the good Law excel all other wealth. Do justice and be merciful, and forget not that your time also shall soon come."
+Then turning to Mizar, He said: "You also shall follow me, but not yet. There is still much for you to do. Take up this charge which my new pupil has laid upon you. Take this which he gives you, for he needs it no longer, for the riches of the good Law excel all other wealth. Do justice and be merciful, and forget not that your time also shall soon come."
 
 So He dismissed him with a blessing, but Alcyone remained with Him, and followed Him thereafter in all His wanderings up and down that fair northland of India.
 
@@ -5364,11 +4446,9 @@ Mizar still used some part of Jagannadha' s organisation to bring large bodies o
 
 The end of Mizar' s life was from a worldly point of view unfortunate. In 566 Bimbisara was murdered by his unnatural son Ajatshatru, who thus seized upon the throne. His plot had been carried out by the aid of the Brahmans, and he therefore favoured them and their religion, and was openly opposed to Buddhism. So, when the Brahmans of the temple preferred a complaint against Mizar, the new King readily gave ear to them and deposed him, and confiscated most of his property. He still had a little land, and he retired and lived upon this in comparative poverty and obscurity until his death in 562 at the age of sixty-six.
 
-Meanwhile Alcyone had attached himself to the Lord Buddha, and never again left Him until death, but travelled with Him up and down the ganges valley for many years, drinking ever more and more deeply at the fount of His wisdom, and partaking in the private teaching which He gave only to His monks. He formed a close but reverential friendship for an older monk named Dharmajyoti, who was very kind to him, and helped him much along the road to perfect peace. This monk Dharmjyoti is known to us as Uranus; he was later Aryasanga, and is now the Master Djwal-kul. The name selected by Alcyone upon assuming the yellow robe was Maitribaladasa, which means"the servant of the power of kindness” ; and the Lord said to him:"You have chosen well; that name is prophetic."
+Meanwhile Alcyone had attached himself to the Lord Buddha, and never again left Him until death, but travelled with Him up and down the ganges valley for many years, drinking ever more and more deeply at the fount of His wisdom, and partaking in the private teaching which He gave only to His monks. He formed a close but reverential friendship for an older monk named Dharmajyoti, who was very kind to him, and helped him much along the road to perfect peace. This monk Dharmjyoti is known to us as Uranus; he was later Aryasanga, and is now the Master Djwal-kul. The name selected by Alcyone upon assuming the yellow robe was Maitribaladasa, which means"the servant of the power of kindness” ; and the Lord said to him: "You have chosen well; that name is prophetic."
 
-For Maitreya is the name of the Bodhisattva who succeeded the Lord Buddha in His office—the Christ who is to come; so the name may also be rendered"
-
-the servant of the power of
+For Maitreya is the name of the Bodhisattva who succeeded the Lord Buddha in His office—the Christ who is to come; so the name may also be rendered" the servant of the power of
 
 Maitrey”. Followinng thus in the train of the Lord Buddha. Alcyone naturally bore part in many interesting and historical scenes; for example, he was present when, in the year 580, Chatta Manavaka (Selene) was called up by the Lord and taught the beautiful verses immortalised for us in the sacred books. Whenever the great Master' s travels took Him to Rajgriha, Mizar invariably came to welcome Alcyone, and the affection between the cousins grew ever stronger as the years rolled on. Alcyone died in 559 at the age of seventy one, sixteen years before the death of the Lord Buddha in 543. The latter part of his life was passed in unalloyed peace and happiness.
 
@@ -5408,9 +4488,7 @@ Pallas
 
 Erato and Ausonia appeared in the Persian Empire in the year 573, as twins, the children of wealthy and influential parents. They lived on the shores of a lake on which they frequently sailed in a curious flat bottomed boat with a lateen sail. Unfortunately one day when they were twelve years old a sudden squall upset the boat, and the children and the boatman were thrown into the water. They were about a mile from the shore and the water was very rough, so that although the boatman made a determined attempt to swim ashore and carry the children with him, he found the task impossible. Erato then persuaded him to make the effort with his sister alone, alleg-
 
-Chart XLVI - Rajgriha - 630 B.C.
-
-ing that he could quite easily hold on to the overturned boat until he could return to fetch him. The boatman at first refused, but as there seemed nothing else to do at last consented. He succeeded in reaching the shore with the little girl, still alive but unconscious, the boatman himself being utterly exhausted. Nevertheless, he sent back another boat to rescue Erato, but before it could reach the spot both had disappeared. Thus he saved his sister's life at the cost of his own, and as the sister was the same ego whom he had killed by accident in Life XLIII, it may be that there is here some karmic action.
+Chart XLVI - Rajgriha - 630 B.C. ing that he could quite easily hold on to the overturned boat until he could return to fetch him. The boatman at first refused, but as there seemed nothing else to do at last consented. He succeeded in reaching the shore with the little girl, still alive but unconscious, the boatman himself being utterly exhausted. Nevertheless, he sent back another boat to rescue Erato, but before it could reach the spot both had disappeared. Thus he saved his sister's life at the cost of his own, and as the sister was the same ego whom he had killed by accident in Life XLIII, it may be that there is here some karmic action.
 
 Erato
 Ausonia
@@ -5445,9 +4523,7 @@ Greece
 
 (Birth of Orion)
 
-499 B.C.
-
-ized him at the sight of wounds and blood, and he had difficulty to force himself to do his duty.
+499 B.C. ized him at the sight of wounds and blood, and he had difficulty to force himself to do his duty.
 
 After the battle the family returned home, and were relieved to find that the Persians, though they had destroyed much of the town, had not reached their quarter. The same good fortune attended them next year when Athens had once more to be abandoned before the advance of Mardonius; and Orion played a noble part in the great battle of Plataea, when the Spartans under Pausanias at last came to the help of the battle, but when the Asiatic soldiers were at last surrounded in their camp and the final massacre had commenced, which destroyed for ever the power of Persia, he turned sick at the awful carnage and had to leave the field.
 
@@ -5473,9 +4549,7 @@ Greece
 
 (Birth of Orion)
 
-499 B.C.
-
-prominent disciple of Pythagoras. Apollo early gained a reputation for his poems, and was invited to Athens by Hipparchus. There he established himself in a splendid house on one of the hills looking across at the Acropolis, and there were born his sons Sirius and Erato. When Hipparchus died he removed himself to Thessaly, but still retained his house at Athens, and returned to it before the invasion of Greece by the Persians. Some of his finest poems describe the events of that war, and it is said that he surpassed even Aeschylus in his elegy upon those who fell at Marathon, and that he won no less than fifty six prizes in poetical contests. Later he left the Athenian house to his sons, and spent the last ten years of his life at the Court of Hiero of Syracuse, where he died inn 468 B.C.
+499 B.C. prominent disciple of Pythagoras. Apollo early gained a reputation for his poems, and was invited to Athens by Hipparchus. There he established himself in a splendid house on one of the hills looking across at the Acropolis, and there were born his sons Sirius and Erato. When Hipparchus died he removed himself to Thessaly, but still retained his house at Athens, and returned to it before the invasion of Greece by the Persians. Some of his finest poems describe the events of that war, and it is said that he surpassed even Aeschylus in his elegy upon those who fell at Marathon, and that he won no less than fifty six prizes in poetical contests. Later he left the Athenian house to his sons, and spent the last ten years of his life at the Court of Hiero of Syracuse, where he died inn 468 B.C.
 
 There are points of interest in the lives of his sons Sirius and Erato, whose names in this birth were Kleomenes and Agathocles. They were deeply attached to each other, and grew up together joyously, spending much time in the practice of gymnastics, running, leaping, wrestling and throwing the quoit. Their studies, however, were by no means neglected; the boys were thoroughly interested in them, and took a keen delight in learning. They took up history (not always very exact, by the way) and mythology; they read about the Trojan War, and got much excited over it, making up mimic battles and playing the part of all the heroes in turn.
 
@@ -5485,7 +4559,7 @@ Their family was in good circumstances, and they had good opportunities. The mos
 
 Among other islands they called at Samos, where they came into touch with the great philosopher Pythagoras, who then a man of advanced age, and near his death. Some historians have thought that this sage perished when his school at Crotona was wrecked by popular prejudice; others, recoginsing that he survived that catastrophe, believe that he died much later at Metapontum. But neither of these ideas is correct; wh en quite old, he left his school in Magna Graecia, and returned to his patrimony in Samos to end his days where he had begun them, and so it happened that our young travellers had the great privilege of seeing him in the course of their voyage.
 
-His principal desciple at that time was Erato's uncle Kleineas(now the Master Djwal Kul); and Kleineas (whom we know as Uranus the elder brother of Apollo) was exceedingly kind to the young wanderers, and patiently answered all their eager questions, explaining to them the system of the Pythagorean philosophy. They were at once most strongly attracted towards the teaching expounded to them, and were anxious to join the school. Kleineas told them that a branch of it would presently be opened in Athens, and meantime he gave them much instruction in ethics, in the doctrine of reincarnation and the mystery of numbers. All too soon their vessel was ready for sea (it had fortunately required refitting) and they had regretfully to take leave of Pythagoras and Kleineas. To their great and awed delight, when they called to bid him adieu, the aged philosopher blessed them, and said with marked emphasis:"Palin sunestathesomtha --we shall meet again."Within a a year or two they heard of his death, and so they often wondered in what sense he could have meant those words; but when in this present incarnation, one of those brothers had for the first time the privilege of meeting the Master K.H. the latter recalled to his memory that scene of long ago, and said:"Did I not tell you that we should meet again?"
+His principal desciple at that time was Erato's uncle Kleineas(now the Master Djwal Kul); and Kleineas (whom we know as Uranus the elder brother of Apollo) was exceedingly kind to the young wanderers, and patiently answered all their eager questions, explaining to them the system of the Pythagorean philosophy. They were at once most strongly attracted towards the teaching expounded to them, and were anxious to join the school. Kleineas told them that a branch of it would presently be opened in Athens, and meantime he gave them much instruction in ethics, in the doctrine of reincarnation and the mystery of numbers. All too soon their vessel was ready for sea (it had fortunately required refitting) and they had regretfully to take leave of Pythagoras and Kleineas. To their great and awed delight, when they called to bid him adieu, the aged philosopher blessed them, and said with marked emphasis: "Palin sunestathesomtha --we shall meet again."Within a a year or two they heard of his death, and so they often wondered in what sense he could have meant those words; but when in this present incarnation, one of those brothers had for the first time the privilege of meeting the Master K.H. the latter recalled to his memory that scene of long ago, and said: "Did I not tell you that we should meet again?"
 
 Soon after the death of Pythagorous, Uranus fulfilled his promise to come and set on foot a school of the philosophy took a high place in the thought of the time. It was however a troublous time, by no means ideal for the study of those higher problems. The difficulties with Persia were just commencing, and the air was full of uneasiness. At last came the Persian invasion, culminating in the celebrated battle of Marathon in which both the brothers took part, as they did also ten years later in the great naval engagement of Salamis. Later still, the brothers thought it their duty to go and assist the Greek colonies in Asia Minor against the Persians; they were present also at the battle of Plataea, so that there was a great deal of fighting before they could really settle down.
 
@@ -5498,9 +4572,7 @@ Greece
 
 (Birth of Orion)
 
-499 B.C.
-
-conjectural attempts(mostly inaccurate) have been made at its restoration. Its left hand appears to have originally held an olive branch, while the right, resting upon a tree-stump, held some kind of belt. Part of the original is still preserved at Athens, and is far superior to the copies.
+499 B.C. conjectural attempts(mostly inaccurate) have been made at its restoration. Its left hand appears to have originally held an olive branch, while the right, resting upon a tree-stump, held some kind of belt. Part of the original is still preserved at Athens, and is far superior to the copies.
 
 A temple to Athena Nike was erected at Olympia from the plans and under the supervision of our hero; and the statue of Athena which it contained was the work of his own hands. For some reason he chose to make it a copy in marble of an ancient and sacred wooden image called the Xoanon, which was preserved at Athens. This statue was commonly called Nike Apteros, and held in its left hand a helmet, and its right a pomegranate.
 
@@ -5560,9 +4632,7 @@ Greece
 
 (Birth of Orion)
 
-499 B.C.
-
-years in meditation. He wished to be allowed to retire at once into the jungle, but permission was refused to him until he reached the age of eighty. He meditated much upon the Master's prophecy, but could not fully understand it. He finally died under a tree at the age of eighty two weary of life and glad to leave it.His master was present with him during his last moments, and in order to make the passage easy for him he showed him a splendid picture of the work that he was to do in the future in connection with the founding of the Sixth Root Race in California. His name in this life was Ashoka, though he frequently spoke of himself as Piyadasi,"beloved of the gods". His son Mahinda converted the island of Ceylon to Buddhism and became an Arhat there, and is now far advanced.
+499 B.C. years in meditation. He wished to be allowed to retire at once into the jungle, but permission was refused to him until he reached the age of eighty. He meditated much upon the Master's prophecy, but could not fully understand it. He finally died under a tree at the age of eighty two weary of life and glad to leave it.His master was present with him during his last moments, and in order to make the passage easy for him he showed him a splendid picture of the work that he was to do in the future in connection with the founding of the Sixth Root Race in California. His name in this life was Ashoka, though he frequently spoke of himself as Piyadasi,"beloved of the gods". His son Mahinda converted the island of Ceylon to Buddhism and became an Arhat there, and is now far advanced.
 
 Ulysses
 
@@ -5617,9 +4687,7 @@ South India
 
 (Birth of Mizar)
 
-A.D.222
-
-the other victors, but the manuscript of his book was put upon the elevated seat in his place. When however the successful composition came to be read in public, it was so emphatically the best that it took the popular fancy by storm and in spite of his caste he was called by acclamation to occupy the seat which his work had earned. Much interested by all this, Mizar made friends with the poet, saw a good deal of him and kept up a correspondence with him after his return to Mylapore.
+A.D.222 the other victors, but the manuscript of his book was put upon the elevated seat in his place. When however the successful composition came to be read in public, it was so emphatically the best that it took the popular fancy by storm and in spite of his caste he was called by acclamation to occupy the seat which his work had earned. Much interested by all this, Mizar made friends with the poet, saw a good deal of him and kept up a correspondence with him after his return to Mylapore.
 
 Mizar was distinctly an able young man and distinguished himself at the Madura University--so much so indeed, that King Ugraperuvalathi offered him the opportunity of entering his service and of residing permanently in the Pandya Kingdom, instead of returning to his own country. He was wise enough to decline this dangerous honour, and indeed he lost nothing by doing so; for when his own King, Chenkddeva, heard of it, he at once offered him an equivalent position in his own court, which Mizar promptly accepted. He had a keen delight in the exercise of diplomacy and even when quite young he had developed, to a high degree, the art of persuading and managing people, so that he was useful in politics, though he was much disgusted with some of the political methods which he encountered. His father, Lentulus, took eager interest in all this work, though he himself, being of foreign birth and besides fully occupied with the business which he had taken up, bore no direct part in it, but only advised and guided his son..
 
