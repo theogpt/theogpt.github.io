@@ -6,6 +6,8 @@ import sys
 import openai
 import signal
 
+do_not_translate = r'^!\[|^\<|^[\x00-\x40\x5b-\x60\x7b-\xff]+$'
+
 openai.api_key = os.getenv("OPENAI_API_KEY")
 if not openai.api_key:
   sys.exit("OPENAI_API_KEY is missing. Obtain one at https://platform.openai.com/account/api-keys.")
@@ -24,15 +26,20 @@ def sigint_handler(sig, frame):
 signal.signal(signal.SIGINT, sigint_handler)
 
 def split_paragraphs(text):
-  return [p for p in re.split('\s*\n\s*\n\s*', text) if len(p) > 0]
+  return [p for p in re.split('\n\s*\n', text) if len(p) > 0]
 
 def merge_paragraphs(ps):
   return "\n\n".join(ps)
 
+def clean_paragraph(text):
+  # lstrip() would remove formatting indentation needed
+  # in some paragraphs: lists, quotes, verses and so on.
+  return text.rstrip()
+
 def is_translated(text):
   if len(text) < 5:
     return True
-  if re.match(r'^!\[\]|^\<|^\d+$|^\s*$', text):
+  if re.match(do_not_translate, text):
     return True
   num_rus_chars = sum('а' <= char.lower() <= 'я' for char in text)
   return num_rus_chars > 0
@@ -40,8 +47,9 @@ def is_translated(text):
 def save_output(paragraphs):
   if args.verbose >= 1:
     print("Saving the output")
-  cleaned = filter(lambda s: bool(s), map(lambda s: s.strip(), paragraphs))
-  input_text = "\n\n".join(cleaned)
+  paragraphs = [clean_paragraph(p) for p in paragraphs]
+  paragraphs = [p for p in paragraphs if p]
+  input_text = "\n\n".join(paragraphs)
   with open(args.output, 'w') as f:
       f.write(input_text)
 
@@ -107,12 +115,13 @@ def transform_paragraphs(text, context):
     presence_penalty=0
   )
   resp_text = response.choices[0].message.content
+  resp_text = clean_paragraph(resp_text)
   if args.verbose >= 2:
     print('\n\n### gpt4>\n\n' + resp_text)
   if not verify_paragraphs(text2, resp_text):
     print('The translation appears corrupted.')
     return ''
-  return unprefix_paragraphs(resp_text.strip())
+  return unprefix_paragraphs(resp_text)
 
 def translate_text(text):
   return transform_paragraphs(text, gpt_context) or text

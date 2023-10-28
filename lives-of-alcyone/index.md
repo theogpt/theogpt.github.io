@@ -309,7 +309,7 @@ It is interesting to note how absolutely the Manu looks upon everything that hap
     Slow grows the splendid pattern that it plans
       Its wistful hands between.
 
-Chart I - The Gobi Sea - Circa 70,000 B.C.
+![Chart I - The Gobi Sea - Circa 70,000 B.C.]()
 
 ![](chart-i-1.png)
 
@@ -347,7 +347,7 @@ This incarnation may be regarded as important to those who took part in it, for 
 
 The sub joined chart (ie chart II) is in reality a continuation of chart I so the numbering of the generations has been made continuous and the two charts to that extent overlap.
 
-Chart II
+![Chart II]()
 
 ## Life III
 
@@ -398,7 +398,7 @@ The community grew this time with but little interference from without. Its memb
 
 Their only neighbors were certain tribes, half Atlantean and half Lemurian, who inhibited the valleys among the mountains some twenty miles inland -- a peaceable people, not wholly uncivilized, perhaps somewhat in the position of the Maories when first discovered by Europeans. But these people kept to themselves, distrusting the open ground near the sea, from which their ancestors had been driven centuries before by Tarter raids. A few of the more daring spirits journeyed down to the Aryan settlement, and engaged themselves as servants and laborers and"the trinity"with a party of their friends, on several occasions made expeditions into the hills to see the villages of the mountaineers; but there was nothing that could be called intercourse between races, their language and custom being entirely different.
 
-Chart III
+![Chart III]()
 
 ## Life IV
 
@@ -461,7 +461,7 @@ The greater or lesser amount of the spiritual force generated in a given life, f
 Most of the karma of its members is necessarily generated with their fellows, and therefore tends to work itself out within the group, and to make the ties stronger between the comrades, so that they may get to known one another thoroughly,
 and learn to work together.
 
-Chart IV
+![Chart IV]()
 
 ## Life V
 
@@ -555,7 +555,7 @@ Members of a Mangolian hill tribe:
 
 ...
 
-Chart V - ...
+![Chart V - ...]()
 
 ## Life VI
 
@@ -712,7 +712,7 @@ The faithful Boreas married Nu, a white waiting maid of the household of Alcyone
 
 His sons, by an odd turn of the wheel of fate, married the daughters of his old master, the Negro chief Markab, and became persons of importance in the newly established mulatto community. The two sons of Markab, however, married the Negro daughters of Scorpio, and Pollux thus came into possession of the not inconsiderable wealth amassed by the late high priest, as well as that of his father Markab. This marriage drew him back into the ranks of the Negroes, but on the other hand established him in a leading position among them. Years later he engaged in a plot against Herakles, and when it was discovered his people forced him to lead an open rebellion, but he was promptly suppressed and put to death by corona.
 
-Chart V - Mashonaland - 38000 B.C.
+![Chart V - Mashonaland - 38000 B.C.]()
 
 ## Life VII
 
@@ -859,7 +859,7 @@ Little by little by his wise direction, the influence of human ld replaced that 
 
 When the Manu left His body, Osiris ascended the throne of Manoa, but Sirius, his brother, ruled the little community in the newly reclaimed valley, and after the death of Sirius, Alcyone succeeded to the charge. When he also passed away, at his special wish authority was vested in his nephew Viraj, the companion of his great adventure of many years ago. After him in turn followed Dhruva his son, who married Ajax; and the Manu Himself honored them by reappearing as their eldest son, and by His incarnation the new subrace was definitely started on its way.
 
-Chart VI - Central Asia - 32000 B.C.
+![Chart VI - Central Asia - 32000 B.C.]()
 
 ## Life VIII
 
@@ -941,7 +941,7 @@ Nabha he said:
 
 So Alcyone lived his life quietly doing his duty to his people, absorbed always in plans for their welfare; and when he passed away, full of years and honor, he was succeeded in the government of the valley by his eldest son Aopllo, who endeavored to walk in his steps and to carry on his traditions.
 
-Chart VII - Central Asia - 31000 B.C.
+![Chart VII - Central Asia - 31000 B.C.]()
 
 ## Life IX
 
@@ -977,7 +977,7 @@ He carried on this process of gradual annexation for two years, closing the camp
 
 Yajna' s wife Alba was inordinately proud of the fact that she was the eldest daughter of Koli, who in turn was the eldest grandson of the Manu and she founded upon this a claim to succession to the throne of Persia on behalf of her son Muni. To pacify her, her husband finally promised to lay this claim before Sirius and Alcyone, though he took pains expressly to dissociate himself from it, and to explain that he personally favored the theory of the descent of a title through male heirs only. Sirius and Alcyone disallowed the claim, but as some sort of compensation they conferred upon Yagna the title of King instead of Viceroy of Armenia, and arranged that it should descend to his son Muni, and to his heirs forever, bearing with it the same nominal subordination to the crown of Mesopotamia that the latter yielded to Persia. It was at the same time arranged that in case of war the King of Armenia should act as commander in chief of the combined armies of the three countries, because of the genius which he had shown in military matters. The reputation which he had already won for the Persian armies, however saved them from the necessity of any further manifestation of strength during Alcyone' s lifetime; the three brothers were in due course succeeded by their eldest sons, Vega, Mizar and Muni, and the peaceful development of the Empire made steady progress under their care.
 
-Chart IX - Central Asia and Persia - 30200 B.C.
+![Chart IX - Central Asia and Persia - 30200 B.C.]()
 
 ## Life X
 
@@ -1047,7 +1047,7 @@ Because of this they were all at an early age thoroughly conversant with all the
 
 A busy and useful life, in harness up to its last days, extending into the reigns of three Emperors—his father Mars, his brother Jupiter, and his nephew and son-in-law Capella, whose wife Ivy was celebrated as the beauty of the family. He passed away peacefully in his own house in the eighty-fifth year of his age, and on his deathbed the Mahaguru appeared to him in the well-known form of his brother Mercury—not aged like himself, but young and glowing as he had last seen it on the memorable day of the Ascension— congratulated him on a life spent without stint in His service, and called him to a time of well-earned rest with Him. He passed through the astral world almost immediately, and during the eight hundred years of his life in the heaven-world the Mahaguru was the principal figure in his surroundings, and in the bliss of His presence he grew as the flower grows, eagerly opening its heart to the sun.
 
-Chart X - Persia - 29700 B.C.
+![Chart X - Persia - 29700 B.C.]()
 
 ## Life XI
 
@@ -1118,7 +1118,7 @@ By that time also Uranus had taken the place of his father Mercury as High Pries
 
 He was presently appointed as his brother' s representative in the second city of the kingdom—a position which for a time divided him and his children somewhat from the rest of our characters, though frequent visits were interchanged. Though his eldest son Viraj had been born at the capital, most of his children were thus natives of the southern city. Of his four sons, Viraj and Corona chose the political and military life, while Orpheus and Norma were content to assist in administrative and educational work which appertained to the business of the priesthood. Alcyone had always a strong love for children and a deep interest in education, and he devoted a great deal of his time working out a scheme of universal training for all children in the country—a plan not unlike that of the Boy Scout of the present times except that it included girls as well. Many of our characters were engaged in the carrying out of that project, which Mars at once adapted and enforced over the whole of his kingdom as soon as it was laid before him. In his fiftieth year Alcyone was called back to the capital and appointed Minister of Education, a post which he filled with ardour and efficiency until his death at the age of seventy-four.
 
-Chart X - Persia - 28804 B.C.
+![Chart X - Persia - 28804 B.C.]()
 
 ## Life XII
 
@@ -1148,7 +1148,7 @@ The chart of this life is a small one, for it includes only those whose interval
 
 Those whose tendency is towards an interval of about twelve hundred years miss this incarnation altogether, but reappear in that which follows.
 
-Chart XI - Manoa - 28129 B.C.
+![Chart XI - Manoa - 28129 B.C.]()
 
 ## Life XIII
 
@@ -1291,7 +1291,7 @@ Then in a moment the figures were gone, and Naga tried to persuade himself that 
 
 Alcyone lived as usual to a ripe old age, loved and reverenced by all the thousands who knew him.
 
-Chart XII - Ireland - 27500 B.C.
+![Chart XII - Ireland - 27500 B.C.]()
 
 ## Life XIV
 
@@ -1388,7 +1388,7 @@ Both the cousins had been betrothed before they left home, and deep had been the
 
 As the years rolled by large families grew up around them, and life went very well with them. Alcyone and Naga endeared themselves to all the people in their great province, travelling constantly about it, and obtaining private and detailed information as to the needs of the people through the organisation to which they belonged. On several occasions they paid visits to their relations at Manoa, Naga remaining in charge of the province when Alcyone was away, and Alcyone doing double work during the absence of Naga; but they were never both away simultaneously, until at the age of sixty Alcyone obtained from Herakles(who had by that time succeeded his father Mars) leave to retire and spend the rest of his days in his own country. Five years after his return Alcyone passed peacefully away, leaving behind him a record of efficient and useful work for his country.
 
-Chart XIV - Manoa - 26800 B.C.
+![Chart XIV - Manoa - 26800 B.C.]()
 
 ## Life XV
 
@@ -1410,7 +1410,7 @@ In a home of this sort Mars and Alcyone lives their lives very happily and broug
 
 Mars ruled his tribe as ever well and wisely, and Alcyone' s life was a placid and happy one. Though her work consisted largely of superintending the spinning and weaving and the household duties, it was by no means confined to this, for she constantly discussed with her husband the affairs of the tribe, and accompanied him on long rides over the rolling and somewhat barren country. The people were not wholly vegetarian, for they certainly ate goats flesh dried and smoked. In addition to this their staple food was cheese and bread, although they ate a good deal of fruit when they could get it. The religion of these people was not very prominent or well defined. It may be described as animistic in type, for they unquestionably deified some of the powers of nature, but they also offered what practically amounted to worship to their ancestors. This uneventful life ended at what is for Alcyone the comparatively early age of sixty.
 
-Chart XV - Mangolia
+![Chart XV - Mangolia]()
 
 ## Life XVI
 
@@ -1437,7 +1437,7 @@ They made prisoners of the three people we have mentioned, and brought them befo
 
 This was on the whole a quiet and uneventful life, passed in a pleasant land and among an amiable people. They were not by any means unlike those of their race whom we have already described as living in Ireland a few centuries before. They were good farmers and bold seamen, hospitable and affectionate, showing a great reverence for old age. The great men among them were rather orators and poets than fighters; and certain amount of excellence along these lines was expected from the leaders of the people, as all judgements, sermons and public speeches of any sort on great occasion were invariably delivered in extemporaneous verse. They were clever builders, weavers and dyers; and their woodcarving was remarkably good, intricate and detailed. The life was on the whole happy and simple one, with no striking events, and at the end of it Alcyone passed peacefully away at the elevated age of eighty-eight.
 
-Chart XVI - New Zealand - 25,528 B.C.
+![Chart XVI - New Zealand - 25,528 B.C.]()
 
 ## Life XVII
 
@@ -1522,15 +1522,15 @@ The boy uttered a terrible cry and fell to the ground as one dead. He lay in a t
 
 Alcyone' s life passed on in great love and happiness. She married her cousin Selene, and her eldest son was Herakles, in very truth a friend of many lives. Among her ten children were two who have now attained, and others for whose near attainment we may hope. Her life was one long benediction to those around her, for she remained to see her grandchildren and great-grandchildren, even to the age of ninety years. And the good work in which she had so large a share remained as a monument after her, for never again while that Toltec race occupied the ancient land of Maxico were sacrifices re-established. Long after that race had been destroyed by the flood which accompanied the sinking of Poseidonis it was repeopled by a half-savage race who, having in themselves much of the cruelity and greed, psychometrised the ancient stones, and revived to some extent the ancient horrors, but for twenty thousand years and more the work of Alcyone and Surya bore its fruit.
 
-Chart XVI - Mexico - 24700 B.C.
+![Chart XVI - Mexico - 24700 B.C.]()
 
-Chart XVIIa - Egypt - 24045 B.C. (Birth of Orion)
+![Chart XVIIa - Egypt - 24045 B.C. (Birth of Orion)]()
 
 Alcyone now takes an interval of nearly a thousand years before his next incarnation, and the majority of our characters move along with him.
 
 Some few, however, who distinctly belong to the type which takes shorter intervals, seem to find it impossible to stay away so long, and consequently come back as, a small group on their own account in Egypt, about the year 24000. A list of their relationships is here appended.
 
-Chart XVIIb - Hawaii - 23875 B.C. (Birth of Orion)
+![Chart XVIIb - Hawaii - 23875 B.C. (Birth of Orion)]()
 
 Orion, one of our list of characters, has been found to have a somewhat abnormal list of lives, which were written out in some detail in volumes xxxii and xxxiii of The Theophist. In this book we shall reproduc the charts, in order that our list of incarnations may not be seriously imperfect, but of the lives themselves we can publish here only the briefest epitome, referring our readers to the magazine for further details.
 
@@ -1588,9 +1588,9 @@ So it came to pass that when the time of mourning was over Mizar and Alcyone wer
 
 Mizar and Alcyone certainly merited the blessing called down by the wise king of old on the man who hath his quiver full, for they had no fewer than fourteen children in addition to the two who were Dhruva' s. In the fullness of years King Rama also died, and Alcyone' s brother Viraj came to the throne—the eldest of the seven brothers. All the other six still survived, and were acting either as Governors of provinces under Viraj or as travelling inspectors, for the scheme that Mars had instituted long before was still being carried out. Several outlying provinces had had by this time been annexed, and the system of frontier guards had been perfected, so that the latter half of Alcyone' s life was a time of peace and great progress so far as the country was concerned. As usual Alcyone lived to old age, and finally passed away at the age of eighty-nine, after a life of great usefulness in which her many children had been well and happily trained.
 
-Chart XVIII - North America - 23,681 B.C.
+![Chart XVIII - North America - 23,681 B.C.]()
 
-Chart XVIIIa - Tartary - 15690 B.C. (Birth of Orion)
+![Chart XVIIIa - Tartary - 15690 B.C. (Birth of Orion)]()
 
 Orion was born in a Tartar race in Central Asia. He was the son of a high official, a governor of a district whose duty led him to travel constantly all over his province. In the intervals between these journeyings he and his family lived in one of the principal houses in the chief city of the province.
 
@@ -1598,9 +1598,9 @@ Here unfortunately lived Gamma, the same woman who had exercised such an evil in
 
 Meanwhile, news of their flight together had reached Orion's family, who was furious, considering that he had disgraced their name and had dragged their honour in the dust by intermarrying with their hereditary enemies; so his father sent his brother succeded in tracing the pair ; finding them domiciled among a powerful warlike tribe he hesitated to make any attack upon them. Presently he allied himself with a robber band, which occupied a small rocky valley among the hills, and presently, with the aid of a couple of bandits he made an attack upon his brother and tried to kill him. Orion, however, succeeded in beating off his assailants; so Scorpio, having failed in that, kidnapped Orion's little son Aldeb. Orion thereupon organised an attack upon the bandits' valley, and after hard fighting captured it and rescued his little son. In the course of the fighting he killed Scorpio, who was in disguise, and then for the first time he discovered that it was his own brother who had been thus pursuing him. The remainder of his life passed comparatively quietly and he at the age of fifty-eight.
 
-Chart XVIIIa - Tartary - 15690 B.C. (Birth of Orion)
+![Chart XVIIIa - Tartary - 15690 B.C. (Birth of Orion)]()
 
-Chart XVIIIb - Madagaskar - 22,978 B.C.
+![Chart XVIIIb - Madagaskar - 22,978 B.C.]()
 
 Orion re-appears in a female body in the year 22,978, in the island of Madagaskar. She was again the child of Alastor, who this time was a celebrated hunter. When Orion grew up she fell deeply in love with Cygnus, who had been her son in a previous life. Alastor was unfavourable to their union, and sold Orion to an older man, Cancer, who had been his wife in that other life. This man had a previous wife Gamma, who in Hawaii had been the lover of Orion's wife Cancer, and had been poisoned by him. Gamma was jealous and vindictive, and made things most unpoeasant for Orion, but was afraid to do her any serious harm while the husband continued to love her and to her children. The husband became more and more indifferent, because he was in love with Zeta, who had been in Hawaii the young girl who was driven mad by Orion's threats. Orion tried to console herself by a love affair with Cygnus, but Gamma discovered their proceedings and brought the husband down upon them. Cygnus was horribly mutilated before Orion's eyes and then thrown to a giant octopus, who was regarded as some sort of a deity. Maddened by a suspicion that it was not his own, the husband snatched from her her year old baby, and threw it into the fire before her eyes, and then degraded her to the position of a slave in his house, a position in which she was kept for twenty years, and very harshly treated. During all this time she nourished the most intense hatred towards her husband and Gamma. Now the latter had a little grandson whom she loved passionately, and one Orion, maddened by some special act of cruelty, seized this grandson and pushed him into the fire in turn. In revenge for this, Gamma ordered Orion to be seized and stretched naked upon the ground near a hill of huge driver ants, who at once attacked and devoured her.
 
@@ -1708,11 +1708,11 @@ Among the latest incidents of Alcyone' s life, we notice that, at the age of 84,
 
 In the year 22,578 this eventful life closed and Alcyone passed away, loved and respected by all who had known her.
 
-Chart XIX - Mississippi - 22,662 B.C.
+![Chart XIX - Mississippi - 22,662 B.C.]()
 
 Orion appears again in the year 22,208, in a female body in the peninsula of Malacca, as the daughter of a trader. She was born with an overwhelming horror of all creeping things, and a great fear of fire and often had frightful dreams of her past life, so that she suffered much from hysteria. She grew up, married, and had two children; but her eldest child one day fell into the fire and was burned, and this accident had a terrible effect upon her, for it drove away her reason. Her life after this was a long period of mental suffering, and it ended in a horrible death. A great bonfire was lit to celebrate a victory, and when she saw it she fell into the fire with wild shrieks. The only other of our characters appearing at the same time was Zeta, the girl who was driven mad in Madagaskar; but appeared in this case as the son of a watch-doctor, who tried to care Orion's hysteria.
 
-Chart XIXa - India - 21,917 B.C. (Birth of Mercury)
+![Chart XIXa - India - 21,917 B.C. (Birth of Mercury)]()
 
 We have here another instance of the phenomenon which we mentioned in Life XVIIIa. Alcyone remains out of incarnation for a period of 819 years, and then has an unusually short life, so that her next interval was 275 years, thus making a total interval between the nineteenth and twenty first lives of 1,111 years. This fitted conveniently enough as one interval for some of our characters, but there were others who were unable to stay away so long, and consequently took an intermediate incarnation in India, as will be shown in the following chart.
 
@@ -1739,7 +1739,7 @@ After its mother' s death the child was taken in charge by his aunt Viraj (Satur
 
 It seems as though from time to time the members of the present Hierarchy of Adepts were born together in different countries to assist in the founding of a new religion, or of a magnetised centre, we see them also spreading the religion and sending expeditions to other distant centres, as in the previous life in North America, where an expedition was sent to Yucatan. In the present one, some twentyfive years after Alcyone' s death, we see Surya sending one north to the city of Salwan. Some of the party lost their lives from the hardships endured; and among these was Alcyone' s younger brother Vulcan, at the age of about thirty-five.
 
-Chart XX - Chittagong - 21,759 B.C.
+![Chart XX - Chittagong - 21,759 B.C.]()
 
 ## Life XXI
 
@@ -1796,9 +1796,9 @@ Sirius and Alcyone lived together in the same house as brothers for ten years, a
 
 During these ten years they jointly prepared a book upon Southern India, which was highly esteemed, and was regarded for centuries in Poseidonis as the classical work on its subject. It was in two volumes, one treating of the different races and their customs, and the other of the various religions—the latter embodying much of the teaching given to them long before by the priest Mercury.
 
-Chart XXI - South India - 21,467 B.C.
+![Chart XXI - South India - 21,467 B.C.]()
 
-Chart XXIa - India - 21,234 B.C. (Birth of Vulcan)
+![Chart XXIa - India - 21,234 B.C. (Birth of Vulcan)]()
 
 The few members of the band of servers who take the somewhat earlier incarnation recorded in'Chart XIXa, but were not drawn into the vortex of chart XXI, re-appear in India about the year 21,200,clustering round the teacher Vulcan.
 
@@ -1876,13 +1876,13 @@ Passing on, the wanderer visited a number of places on the way home, and altoget
 
 During his meditations Mercury constantly appeared to him and gave him much advice and instruction. She helped him to recover the memory of previous lives and of those who had been in them with him so that his cave was peopled with thought-forms of many of the characters who have previously appeared in this series of lives.
 
-Chart XXII - South India - 20,574 B.C.
+![Chart XXII - South India - 20,574 B.C.]()
 
-Chart XXIIa - Tibet - 19,877 B.C. (Birth of Yajna)
+![Chart XXIIa - Tibet - 19,877 B.C. (Birth of Yajna)]()
 
 Again we find occurring the same phenomenon which we have already noticed-a certain number of the members of the band cannot or donot remain our of incarnation as long as does Alcyone, and consequently we have an important little group in that part of Central Asia which we now know as Tibet. It appears to be there for the sake of reforming and elevating the religion of the people, and centres round a priest, Jupiter, who derives his inspiration from Surya. The latter, however, is not observed as in incarnation at this period, but occassionally appears astrally.
 
-Chart XXIIa - Tibet - 19,877 B.C. (Birth of Yajna)
+![Chart XXIIa - Tibet - 19,877 B.C. (Birth of Yajna)]()
 
 ## Life XXIII
 
@@ -1940,9 +1940,9 @@ The exposure of Scorpio had greatly enhanced the reputation of Sirius, and his s
 
 When she was about thirty, Mars, now a very old man, made a sort of triumphal progress through his kingdom, and when he came into sort of triumphal progress through his kingdom, and when he came into their district it was the duty of Sirius and Alcyone to entertain him. Thus it happened that Mars met Mercury, and was at once greatly impressed by her. He did not lose sight of her, and eventually induced her to leave the temple and marry Osiris, one off his grandsons, so that later she became queen of the country. But that of course was long after her father' s death. Sirius and Alcyone were just as inseparable as old men as they had been as boys; throughout a long life no misunderstanding had ever arisen between them, and they died within a few days of each other, each feeling his life imperfect without the other. As Sirius had never married, Alcyone' s son Leo imperfect without the other. As Sirius had never married, Alcyone' s son Leo was appointed to the vacant Governorship, which he filled creditably, greatly insisted by the fact of his good wife Iris.
 
-Chart XXIII - China - 19,554 B.C.
+![Chart XXIII - China - 19,554 B.C.]()
 
-Chart XXIIIa - Chaldea - 19,245 B.C. (Birth of Erato)
+![Chart XXIIIa - Chaldea - 19,245 B.C. (Birth of Erato)]()
 
 Our first experiment in the way of investigating the details of past lives was made in connection with a character called Erato, and the point at which it chanced that those investigtions commenced was his birth in Chaldea in the year 19,245 B.C. He was born into the hereditary sacrodotal caste; but unfortunately he was also at the same time born into a xurious hereditary feud connected with it. His grand-father Castor had twins, Melete and Again, and as the law was that the high-Priesthood descended to the eldest son of its present occupant the matter of a few minutes precedence was important. Unfortunately, the nurse in charge got the children mixed, and did not know which was which; so, as the matter could not be decided, Castor decreed that they should be coheirs. When they grew up there was a certain amount of jealousy between them, and each was determined that his own son should later be co-heirs. When they grew up there was a certain amount of jealousy between them, and each was determined that his own son should later be the high priest. Erato was the son of melete, while Phocea was the son of Aglaia's jealousy, and he even went to the length of thrice trying to murder his nephew Erato. The third attempt was at least partially successful, for although Erato escaped, his father Melete was killed. A fourth attempt was made, but again Erato escaped, his younger brother Juno being killed in his stead. This time the whole story came out, and the governor of the town intervened; but the matter was taken out of his hands, for the emperor Theodorous, happened at that period to be making one of his customary visits of inspection. Hearing of the matter he had the parties brought before him;and when he had inquired into the whole of the story he decided to put an end to all difficulties by giving to each of the cousins a separate field of activity. As Phocea had not been privy to the plot to murder his cousin he left him in sole charge of the temple of his native place, but he carried off Erato with him to his own capital to fill a vacancy in the great temple there. There he led a peaceful and useful life under the headship of the chief priest Pallas; and on, the death of the latter he succeeded to his office, and thus became the most important religious authority in the kingdom of Chaldea.
 
@@ -2060,9 +2060,9 @@ commonly called the dark
 
 Caucasians, are unquestionably descended from the tribe whose arrival we have described, though from long residence in tropical lands they are a good deal darker than their ancestors.
 
-Chart XXIV - Central Asia - 18,885 B.C.
+![Chart XXIV - Central Asia - 18,885 B.C.]()
 
-Chart XXIVa - North Africa - 18,301 B.C. (Birth of Orion)
+![Chart XXIVa - North Africa - 18,301 B.C. (Birth of Orion)]()
 
 In the interval between this life and the next Orion took a birth in North Africa, as the son of an important trader and cultivator.
 
@@ -2144,7 +2144,7 @@ Perfect understanding always subsisted between the twinbrothers Sirius and Alcyo
 
 But he soon realised that nothing was really lost, for each night he dreamt vividly of Sirius, and during the two years which he survived it may truly be said that he lived through the days only for the sake of the nights. Up to the last, however, he retained the keenest interest in his University, and it was his greatest joy to see how thoroughly his son Herakles entered into his feelings, and how eagerly he carried on his work. Finally Alcyone passed away peacefully during sleep, at the age of 71, leaving behind him as a monument a university the renown of which lasted some two thousand years, until the civlisation wore itself out, and was overrun by barbarous tribes. We find another of our characters Phocea, acting as a clerk in the office of the University.
 
-Chart XXV - Algeria - 18,209 B.C.
+![Chart XXV - Algeria - 18,209 B.C.]()
 
 ## Life XXVI
 
@@ -2190,9 +2190,9 @@ Alcyone died at the age of sixty, in 17,404 B.C., his wife preceeding him by a f
 
 Not considering that either of his sons Gem and Arcor was sufficiently steady and reliable to succeed him, he named his brother Siwa as his successor, and sent his sons away, each with a strong troop and caravan, to found cities for themselves.
 
-Chart XXVI - Central Asia and India - 17,464 B.C.
+![Chart XXVI - Central Asia and India - 17,464 B.C.]()
 
-Chart XXVIa - Poseidonis - 17,228 B.C. (Birth of Orion)
+![Chart XXVIa - Poseidonis - 17,228 B.C. (Birth of Orion)]()
 
 Orion was born in the year 17,228, in an Accadian race in the southern part of Poseidonis. The country was in an unsettled condition, and the people, who were chiefly manufacturer's and traders, suffered much from the depredations of pirates.
 
@@ -2200,7 +2200,7 @@ Orion was the son of a rich merchant, and was early taken into his business, but
 
 Orion afterwards took service with a goldsmith, and in that way supported Zeta until his death, Orion in the course of time succ eeded to the budiness and amassed some wealth, but lost it all thorugh the dishonesty of a workman. He was now too old to obtain regular work, so he drifted gradually downwards, became a begger again and lived in poverty and obscurity to extreme old age.
 
-Chart XXVIb - Egypt - 17,147 B.C. (Birth of Erato)
+![Chart XXVIb - Egypt - 17,147 B.C. (Birth of Erato)]()
 
 Erato was born in the year 17,147 in an Arab family, but at about the age of nine was captured and carried off into Egypt as a slave. He was fortunate enough to fall into the hands of a kindly family, and was appointed as the attendant of the little son of his master. He was treated very much as a member of the family, and when the head of it died he married his young master's sister and established his footing definitely. The father's property had become involved, and after his death they were very poor, and it was mainly Erato who supported them, as his young brother-in-law was by no means a practical man. Erato presently obtained a position as secretary to Pallas, an old man who had a very fine library and was engaged upon a great historical work. He held this post for ten years until the death of Pallas, who left to him his library and also some of his property on condition of his finishing the great historical work. This he did, though it took him many years, and eventually he presented a copy of the book to the Pharaoh,who placed it in the royal archives and offered Erato a position in connection with the royal library at the capital. Erato Erato, however, declined this, and ended his life peacefully upon his own estate.
 
@@ -2333,7 +2333,7 @@ On several occassions he mesmerically cured people suffering from various diseas
 
 So he lived on for seventeen years, passing the evening of his life peacefully and contentedly, hale and vigorous, and keeping all his faculties to the last. Mizar remained inseparable from him (she had of course accompanied him to Africa) and their devotion to one another was touching. When Mizar died in the year 16,793 he seemed scarcely to mourn her, saying that it was not worth while to sorrow over so short a seperation, as he knew he should soon follow her almost immediately. His prediction was justified, for he passed quietly away the following year, leaving behind him a great reputation on two continents. Two exactly similar statues of him were made, and were set up in the Central Halls of his two Universities—in that in Africa besides that other statue of his earlier personality on the pedestal of which in his boyhood he had had his present name engraved. The same sculptor produced the two statues, and each University presented one to the other with a suitable inscription. The story of the founder who had so strangely returned and recognised his work was repeated in Africa for centuries, though later, when the statues had disappeared, it became confused, and ran that he was a great magician who had preserved the same body for fourteen hundred years, and so had revisited the scene of his former labours.
 
-Chart XXVII - Poseidonis - 16,867 B.C.
+![Chart XXVII - Poseidonis - 16,867 B.C.]()
 
 ## Life XXVIII
 
@@ -2469,7 +2469,7 @@ And that night in Puri, there was fear and trembling, for earthquake rent the gr
 
 Of the vengeance Vajra wrought when he returned, and of the grief of Jupiter and Albeiro, there is here no room to tell. And it was all over very long ago.
 
-Chart XXVIII - Central Asia and India - 15,995 B.C.
+![Chart XXVIII - Central Asia and India - 15,995 B.C.]()
 
 Simultaneously with this two of our characters. Rhea and Vale are found in Atlantis, Vale being male and Rhea female.
 
@@ -2562,13 +2562,13 @@ So at the end of about a year she took leave of him with many regrets and travel
 
 Alcyone acquired a wide reputation because of her remarkable knowledge on all religious points, and she became an authority to be consulted even by the priests and the Brahmans of the neighbourhood. So the life which had begun amidst such horrors of storm and strife ended with the calm of a peaceful sunset, and she passed away deeply regretted by all those who knew and loved her so well.
 
-Chart XXIX - Oudh India - 15,402 B.C.
+![Chart XXIX - Oudh India - 15,402 B.C.]()
 
-Chart XXIXa - Rajputana - 14,698 B.C.
+![Chart XXIXa - Rajputana - 14,698 B.C.]()
 
 A small group of our characters appear at this time in Rajputana, and a few more are found to be existing contemporaneosly in Mysore.
 
-Chart XXIX (supplement) - Poseidonis - 15,288 B.C. (Birth of Erato)
+![Chart XXIX (supplement) - Poseidonis - 15,288 B.C. (Birth of Erato)]()
 
 In the course of the development of his character it became necessary at this time for Erato to undergo a severe test. Having triuphed over certain difficulties in his last life in Egypt, he was now thrown into the midst of the corrupt and effete Atlantean civilisation --presumably with the hope that the strong development in his previous lives would enable him to triumph over the evil, and to live a pure and noble life in the midst of gross impurity. Thus he reappears in 15,288 in Poseidonis as the son of a man who was rich and well connected, but wholly devoted to gain, unscrupulous, hard and grasping, with no thought of anything beyond this world. Naturally, therefore, Erato was an uneasy, unhappy sort of boy, with vague feelings of discomfort and discontent with his surroundings, and dim aspirations toward something better. As he grew up, however, he became absorbed in the idle and vicious life of the time; but was in no way specially bad, but neither better. As he grew up, however, he became absorbed in the idle and vicious life of the time; but was in no way specially bad, but neither better nor worse than those around him. This being the case, it is perhaps hardly to be regretted that his life was cut short at the age of forty-four by a wound received in a street brawl. Five others of our characters are found along with him:
 
@@ -2642,7 +2642,7 @@ Soon after this the old farmer Irene, for whom they had originally begun to work
 
 There house also became a kind of religious centre, since it was recognised that the philosophical information which they had to give formed a valuable supplement to the ordianary teaching of the Nature-worship which surrounded them. Alcyone' s husband Neptune and her brother Uranus both died before her, but though she mourned over the separation from them her children still remained to her, as did also her position of great respect and honour in the district. She passed away peacefully at the age of ninety-one.
 
-Chart XXX - Oudh India - 14,551 B.C.
+![Chart XXX - Oudh India - 14,551 B.C.]()
 
 ## Life XXXI
 
@@ -2748,9 +2748,9 @@ Mizar married Irene—an event which took place much later than any of the other
 
 Selene led a quiet life and studious life.
 
-Chart XXXI - Poseidonis - 13,651 B.C. f
+![Chart XXXI - Poseidonis - 13,651 B.C. f]()
 
-Chart XXXIa - India and Egypt - 13,524 B.C. (Birth of Mars)
+![Chart XXXIa - India and Egypt - 13,524 B.C. (Birth of Mars)]()
 
 At this time Viraj was Ruler of the great South Indian empire, and Brihat was his queen, and Mars was one of their sons. The Manu appeared astrally to the Emperor, and directed him to send Mars over the sea to Egypt by way of Ceylon. He was directed also to choose a band of young men and young women who were to accompany him and take part in the great work of the Aryanisation of Egypt. Among those so chosen were a number of our characters, as will be seen from the subjoined chart.
 
@@ -2762,7 +2762,7 @@ Some account of the result of this Aryanisation, of the destruction of the bulk 
 
 Clio and Markab were noted among a group of Egyptian statesmen who disapproved of the Aryan immigratioon, and seemed against it. Clio's wife Adrona and Markab's wife Able were implicated in their plots. All four of them were eventually exiled, as was also Cancer, the sister of Adrona.
 
-Chart XXXIa - India and Egypt - 13,524 B.C. (Birth of Mars)
+![Chart XXXIa - India and Egypt - 13,524 B.C. (Birth of Mars)]()
 
 ## Life XXXII
 
@@ -2804,7 +2804,7 @@ Both Alcyone and his wife lived to a good old age, and were much respected, he b
 
 Although there were few striking events in this life, and many years of comparatively quiet prosperity, it was not without its effect in developing the character of Alcyone, who gained in courage and decision, and showed considerable administrative ability, learning also especially the art of dealing wisely with men—an acquisition which was of great value to him in his next incarnation.
 
-Chart XXXII - Punjab - 12,877 B.C.
+![Chart XXXII - Punjab - 12,877 B.C.]()
 
 ## Life XXXIII
 
@@ -2848,7 +2848,7 @@ Ulysses belonged to the royal family, being the son of Corona.
 
 He was educated in a technological school and became a great agriculturist. Later in life he was sent to persuade Vajra to return from a wild tribe to which he had gone, and while they were on their return journey they fell into an ambush. Ulysses, seeing a man about to shoot Vajra with an arrow rushed in between and was killed.
 
-Chart XXXIII - Peru - 12,093 B.C.
+![Chart XXXIII - Peru - 12,093 B.C.]()
 
 ## Life XXXIV
 
@@ -2912,13 +2912,13 @@ He died in the year 11,111, at the age of seventy-one, deeply reverenced by a wi
 
 Mercury was in physical incarnation at this time, but far away in the south of India, where most of our characters were gathered round him. He did not meet Alcyone in this incarnation upon the physical plane.
 
-Chart XXXIV - Norht India - 11,182 B.C.
+![Chart XXXIV - Norht India - 11,182 B.C.]()
 
-Chart XXXIVa - China - 10,749 B.C.
+![Chart XXXIVa - China - 10,749 B.C.]()
 
 A good many of our characters are gathered together in China about 10,750 B.C. Mars is as usual the Ruler of the country--a powerful Emperor; he marries the daughter of the eloquent High Priest Herakles, who is to a large extent the centre of attraction for the rest of the party, as they are all more or less his desciples, or followers of his desciples, in turn. Some of the families involved have come from a considerable distance, attracted by the fame of the High Priest, and have even sacrificed their patrimony in order to do so. Surya himself appears on the scene as a grandson of the Emperor Mars, and a great-grandson of High-Priest Herakles, at whose death he takes up and carries on the work of religious reform which the high priest had begun. Surya had four brothers; the eldest Viraj was heir-presumptive to the throne, and had to devote himself to the material exercises and studies appropriate to that line of life; but the other three, Yajna, Naga and Sirius, threw themselves whole heartedly into the work of helping Surya in his plans, and devoted their lives to his serice. their sons in turn took up this life enthusiastically as soon as they became old enough to be of assistance. Their sons in turn took up this life enthusiastically as soon as they became old enough to be of assistance. They travelled over vast areas of country, and it is not too much to say that the whole of China and a great part of central Asia was affected by their work.
 
-Chart XXXIVa - China - 10,749 B.C.
+![Chart XXXIVa - China - 10,749 B.C.]()
 
 ## Life XXXV
 
@@ -3044,7 +3044,7 @@ His extraordinary adventures made him a person of mark, and his great-grandchild
 
 This naturally brought him into a continuous round of all the old temple ceremonies, and under these influences on several occasions the voice which had so often directed him during the earlier years was heard by him again, though it had apparently altogether abandoned him during the period of his adventures and for some years subsequently. It manifested in these later years only rarely, but among other things it foretold to him the exact day of his death, which took place in 10,356.
 
-Chart XXXV - Bengal - 10,429 B.C.
+![Chart XXXV - Bengal - 10,429 B.C.]()
 
 In 9686 Orion was born in a female body in China, but was drowned at the age of thirteen. The only other of our characters to appear at this time are Theseus, a little girl friend of Orion,, and Erato who was born nearly half a century later as the eldest daughter of Theseus; but Erato also passed away at the age of twelve. It is a little difficult to understand the object for which the two egos thus make a passing call upon the Turanian race; but evidently such a brief visit must have been in some way necessary for their evolution. One reason may have been that they were both needed in the following life in Poseidonis and that a small intermediate incarnation was necessary in each case to fill up the time.
 
@@ -3116,7 +3116,7 @@ When the priests and astrologers of the white mountain race issued their warning
 
 Africa. He was hospitably received there, and his followers were encouraged to settle among the Atlas Mountains, in a valley by no means unlike the home that they had left. There among the Kabyles some of their descendants are still to be found, though naturally there has been some of their descendants are still to be found, though naturally there has been some admixture of other blood during the millenniums that have passed. One of our characters, Spica, had the honour of being the first baby born in the new settlement, the very day after the caravan had ramped there; and Fides declared this to be a happy omen, and specially distinguished the newly born infant by conferring upon him the title of"father of the new land” and taking him under his special protection.
 
-Chart XXXV - North Poseidonis - 9672 B.C.
+![Chart XXXV - North Poseidonis - 9672 B.C.]()
 
 ## Life XXXVII
 
@@ -3193,11 +3193,11 @@ His closeness to Alcyone remained until his death, in a position of great honour
 
 After Mizar' s death, Alcyone' s eldest son Siwa was invited to take charge of the Principal temple at the capital. He accepted, and brought with him his eldest son Brihat as assistant, leaving Alcyone' s original temple in the hands of his second son, Naga, who with the help of his wife Herakles had already established for himself a great reputation for administrative ability.
 
-Chart XXXVI - Mysore, India - 8775 B.C.
+![Chart XXXVI - Mysore, India - 8775 B.C.]()
 
 Erato appears alone in Etruria in the year 8569. He is the daughter of well to do cultivators who live in homely but comfortable way. The girl shows her artistic taste in the skilful combination of colours in weaving and similar work, but there are no events of importance in this somewhat monotonous life.
 
-Chart XXXVIIa - Etruria - 8325 B.C.
+![Chart XXXVIIa - Etruria - 8325 B.C.]()
 
 Orion takes a female incarnation more than two hundred years later, in Etruria, not far from where Grosseto now stands. Her father Muni, is a man of substance, a rich merchant, though he also owns many vineyards. He is kind to his daughter in a general way, but distinctly puts his business as the first interest in life, and eventually sacrifices her to it, marrying her at the age of seventeen to Scorpio, a man of forty five who he thinks suitable for a business partner. Scorpio regarded the affair as merely a transaction which secured his entry into the firm, and both parties were well satisfied with their bargaain until the father discovered that his brilliant partner was swindling him and misappropriating large sums of money. A frious quarrel occurred, and the dashing partner left the house, of course carrying his wife with him, and set up an establishment of his own in another part of the city. In this new locality his neglected wife made acquaintance with Achilles, a presentable but penniless young man, and at once fell violently in love with him. After a time they eloped, and lived on odd jobs in great happiness and picturesque poverty. The injured husband was furious, and threatened condign vengeance, but Orion's father chuckled over the misfortune of his former partner, and caused it to be publicly known that he would welcome his daughter and her lover if they would make his house their home. They accepted his offer, and Scorpio was more angry than ever; he was just taking the matter up in the most vindictive spirit when some further frauds of his on a still larger scale came to light, and he was banished from the country with forfeiture of his wealth and his rights as a citizen.
 
@@ -3223,7 +3223,7 @@ So he went on through many years of all sorts of stormy, horrible, impossible sc
 
 His attachment to Mercury was specially strong, and when she died he mourned her long and sincerely. He remained with Brihat and Naga, taking part in the temple ceremonies(though apparently there some form which his crippled condition was considered to debar him), and studying with keen interest such philosophy as was available, till in 7774, when he had already reached the age of seventy-eight, the Tarters once more descended upon his district, dealing death and destruction everywhere. Against a fee, so barbaric as this Alcyone felt it right to fight, and when after many days of siege and the most awful massacres it seemed certain that the town must soon fall into the hands of these savage marauders, he went to the fort and, old and crippled though he was, offered himself to share the fate of his old comrades in arms, and die—since all must die—fighting as well as a man in his condition could. When, however, the fort was captured and destruction certain, the rajans saved themselves from the disgrace of defeat by simultaneous suicide, and it was thus Alcyone died. His sons Percy and Mizar both perished with him.
 
-Chart XXXVII - Peshawar, India - 7852 B.C.
+![Chart XXXVII - Peshawar, India - 7852 B.C.]()
 
 Laxa appears about 7500 B.C. in Chaldea, while Rhea appears in Turkestan. About 300 years later Vale also appears in Turkestan; and five or six hundred years later Calyx and Amal are noted in Assyria.
 
@@ -3268,13 +3268,13 @@ It would seem that, just as the dissatisfaction with life as a Brahman brought A
 
 It was in this life that Neptune and Athena crossed the sea to Greece in order to attend the Mahaguru in His wandering incarnation as Orpheus, in which He preached the Law to the Greeks through the medium of his glorious music.
 
-Chart XXXIX - Egypt - 6986 B.C.
+![Chart XXXIX - Egypt - 6986 B.C.]()
 
-Chart XXXIXa - Tartary - 6758 B.C.
+![Chart XXXIXa - Tartary - 6758 B.C.]()
 
 In 6758 Orion took birth among the Tartars, as the daughter of one of the prominent members of a nomad tribe. There were some one of the prominent members of a nomad tribe. There were some unfortunate passages in her early life, but she eventually married Cygnus. Her early experiences gave her an especial sympathy for the unfortunate, and she therefore championed the cause of Cancer, who had been ruined by Aglaia, the son of the chief. She attempted at first to influence him by the occult arts to marry Cancer, but as this failed she went boldly to him and made a direct appeal. Aglaia admitted his responsibility, made a handsome provision for Cancer, but arranged a marriage for her in a neighbouring tribe. Orion was a good and careful mother to her children, and finally achieved a good position for all of them, though only at the cost of long-continued self-sacrifice, which so overtasked her strength that she passed away at the age of fifty-two.
 
-Chart XXXIX b - Central India - 6307 B.C. (Birth of Mizar)
+![Chart XXXIX b - Central India - 6307 B.C. (Birth of Mizar)]()
 
 We have one of the happiest lives with which we have met during our investigations a life i n a highly developed yet distinctly spiritual civilisation; for by the efforts of a group of our characters the best traditions of Manoa were revived in a kingdom in Central India, a curious dual kingdom, the two parts of which were, at the period of the opening of our story, under the control of Ajax and Fomal respectively. These two rulers belonged to the same subdivision of the race--a haughty Aryan tribe called Saraswati from the far north, a handsome and usually light coloured people; but a dispute had grown up between their forefathers about the delimitation of the frontier, and there had been a certain amount of ill-feeling, which these two wisely determined to end once for all by making the strongest possible offensive alliance, in order that they might present a united front to the non-Aryan tribes of the neighbourhood. Each had a son and a daughter, and it was resolved that these should marry, and even that their offspring in turn should intermarry as far as possible.
 
@@ -3308,7 +3308,7 @@ When he came to himself again, he found himself a prisoner with Egeria, one of h
 
 In course of time Mars and Saturn succeeded Herakles and Athena. Still the covenant of Ajax and Fomal was religiously carried out, and the eldest son of each house married the eldest daughter of the other, and since all of them were intimate friends from of old, the arrangement always worked well. Thus Mizar, the eldest son of Mars, married Fides, and his sister Rama was joined to Brihat, and the destinies of those favoured kingdoms remained for many years in the hands of our band of Servers. Naga's Eldest daughter Selene, and Yajna's second daughter Euphra proved specially responsive to the influence of the Mahaguru, and so were able to take the place of their mothers when the latter grew older. The twin sisters and their husbands lived to a great age, and showed forth to the last the strong affection which had been the key-note of their lives. This was a life of great happiness for all concerned in it, of high aspiration nobly realised; for under the inspiration of the Mahaguru, the ruling families of whom we have written, set themselves to elevate the thought and life of a nation; and to a great extent that effort succeeded.
 
-Chart XXXIX b - Central India - 6307 B.C.
+![Chart XXXIX b - Central India - 6307 B.C.]()
 
 ## Life XL
 
@@ -3323,11 +3323,11 @@ The child honestly tried to appreciate a life of incessant prayer and semi-starv
 A curious little life, this, bearing no visible relation to those which preceded and followed it. it must have worked out a good deal of bad karma, but its principal use was probably as stop-gap. A period of nearly a thousand years had passed since the last life, and as that last life was not in any way highly distinguished, it may well be that the spiritual force generated could not readily be extended to cover a longer time. She was needed in Kathiawar three hundred years later to meet the group to which she belongs, and this quaint little intermediate incarnation, with the heaven-life which it earned, just carried her over to the required time. Her relations with the astrologer-father were probably the conclusion of some piece of karma, for they have not come into contact since; nor will they in this life, as the astrologer passed away from among us before
 Alcyone' s birth.
 
-Chart XL - Malwa, India - 5964 B.C.
+![Chart XL - Malwa, India - 5964 B.C.]()
 
 In Mongolia about 5900 Castor and Laxa were brrother and sister. Nu and Sxorpio also appeared with them.
 
-Chart XL a - Egypt 5879 B.C. (Birth of Erato)
+![Chart XL a - Egypt 5879 B.C. (Birth of Erato)]()
 
 Erato takes birth in the year 5879 in a large city not far above the apex of the delta of the Nile. His father Zeno held the office of architect of the royal domains, and naturally the young Erato grew up to take a great interest in such work, and to do a little modelling in private on his own account. His father desired him to join the army, which he obediently did, though he had no interest in military matters, and cared only for art.After taking part in one of the great expeditions sent by the Pharaoh into Arabia and Syria he left the army and settled down in life as a sculptor. Soon after this he married Melete, and one of his works was a fine group of Isis and Horus, for which his wife and his first-born son were the models. At his father's death he took over his office, but continued his work as a sculptor. Among other things he porduced the celebrated statuette of the Scribe, which is now to be seen in the Louvre. His wife died before him, and his last work was a statue of her, after finishing which he peacefully passed away.
 
@@ -3368,7 +3368,7 @@ When Sirius wounded by Gamma, had fallen from his horse in that previous battle.
 
 She suffered just as he did, lingered on for months as he did, and finally died on the same day without any reason but sympathy with her wounded brother. She could not however forgive or receive her nephew Gamma, who had caused the death of his father Sirius; and even after Gamma died bravely in the effort to atone, she still said that it was the least he could do, and not half enough to expiate his wickedness. Alcyone herself had seven children, to whom she was a good and loving mother.
 
-Chart XL - Kathiawar - 8635 B.C.
+![Chart XL - Kathiawar - 8635 B.C.]()
 
 ## Life XLII
 
@@ -3414,7 +3414,7 @@ Herakles, now grown rather old and feeble, arrived one day at Tiraganga, and bro
 
 Herakles had half-doubted whether the sad news that he brought would not make him an unwelcome guest to Alcyone; but instead of that she was more strongly drawn to him than ever, and begged him to make his home in Tiraganga, persuading her son the raja to provide for him such modest establishment as he was willing to accept—though indeed he needed little persuasion, for he himself also felt deep reverence for him. Alcyone herself visited him daily and learnt much from him, trusting much to his advice in the education of her grandchildren, to whom she principally devoted the closing years of her life. The king and Queen fully recognised how much they owed to her loving care and prudent management, so that the concluding years of her life were passed in calm happiness, and she was regarded by all with great reverence and affection gratitude. She finally passed away peacefully in the cold weather of the year 4901, at the age of sixty-nine.
 
-Chart XLI - North India - 4970 B.C.
+![Chart XLI - North India - 4970 B.C.]()
 
 ## Life XLIII
 
@@ -3476,9 +3476,9 @@ The officer in charge of the expedition which captured
 Ramasthenes. The latter had been the pupil of Jupiter, an old man who was killed in that same expedition. His daughter Alcestis was taken prisoner at the same time by Kalesarthon, and was subsequently married by Castor, although he had already two wives living. Alces had a younger sister to live with her in Egypt, as they had no other relations living. When Pyx grew up she married Zeno,
 the son of Ulysses.
 
-Chart XLII - Egypt - 4035 B.C.
+![Chart XLII - Egypt - 4035 B.C.]()
 
-Chart XLIII a - India - 3414 B.C
+![Chart XLIII a - India - 3414 B.C]()
 
 A considerable nunber of our characters appeared in India at this time. They were grouped chiefly in two large families, descended respectively from Jupiter and Pavo. These families intermarried in the usual way, Mars and Corona being the eldest sons. Jupiter had five sons, who being all huge men, were commonly called the five giants. They were all huge men, were commonly called the five giants. They were all remarkably alike in form and feature, though differing widely in disposition; Mercury and Naga resembled each other so closely that they were practically indistinguishable. They were all trained and expert warriors, and on the occasion of a tournament they challenged any twenty of the knights and nobles assembled there to fight simultaneously against them. Twenty experts promptly accepted the challenge, but were easily defeated; then twenty more tried hoping that the giants might be fatigued after their previous exertions, but this also failed ignominiously, and the five giants were left in possession of the field. They had one sister Yajna, as tall and stalwart as her brothers; indeed, she had been known to put on their armour and go forth with with them with out being detected. She appropriately married Corona.
 
@@ -3486,7 +3486,7 @@ Instead of acting as governors of Provinces, the king's sons in this incarnation
 
 The kingdom in which there had previously been a good deal of mal-administration and corruption was brought by the efforts of our group into a much better condition, and the Government remained strong, just and able for some centuries.
 
-Chart XLIII a - India - 3414 B.C
+![Chart XLIII a - India - 3414 B.C]()
 
 ## Life XLIV
 
@@ -3524,9 +3524,9 @@ The rest of his life passed in his native city, but never left it for any length
 
 Here he died peacefully at an advanced age.
 
-Chart XLIV - India - 3059 B.C.
+![Chart XLIV - India - 3059 B.C.]()
 
-Chart XLIV a - Crete - 2821 B.C.
+![Chart XLIV a - Crete - 2821 B.C.]()
 
 Like Gaul in the days of Ceaser, Crete was at this time civided into three parts or states--Knossos, Goulas and Polurheni. Jupiter was King of Knossos and Overlord of the whole island, for the rulers of the other states acknowledged him as their leader, although they were perfectly free to manage their own internal affairs. Mars was King of the great City and terrirory of Goulas, near the eastern end of the island, and Corona was King of Polurheni. There was also, in the south of the island, an independent city with a few miles of territory attached to it, over which Vulcan ruled as hereditary Prince.
 
@@ -3547,7 +3547,7 @@ These people had two kinds of writing, evidently corresponding to the hieroglyph
 
 Jupiter had for his queen Viraj, who was the chief priestess of the Mother-God Diktynna. Viraj was a very holy woman of high reputation and great power; in fact through her husband, she was virtually the ruler of the island, and her son Saturn held an imp ortant position among the priests, and was governor of the capital city under his father. Mars, who had married Herakles, had two brothers, Mercury and Brihaspati, who acted as assistant priests and relieved him of much of his work.
 
-Chart XLIV a - Crete - 2821 B.C.
+![Chart XLIV a - Crete - 2821 B.C.]()
 
 The relationship of various characters will be seen by reference to the list of dramatis personne, but two or three events of interest are worth mentioning here. Mizar, the youngest daughter of Mars and Herakles, was famed throughout the whole island for her wit and marvellous beauty, and, though she was still very young, a host of eligible young men were in love with her. It was an unwritten law that the daughters of the royal house should not, except under extraordinary circumstances, marry before the age of eighteen; so on her eighteenth birthday her father receieved four proposals for her, from Sirius, the son of Mercury; Crux, the son of Brihaspati; Pallas, the son of Corona; and Achilles, the son of Vulcan.
 
@@ -3570,7 +3570,7 @@ Soma and Regulus were the heads of a family of the merchant class, who devoted m
 
 Orion took birth in 2736, in an Arab race in South Africa. His father owned land and flocks, but was at the same time a hunter and trader. Orion and his younger brother Scorpio fell in love with the same woman. Orion married her, and the younger brother,
 
-Chart XLIV a - Crete - 2821 B.C. thereforee, adopted a hostile attitude. Presently a rebellion arose in the country, and a usurper seized upon the throne. The younger brother took his side, while Orion, who had espoused the cause of the rightful king Sigma, was driven into exile with him. For four years they took refuge with a tribe of negroid race who lived in enormous caves. It was reported that a giant race existed in the recesses of these caves, and Orion promoted an expedition in search of these people, but did not find them. In the course of his exploration he aquired a number of fine diamonds, which he offered to his King, together with an idea which their discovery had suggested to him. In that kingdom the most valuable of the crown jewels was a remarkable diamond-hilted sword, supposed to be of great age, and to possess magical qualities. The legend was that whoever held this sword by its right the ruler of the country. The work on the hilt of this sword was wonderfully fine, and the most valuable part of its decoration was a huge diamond.
+![Chart XLIV a - Crete - 2821 B.C. thereforee, adopted a hostile attitude. Presently a rebellion arose in the country, and a usurper seized upon the throne. The younger brother took his side, while Orion, who had espoused the cause of the rightful king Sigma, was driven into exile with him. For four years they took refuge with a tribe of negroid race who lived in enormous caves. It was reported that a giant race existed in the recesses of these caves, and Orion promoted an expedition in search of these people, but did not find them. In the course of his exploration he aquired a number of fine diamonds, which he offered to his King, together with an idea which their discovery had suggested to him. In that kingdom the most valuable of the crown jewels was a remarkable diamond-hilted sword, supposed to be of great age, and to possess magical qualities. The legend was that whoever held this sword by its right the ruler of the country. The work on the hilt of this sword was wonderfully fine, and the most valuable part of its decoration was a huge diamond.]()
 
 The finest specimen in Orion's treasure trove was quite equal to it, or if anything rather larger, so the idea had occurred to Orion that it might be possible to prepare a duplicate of the diamond sword, and he thought that if his King suddenly reappeared among his partisans in apparantly miraculous possession of what could hardly fail to be taken for the sacred relic, their faith in its mystical porperties would so assure them of victory as to make them practically invincible. The king's imagination was fired, but he doubted whether it was right or wise to make a duplication of the sacred sword. Orion then suggested another plan. He offered to make his way back in disguise to their capital, manage somehow to steal the sacred sword and bring it to the king. The king accepted his offer, but he found the matter far from easy, and had to arrange an elaborate plot. He was successful, and fled one night with the sword in his possession, but its absence was discovered sooner than he had calculated. A pursuit was undertaken, and he and his servant Gamma were overtaken and captured. The captors then encamped for the night, and before morning the resourceful servant had contrived to free both himself and his master, had murdered the guard and stolen the sword from the officer in charge. the usurper endeavoured to conceal the fact that the sword was lost, but it became known in spite of his efforts,and the superstition of the people made them fee that his cause was already lost and his sceptre departed from him. So when the true king appeared with a strong but determined army of followers the resistance offered was only half-hearted, and the usurper fled in dismay.
 
@@ -3580,7 +3580,7 @@ Orion was then placed by the king in a position of honour which he retained unti
 
 In 2695 Vega was born in a sort of Bedouin tribe, but at ten years old she was captured and carried off into Egypt as a slave. The person to whom she was assigned was Auriga, who was very good to her and took her as a personal attendant. A son of the house fell in love with her, and affairs presently came to a crisis. The mistress of the house discovered it, and turned out Vega and her little baby. The young man was sent away to reside at a distance for a time and forget his infatuation, but Vega contrived to follow him and presently there were two more babies. Then the young man was recalled to his home, forgiven, and married to a person of his own rank. Vega and her three babies being left behind in the country, where she worked for some years as servant. eventually, as the children began to grow up, she felt that she must have some education for them, and she consequently presented herself at the town house where there was naturally a great disturbance. Auriga, though very angry, felt that it was right to do something for the children and offered to take charge of them if the mother would let them go, and never see them again. This decision caused her great suffering, but I the end for the sake of the children she yielded, and went away never to return. Her mother who had been captured along with her and had all this time been acting as housekeeper to Auriga went away with Vega, and they lived together for the rest of this life, which ended at the age of fifty.
 
-Chart XLIV a - Crete - 2821 B.C.
+![Chart XLIV a - Crete - 2821 B.C.]()
 
 ## Life XLV
 
@@ -3642,11 +3642,11 @@ Great White Brotherhood which exists but for the helping of the world. And Mercu
 
 Orpheus, the local King, owed allegiance to the overlord Rama, the grandson and Successor of Mars. Rama had married Alcyone' s aunt Osiris, so that it is probable that by appealing to family influence Alcyone might have obtained some further consideration of his case; but he had a feeling that as a matter of principle such influence should not be used. Also his father Albireo had in youth seriously differed in opinion from the other members of the family on certain points, and had gradually withdrawn himself from them. So Alcyone felt that it would be improper to claim relationship now just because he happened to be in undeserved trouble.
 
-Chart XLV - Nagpur - 2180 B.C.
+![Chart XLV - Nagpur - 2180 B.C.]()
 
 At the same time some of our characters are born in Egypt where they worked under the leadership of Mercury. Ulysses, a Hyksos chieftain, married Mercury's sister Fides. Rhea was born in one of the Greek islands, but was captured by pirates and carried away into slavery, but fortunately for herself she fell into the hands of Alces, who was kind to her, and when the latter married Vajra she became a sort of secretary to him.
 
-Chart XLV b - Persia and Arabia - 1879 B.C.
+![Chart XLV b - Persia and Arabia - 1879 B.C.]()
 
 Orion was born in the kingdom of Persia in the year 1879. He was the son of a rich merchant, who was killed in attack by a band of robbers when the child was about seven, Orion and his mother being captured. While the fight was still in progress another sma -ll caravan appeared on the scene, and its leader Sirius, the hereditary chief of an Arab tribe, seeing what was happening, hurried his men forward to the assistance of the travellers who were being attacked. He was too late to be of any use, for the fight was over before he could reach the ground, and the robbers got away with most of their booty, but left the orphan Orion behind-for his mother had been killed in trying to protect him. Sirius adopted the child and carried him with him on his travels which were undertaken for purposes of study. They had a happy life together for about ten years, but were then killed in a fight with some bedoin
 Arabs.
@@ -3737,9 +3737,9 @@ Some two years before this, Alcyone had given up constant journeyings and public
 
 And in the present life has that prophesy been fulfilled.
 
-Chart XLV - Persia - 1528 B.C.
+![Chart XLV - Persia - 1528 B.C.]()
 
-Chart XLVI a - Agade - 1521 B.C. (Birth of Orion)
+![Chart XLVI a - Agade - 1521 B.C. (Birth of Orion)]()
 
 We must now go back for a few years in time and turn our faces westward, to examine the great gathering of our characters at Agade in Asia Minor, the city whence Mercury had come. This city was situated in Asia Minor, the city whence Mercury had come. This city was situated in Asia Minor on the shores of the Dardennelles, somewhere near the town of Lampski now is. It was built around a cresent shaped harbour, with two little peaks rising behind it, on one of which stood the great white marble temple of Pallas athene,of which stood the great white two little peaks rising behind it, on one of which stood the great white marble temple of Pallas Athene, of which Mercury was then the Chief Priest. The ruling race of the city was Greek, of the old Ionian type, and it was to this white race that the temple of Athens belonged. The actual administration of the government of the city was in the hands of Yajna and Arcturus, two elected officials, who were called archons. The greater part of the population were of a much darker reddish race, probably Hittites, who had held the country before it was conquered by the early Greeks some centuries before. These Hitties were worshippers of Tammuz, and of the veiled goddess Tanais or Ishtar (the Ashtaroth of the Bible) and dawn in the city they had a great temple, of which Liovtai was a priest, where the religion was of a corrupt character and many undesirable magical ceremonies were performed.
 
@@ -3755,7 +3755,7 @@ Orion was at quite an early age much interested in his mother's philosophy, and 
 
 As he grew up he began to assist his father in the business; he took it up keenly and seemed rather avaricious, but he liked best the more adventurous part of the work--assisting in the loading of the strange-looking ships with bright blue sails, and sometimes even sailing in them to some neighbouring port. Proteus was then the controller of the port, and his son Selene, though four years younger than Orion, was his friend and frequent companion on such little expeditions, and they constantly discussed the philosophy which attracted them both so deeply. The interest in this continued steadily to increase, and at last quite overpowered Orion's business instincts, so that he went to the High Priest and asked whether he might resign worldly affairs and devote his life altogether to study and to temple work under him. A few days afterwards Orion was called up during one of the services to the meteorite throne,, and one of the highly prized messages was delivered to him.
 
-Chart XLVI a - Agade - 1521 B.C. (Birth of Orion)
+![Chart XLVI a - Agade - 1521 B.C. (Birth of Orion)]()
 
 "Not yet,"it said,"Can you have your desire. Once before your Master called you, and you would not come. There will come a time when He will ask you again; work now that you may be ready to answer then, so that through you the world may be blessed."
 
@@ -3769,9 +3769,9 @@ Naga the daughter of Dhruva was a girl of transendental beauty, and two brothers
 
 Selene was also killed in that massacre at the age of twenty-seven and took birth next near Benares in the year 593 B.C. as Chatta Manavaka, but lived only for thirteen years, so that he was ready to return with the rest of out characters to the next life in Greece.
 
-Chart XLVI a - Agade - (Birth of Orion) 1521 B.C.
+![Chart XLVI a - Agade - (Birth of Orion) 1521 B.C.]()
 
-Chart XLVI b - Damascus - 1310 B.C.
+![Chart XLVI b - Damascus - 1310 B.C.]()
 
 A group of our characters appear somewhat unexpectedly in the Hittite Empire of King Separer(Theo), who then ruled over Syria, a considerable portion of Asia Minor, and also part of Mesopotamia, having his capital at Damascus. This is the only time in which any group taken from our band of servers has been known to enter into the Hittite nation. They were a strange-looking people, different from all others whom we have encountered-brachycephalous, with dark eyes and dark hair, and long aquiline noses, showing a curious mixture of Aryan and Man golian characteristics. Their architure was low and heavy, and they built their walls enormously thick. They were clever people in many ways, at metal work of all kinds, and it is noteworthy that their inscriptions were all carved in relief instead of being cut into stone. They wrote in clumsy hieroglyphics, which read backwards and forwards in alternate lines--the top line running from right to left, the next from left to right, and so on.
 
@@ -3870,7 +3870,7 @@ King Orpheus himself would have followed the Lord, but that the latter told him 
 The effect of this life upon the characters of Alcyone and
 Mizar was enormous—as well it might be when they had earned so great a favour as to be born upon earth at the same time as the Buddha, and to come under His benign influence. Every vestige of anger and revenge was wiped from the heart of Alcyone, and the qualities of compassion, forgiveness and true affection were developed in him to the utmost. How deep and essential in its nature was the result produced by this most fortunate of lives may be seen by the fact that the average interval between his lives has been entirely altered by it. Before this the average was about seven hundred years and since then it has been twelve hundred. Mizar too was powerfully affected, for in the beginning he had had some scheming and selfishness in his character. Now most of that had disappeared for ever, and much of earnestness and love had taken its place, while valuable links had been formed, the result of which lies yet in the future. In his case, however, the average interval was not changed, and he therefore does not appear in the forty-eight life.
 
-Chart XLVII - Rajgriha - 630 B.C.
+![Chart XLVII - Rajgriha - 630 B.C.]()
 
 After the Lord Buddha resigned His physical body, the office of World Teacher passed to his xuccessor, the Lord Maitreya. Taking advantage of the tremendous outpouring of magnetic power left in the world by the Lord Buddha, he soon incarnated himself in the person of Sri Krishna in India, and almost simultaneously he sent Lyra to appear in China as Laotze, and Mercury to teach the Greeks as Pythagoras. A little later still he sent Pallas to Greece as Plato.
 
@@ -3878,9 +3878,9 @@ After the Lord Buddha resigned His physical body, the office of World Teacher pa
 
 Erato and Ausonia appeared in the Persian Empire in the year 573, as twins, the children of wealthy and influential parents. They lived on the shores of a lake on which they frequently sailed in a curious flat bottomed boat with a lateen sail. Unfortunately one day when they were twelve years old a sudden squall upset the boat, and the children and the boatman were thrown into the water. They were about a mile from the shore and the water was very rough, so that although the boatman made a determined attempt to swim ashore and carry the children with him, he found the task impossible. Erato then persuaded him to make the effort with his sister alone, alleg-
 
-Chart XLVI - Rajgriha - 630 B.C. ing that he could quite easily hold on to the overturned boat until he could return to fetch him. The boatman at first refused, but as there seemed nothing else to do at last consented. He succeeded in reaching the shore with the little girl, still alive but unconscious, the boatman himself being utterly exhausted. Nevertheless, he sent back another boat to rescue Erato, but before it could reach the spot both had disappeared. Thus he saved his sister's life at the cost of his own, and as the sister was the same ego whom he had killed by accident in Life XLIII, it may be that there is here some karmic action.
+![Chart XLVI - Rajgriha - 630 B.C. ing that he could quite easily hold on to the overturned boat until he could return to fetch him. The boatman at first refused, but as there seemed nothing else to do at last consented. He succeeded in reaching the shore with the little girl, still alive but unconscious, the boatman himself being utterly exhausted. Nevertheless, he sent back another boat to rescue Erato, but before it could reach the spot both had disappeared. Thus he saved his sister's life at the cost of his own, and as the sister was the same ego whom he had killed by accident in Life XLIII, it may be that there is here some karmic action.]()
 
-Chart LXVII a - Greece - (Birth of Orion) 499 B.C.
+![Chart LXVII a - Greece - (Birth of Orion) 499 B.C.]()
 
 Many members of our group took birth among the families of the Eupatriadae at Athens at a troublous and exciting time of Greek history about the year 500 B.C. Orion, for example, was born in the year 499. His name was Theodoros; his father was Kleomenes(Sirius) ; his mother Philippa (Koli) ; his eldest brother Philalethes (Selene) ; his younger brother Kleon (Mira) ; and his little sister Agatha (Fomalhaut).
 
@@ -3900,7 +3900,7 @@ The occasion on which Orion won the olive crown was of course one of great rejoi
 
 Before this, however, he had borne his part in some stirring events. His father was one of the Atlantean delegated to the celebrated Congress at Corinth in 481 B.C. and both Selene and Orion accompanied hhim on this historic occasion. In the next year Xerxes advanced upon Athens with his mighty army of a million men--drawn, he boasted, from forty six nations; and as successful resistance was impossible all the Athenians had to withdraw from their homes, and take refuge on beautiful mansion, and no doubt the thought of it made them fight with additional valour at the great naval battle of Salamis. In this the Persian fleet was totally defeated, and Xerxes hurriedly marched his army back into Asia, leaving, however, thirty three thousand men under his general Mardonius. Orion was brave enough in the battle, though horror se-
 
-Chart LXVII a - Greece - (Birth of Orion) 499 B.C. ized him at the sight of wounds and blood, and he had difficulty to force himself to do his duty.
+![Chart LXVII a - Greece - (Birth of Orion) 499 B.C. ized him at the sight of wounds and blood, and he had difficulty to force himself to do his duty.]()
 
 After the battle the family returned home, and were relieved to find that the Persians, though they had destroyed much of the town, had not reached their quarter. The same good fortune attended them next year when Athens had once more to be abandoned before the advance of Mardonius; and Orion played a noble part in the great battle of Plataea, when the Spartans under Pausanias at last came to the help of the battle, but when the Asiatic soldiers were at last surrounded in their camp and the final massacre had commenced, which destroyed for ever the power of Persia, he turned sick at the awful carnage and had to leave the field.
 
@@ -3921,7 +3921,7 @@ A particularly close tie of affection bound him to his brother-in-law Aldebran, 
 
 One of our characters attained some renown in history, for Apollo is known as Simonides of Ceos, who is generally considered one of the most accomplished men of antiquity. He was the son of Neptune and Osiris, and had for his brother Uranus, who was afterwards the most
 
-Chart LXVII a - Greece - (Birth of Orion) 499 B.C. prominent disciple of Pythagoras. Apollo early gained a reputation for his poems, and was invited to Athens by Hipparchus. There he established himself in a splendid house on one of the hills looking across at the Acropolis, and there were born his sons Sirius and Erato. When Hipparchus died he removed himself to Thessaly, but still retained his house at Athens, and returned to it before the invasion of Greece by the Persians. Some of his finest poems describe the events of that war, and it is said that he surpassed even Aeschylus in his elegy upon those who fell at Marathon, and that he won no less than fifty six prizes in poetical contests. Later he left the Athenian house to his sons, and spent the last ten years of his life at the Court of Hiero of Syracuse, where he died inn 468 B.C.
+![Chart LXVII a - Greece - (Birth of Orion) 499 B.C. prominent disciple of Pythagoras. Apollo early gained a reputation for his poems, and was invited to Athens by Hipparchus. There he established himself in a splendid house on one of the hills looking across at the Acropolis, and there were born his sons Sirius and Erato. When Hipparchus died he removed himself to Thessaly, but still retained his house at Athens, and returned to it before the invasion of Greece by the Persians. Some of his finest poems describe the events of that war, and it is said that he surpassed even Aeschylus in his elegy upon those who fell at Marathon, and that he won no less than fifty six prizes in poetical contests. Later he left the Athenian house to his sons, and spent the last ten years of his life at the Court of Hiero of Syracuse, where he died inn 468 B.C.]()
 
 There are points of interest in the lives of his sons Sirius and Erato, whose names in this birth were Kleomenes and Agathocles. They were deeply attached to each other, and grew up together joyously, spending much time in the practice of gymnastics, running, leaping, wrestling and throwing the quoit. Their studies, however, were by no means neglected; the boys were thoroughly interested in them, and took a keen delight in learning. They took up history (not always very exact, by the way) and mythology; they read about the Trojan War, and got much excited over it, making up mimic battles and playing the part of all the heroes in turn.
 
@@ -3939,7 +3939,7 @@ Another result, however, had followed upon that faateful voyage which changed fo
 
 He produced some excellent statues, usually attaching to them the assumed name of Kalamis. One of the most important was an Apollo in Bronze, which must have been nearly fifty feet in height. It was executed as a commission for one of the cities on the Black Sea; but some centuries later it was removed to Rome. Another Apollo was perhaps even more celebrated, though it was only life-size; it was erected in the Kerameikos, from some fancied power of warding off pestilence which was attributed to it. This statue was largely copied by pupils, and one such copy is now in the British Museum, where it is called the Apollo of the Omphalos. It is much injured, and it seems that various
 
-Chart LXVII a - Greece - (Birth of Orion) 499 B.C. conjectural attempts(mostly inaccurate) have been made at its restoration. Its left hand appears to have originally held an olive branch, while the right, resting upon a tree-stump, held some kind of belt. Part of the original is still preserved at Athens, and is far superior to the copies.
+![Chart LXVII a - Greece - (Birth of Orion) 499 B.C. conjectural attempts(mostly inaccurate) have been made at its restoration. Its left hand appears to have originally held an olive branch, while the right, resting upon a tree-stump, held some kind of belt. Part of the original is still preserved at Athens, and is far superior to the copies.]()
 
 A temple to Athena Nike was erected at Olympia from the plans and under the supervision of our hero; and the statue of Athena which it contained was the work of his own hands. For some reason he chose to make it a copy in marble of an ancient and sacred wooden image called the Xoanon, which was preserved at Athens. This statue was commonly called Nike Apteros, and held in its left hand a helmet, and its right a pomegranate.
 
@@ -3955,7 +3955,7 @@ He is mentioned in an encyclopaedia as a contemporary of Phidias, but this is so
 
 Both of the brothers married, and brought up their families in opposite sides of the origial paternal house, in which there was plenty of room for all. Indeed they formed a wonderfully united household, and their residence was quite a centre both for philosophers and artists. Stormy though the times were, there was much in them that was noble and elevating; and our hero took his part in the vivid life of Athens at its best even though his art and his higher studies always came for him before political considerations. The death of Sirius left a gap in their knowledge of what death meant, and in their certainty that in a future existence they would meet again. Erato survived Sirius by some five years, and when he in turn shuffled off this mortal coil he passed through the astral plane with great rapidity, and had a long and elevated sojourn in the heaven-world.
 
-Chart LXVII a - Greece - (Birth of Orion) 499 B.C.
+![Chart LXVII a - Greece - (Birth of Orion) 499 B.C.]()
 
 Ulysses was born in the early part of the third century before Christ in a huge city in northern India, called Palibothra. The city was in six miles square, and had eight gates in each of its four sides. The foundation of its wall was built of wood carefully embanked. The empire was a great one, and inclined the whole of India down to the level of Pondicherry, and included also Nepal and Bhutan. This empire had been largly built up by Chandragupta who was the grandfather of Ulysses. Ulysses had an older brother Susina, who was heir to the throne, but while they were still quite young he met with a serius accident. The two boys were out on hunting; a wounded tiger sprang upon the heir; the younger defended him and threw a javelin which struck the tiger in the eye and killed him. Susina did not die, but he never recovered from his injuries, and was always lame. Later on a palace intrigue drove Ulysses away from Palibothra, and he became Governor of Ujjain. During his stay there a certain woman of bad character obtained great influence over him, and even induced him to dismiss the teacher Kanishka, who was a pupil of Mars. Later on he transferred his activities to the Hindu Kush, and we find him there fighting victoriously against Greek soldiers. A false heir had been put forward by on of his father's old ministers; but in the course of the fighting he was killed by an arrow through his throat. Hearing that his father Vidusara was dying Ulysses returned to his bedside, but the father fell into such a rage at the sight of him that he burst a blood vessel and died atonce. Ulysses being on the spot took possession of the throne. The woman of evil influence tried to reassert her power over him, but as he was now married to a pure and noble wife she found herself unable to do so, and in her impotent rage she allowed herself to be instigated by Phocea, a pariah-hanger on of the palace, to make an attempt to poison Ulysses then recalled his teacher.
 
@@ -3967,9 +3967,9 @@ The people began to murmur against him, and the Master Mars appeared to him agai
 
 He had a beautiful son and daughter. Mahinda and Sanghmitta. All through this period the Master Mars appeared to him now and then in visions, and in one case at last he had a long interview with him, during which the Master promised that as reward for what he was then doing he should on his retur have the opportunity of doing further great benefit to his beloved country India.He also told him that from biirth to birth he should continue to work under him, andended the interview with a solemn blessing. Ulysses was so deeply affected by this that he abdicated in favour of his son and retired to a country house near the cave in which the Master had appeared to him, and spent his remaining
 
-Chart LXVII a - Greece - (Birth of Orion) 499 B.C. years in meditation. He wished to be allowed to retire at once into the jungle, but permission was refused to him until he reached the age of eighty. He meditated much upon the Master's prophecy, but could not fully understand it. He finally died under a tree at the age of eighty two weary of life and glad to leave it.His master was present with him during his last moments, and in order to make the passage easy for him he showed him a splendid picture of the work that he was to do in the future in connection with the founding of the Sixth Root Race in California. His name in this life was Ashoka, though he frequently spoke of himself as Piyadasi,"beloved of the gods". His son Mahinda converted the island of Ceylon to Buddhism and became an Arhat there, and is now far advanced.
+![Chart LXVII a - Greece - (Birth of Orion) 499 B.C. years in meditation. He wished to be allowed to retire at once into the jungle, but permission was refused to him until he reached the age of eighty. He meditated much upon the Master's prophecy, but could not fully understand it. He finally died under a tree at the age of eighty two weary of life and glad to leave it.His master was present with him during his last moments, and in order to make the passage easy for him he showed him a splendid picture of the work that he was to do in the future in connection with the founding of the Sixth Root Race in California. His name in this life was Ashoka, though he frequently spoke of himself as Piyadasi,"beloved of the gods". His son Mahinda converted the island of Ceylon to Buddhism and became an Arhat there, and is now far advanced.]()
 
-Chart XLVII b - South India - 222 A.D. (Birth of Mizar)
+![Chart XLVII b - South India - 222 A.D. (Birth of Mizar)]()
 
 It is evident that the tie between Alcyone and Mizar is of an unusual character; for in almost every life they have been associated. They were were together in the presence of the Lord Buddha, and after the wonderful events which characterised that incarnation, they separated for a time because the regular interval between their lives was entirely altered in Alcyone's case by the tremendous influence exerted over him by the Lord Buddha. Mizar was undoubtedly influenced also, but apparantly not to the same extent or perhaps in a less fundamental manner.
 
@@ -3986,7 +3986,7 @@ Mizar was a precocious child, and seemed to combine within himself the good qual
 
 At that court he met the poet Tiruvalluvar, the writer of the Kural, and was present on the occasion when the latter received the public honour which was adjudged to him because of the excellency of his poems. Tiruvalluvar seems to have been born at Mylapore, within a couple of miles of our Headquarters, but was a man of low caste--a weaver or something of that sort. Consequently he was not at all well received by the authorities of the University, and, at first, they declined to allow him to present his poem for the competition which was taking place. He contrived, however, to persuade one of the authorities to read it before condemning it; and this man was so much struck by its excellence, that he somehow managed to get it accepted. The judges pronounced it by far the best that had been sent in, but still the terrible caste prejud ice prevented its author from receiving full recognition. It appears to have been the custom that the successful competitiors should the occupy an elevated seat where they were the observed of all observers. Because of his low caste, Tiruvallur was not allowed to take his place with the other victors, but the manuscript of his book was put upon the elevated seat in his place. When however the successful composition came to be read in public, it was so emphatically the best that it took the popular fancy by storm and in spite of his caste he was called by acclamation to occupy the seat which his work had earned. Much interested by all this, Mizar made friends with the poet, saw a good deal of him and kept up a correspondence with him after his return to Mylapore.
 
-Chart XLVII b - South India - (Birth of Mizar) A.D.222
+![Chart XLVII b - South India - (Birth of Mizar) A.D.222]()
 
 Mizar was distinctly an able young man and distinguished himself at the Madura University--so much so indeed, that King Ugraperuvalathi offered him the opportunity of entering his service and of residing permanently in the Pandya Kingdom, instead of returning to his own country. He was wise enough to decline this dangerous honour, and indeed he lost nothing by doing so; for when his own King, Chenkddeva, heard of it, he at once offered him an equivalent position in his own court, which Mizar promptly accepted. He had a keen delight in the exercise of diplomacy and even when quite young he had developed, to a high degree, the art of persuading and managing people, so that he was useful in politics, though he was much disgusted with some of the political methods which he encountered. His father, Lentulus, took eager interest in all this work, though he himself, being of foreign birth and besides fully occupied with the business which he had taken up, bore no direct part in it, but only advised and guided his son..
 
@@ -3996,11 +3996,11 @@ When his father Lentulus died, he was accorded a public funeral just as though h
 
 Mizar was a man of cheery disposition--not especially religious in type, although he gave liberally to various temples and considered religion an important factor in the well being of the State. A detailed history of the latter part of his life would be simply a record of the various operations in which he was engaged and the various posts which he held, which would be scarcely helpful for our purpose. Let it suffice to say, that though his career was so successful, he made wonderfully few enemies, and that the experience in dealing with men, which this life gave him, was distinctly valuable as preparing him for the part which he will have to play in future history. He died, much respected and lamented, in the year 293, at the age of seventy one.
 
-Chart XLVII c - Alexandria - A.D. 350 (Birth of Herakles)
+![Chart XLVII c - Alexandria - A.D. 350 (Birth of Herakles)]()
 
 The story of the life and death of Hypetia is too well known to need repetition here. But it will be well to link out chart to the history of the period by mentioning the names of a few of our characters. Neptune appeared this time as lamblichus, the author of a book on the Mysterious he married Naga, one of the fivee daughters of Vulcan and Nestor. Tripos was a pupil of his, named Aedesius. Apollo was Theon, the father of Hypetia, and Lutea was the Roman prefect Orestes, whose friendship was at the same time valuable and tiresome to her. Most of our characters were slain along with her. Her cousin Yajna married Osiris, and their eldest son was Venus, who in this incarnation was known to history as Proclus. Yajna and his wife loved travel, so it happened that their eldest son Venus was born not at their home in Alexandria, but in Constantinople in the year 411. Later on they lived for a time at Xanthos in Lycia, then, after returning home to Alexandria, they spent a considerable time in Athens. All these somewhat erratic movements played their part in the training of the young Proclus, and helped to make him what he was, the last great exponent of Neo-Platonism--the man whose influence overshadowed the whole mideaval Christian Church.
 
-Chart XLVII c - Alexandria - (Birth of Herakles) A.D. 350
+![Chart XLVII c - Alexandria - (Birth of Herakles) A.D. 350]()
 
 Arcor was born in Norway, about A.D. 250, among the Vikings, and after many adventures, in the course of which she met Markab in Byzantium, she at last went to India, and finally died from wounds inflicted upon her by a tiger. On several occasions in the course of this life a white lady(Herakles) appeared to her in times of difficulty.
 
@@ -4101,7 +4101,7 @@ Alcyone in his old age remained as enthusiastic as ever, but was gentler than in
 
 Often the leader of some of the rival factions would come to him to plead the justice of their cause and ask for his blessing upon their warfare; but his answer was always the same—that no cause however good, could make wrong right or justify slaughter and oppression; that the teaching of the Buddha was clear, that men should live together in peace and in love, and that it mattered little who bore the burden of ruling the country, so long as its inhabitants lived according to the precepts of the Good Law. So he died at last in the odour of sanctity in the year 694, and though in the line of his successors there were few men who were not more worldly than he, the prestige which he and his teacher had given to the monastery clung round it like a halo for some centuries to come, and even the barbarous invaders from the north usually respected the lives of its monks, though sometimes they robbed it of its treasures.
 
-Chart XLVIII
+![Chart XLVIII]()
 
 In this present life Alcyone was again born in the south of India, and at thirteen years of age was brought under the fostering care of the President of the Theosophical society. Soon after this the Master admitted him as a probationary pupil, and after only five months (the shortest probation yet known) passed him on to the second stage--that of accepted discipleship. After only a few days in this degree he was received into the still closer union of the third stage, and became a'son of the Master'; and at the same time he took the most important step which an ego can take, for he'entered upo the stream'-he attained that first of the Great Initiations which not only makes a man safe for ever, but also admits him as a member of the Great White Brotherhood that rules the world. What shall be the future of a life which opens thus? The Theosophical Society may indeed rejoice that it has been counted worthy to receive such an one into its Headquarters.
 
@@ -4109,7 +4109,7 @@ The faithful Mizar is his younger brother this time, as he has so often been bef
 
 Spica appeared as a Saxon in Kent in A.D. 825 and again in A.D. 1278 in India, in each case in a female body.
 
-Chart XLVIIIa
+![Chart XLVIIIa]()
 
 Time does not permit us to do more than glance at the last life of Mizar, though there is much connected with it that would repay more detailed investigation. He was born at a city called Kanchi (now Conjiveram) in the south of India, in the year A.D.1070 just after King Kulottanga came to the throne. His father was Telema, a statesman high in favour of the monarch, and his mother was Soma. His childhood seems to have been a happy one, as his parents were more sensible than most, and xonsulted his comfort rather than their own prejudices.
 
@@ -4123,9 +4123,9 @@ He married, though not early in life, and his wife was gentle and unobjectionabl
 
 Mizar died in the year 1148 at an advanced age. Having spent the last few years of his life in retirement from active service, though occasion ally advising his successor when special difficulties arose. These two administrative lives may be regarded as probably intended to serve as a preparation for the far more important executive work which seems likely to fall to his share in this present life.
 
-Chart XLVIII a
+![Chart XLVIII a]()
 
-Chart XLVIII b
+![Chart XLVIII b]()
 
 We find a small but important group of our characters gathered in Central France towards the end of the eleventh century, Colossus, who in that life bore the name of Tecelin, was a man of distinguished family, a knight and vassal of the Duke of Burgandy, living at Fontaines near Dijon. He married the Lady Aleth (Vesta) who was also of a noble family of the name of Montbard. This couple had six children, all of them characters in our story. There were five brothers: Nicos, Pavo, Naga, Crux and Quies, and one sister Algol. Colossus was killed in the First Crusade while his children were still yong, and some ten years after Vesta also passed away, though not until she had ineffaceaby stamped herr piety, her fiery religious zeal and her wonderfully loving nature upon her young family. Her two elder sons had taken up the profession of arms as a matter of course, and had married; but the mother's devotion found its fullest reflection in the third son Bernard, who in our history is called Naga.
 
@@ -4143,7 +4143,7 @@ When Pope Honorius II died in 1130 there sprang up two claimants to the Papal Th
 
 He then travelled with Innocent over a good deal of France and Germany, and he was everywhere successful in bringing men to his position in Rome, all the rest of Europe acknowledged Innocent. Indeed, Naga so stirred up the Emperor Lothair that he took up arms in order to assert Innocent's claim, and finally obtained his coronation in Rome, Anacletus being shut up in the Castle of St. Augelo, where he shortly
 
-Chart XLVIII b afterwards died. Another anti-Pope appeared on the scene, but Naga's persuation induced him to resign his claims, so that Christendom was once more united.
+![Chart XLVIII b afterwards died. Another anti-Pope appeared on the scene, but Naga's persuation induced him to resign his claims, so that Christendom was once more united.]()
 
 At the council at Sens in 1140 he was put forward to argue with the great Schoolman Abelard, who, however, retired from the contest.Naga however, presented so ably his case against the alleged heresies of Abelard that he obtained a condemnation of them from the Pope. It was against his will that he was drawn into these wranglings, and later into political complications; but he regarded it as a duty thrust upon him and so he did it to the best of his ability, even though it outraged his own nature of love and gentleness. It was entirely against his better feelings that he was persuaded to harshness against Ableard, and also on another occasion against Bishop Gilbert of Poietiers. He was undoubtedly in a very difficult position; the Pope and all the eccliastical authorities of the time thought that severity against heretics was absolutely necessary for the welfare of the Church, and they therefore took it as a matter of course, and were inclined to be doubtful of the orthodoxy of any who disapproved it. Naga held strongly to the hierarchical theory of the duty of full obedience to authority, and felt that he had no right to set his opinion against theirs; yet the intense inherent affection of his nature was constantly at war with these outer requirements. Sometimes it triumphed altogether, as in the case of his stern rebuke to the Christians who attemped to set on foot a persecution against the Jews in Mayence.
 
@@ -4157,11 +4157,11 @@ It was probably partly in consequence of this emotional suffering that at this p
 
 More and more in his later years he took refuge in the inner rapture of mystic devotion which had always had a keen attraction for him, though all through his earlier life he intentionally repressed that side of his life in order to devote himself without interruption and with utter selfish ness to what seemed to him the work of God in the world. He passed away eventually in the year 1153, and when in the astral world he reviewed with clearer vision the course of his physical life, he saw sometimes the very thoroughness of his self renunciation and obedience had led him into error. He realised now with the clearness of that more impartial sight that the gospel of love can never be spread by disputation or by war, and he prayed earnestly for another opportuity to serve God more acceptably--by using the compelling power of his love in har mony with the Eternal Love of which it is a part. In this present incarnation that opportunity is given to him; may the blessing of the Lord of Love descend upon him in his use of it!
 
-Chart XLVIII b
+![Chart XLVIII b]()
 
 Erato was born in the year 1503, at the city of Ratisbon in Bavaria. His father was an etcher and engraver, a pupil of Albert Durer--also a painter and an architect. The boy watched his father at work and rapidly acquired artistic knowledge and skill, and by the age of fifteen was able to do work indistinguishable from hiss father's. The religious views of the family were those of the Quietists. The life, however, was but a short one, as at the age of nineteen Erato was carried off by one of the epidemics which so frequently raged in mideaval Europe. 
 
-Chart XLVIII b
+![Chart XLVIII b]()
 
 In the latter part of sixteenth century Vajra appeared in India as Abul Fazl, prime minister of Akbar. Herakles appeared in Italy in a male body. Achilles and Helios also were born in female bodies in Italy.
 

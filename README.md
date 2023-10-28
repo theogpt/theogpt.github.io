@@ -13,5 +13,7 @@
 - 1907 г., [Идиллия Белого Лотоса](idyll-of-white-lotus/index.md), М. Коллинз
 - 1958 г., [Роза Мира](world-rose/index.md), Д. Андреев
 
- > 10/2023; source: https://github.com/theogpt/theogpt.github.io
+> Source: https://github.com/theogpt/theogpt.github.io
+
+> 10/2023
  
