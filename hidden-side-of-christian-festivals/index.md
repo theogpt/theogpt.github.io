@@ -10,7 +10,7 @@ _Лос-Анджелес : Лондон : Сидней_
 
 _1920_
 
-> Источник: https://archive.org/details/hiddensideofchri00leadrich
+> Source: https://archive.org/details/hiddensideofchri00leadrich (in [plain text](en.md))
 
 ## Содержание
 
