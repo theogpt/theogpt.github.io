@@ -2,7 +2,7 @@
 
 - 1917 г., [Starlight](https://archive.org/details/starlightsevenad00lead), by C. W. Leadbeater
 - 1920 г., [Наука Священнодействий](science-of-sacraments/index.md), Ч. Ледбитер
-- 1920 г., [Скрытая Сторона Христианских Праздников](hidden-side-of-christian-festivals/index.md), Ч. Ледбитер
+- 1920 г., [Скрытая Сторона Христианских Праздников](hidden-side-of-christian-festivals/index.md), Ч. Ледбитер ([english version](hidden-side-of-christian-festivals/en.md))
 - 1920 г., [Великая Война](the-great-war/index.md), Ч. Ледбитер
 - 1926 г., [Жизнь Скрытая во Фримасонстве](hidden-life-in-freemasonry/index.md), Ч. Ледбитер
 - 1926 г., [Отрывки из Истории Масонства](glimpses-of-masonic-history/index.md), Ч. Ледбитер
