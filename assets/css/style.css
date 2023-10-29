@@ -24,6 +24,10 @@ blockquote {
   font-style: italic;
 }
 
+pre.highlight {
+  padding-left: 1em;
+}
+
 code {
   font-family: normal;
 }
