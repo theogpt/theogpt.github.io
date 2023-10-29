@@ -50,8 +50,7 @@ def is_translated(text):
 def save_output(paragraphs):
   if args.verbose >= 1:
     print("Saving the output")
-  paragraphs = [clean_paragraph(p) for p in paragraphs]
-  paragraphs = [p for p in paragraphs if p]
+  paragraphs = [clean_paragraph(p) for p in paragraphs if len(p.strip()) > 0]
   input_text = "\n\n".join(paragraphs)
   with open(args.output, 'w') as f:
       f.write(input_text)

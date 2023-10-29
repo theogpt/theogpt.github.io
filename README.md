@@ -11,11 +11,11 @@
 - 1926 г., [Отрывки из Истории Масонства](glimpses-of-masonic-history/index.md), Ч. Ледбитер
 - 1928 г., [Мать Мира как Символ и Факт](world-mother/index.md), Ч. Ледбитер
 
-Книги на похожую тематику:
+Другие книги на похожую тематику:
 
+- 4-й век н.э., _[Sravakabhumi](https://archive.org/details/Sravakabhumi), Acarya Asanga_
 - 1907 г., [Идиллия Белого Лотоса](idyll-of-white-lotus/index.md), М. Коллинз
 - 1958 г., [Роза Мира](world-rose/index.md), Д. Андреев
-- _[Sravakabhumi](https://archive.org/details/Sravakabhumi), Acarya Asanga_
 
 > 10/2023. Source: [https://github.com/theogpt/theogpt.github.io](https://github.com/theogpt/theogpt.github.io)
  
