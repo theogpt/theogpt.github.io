@@ -68,7 +68,7 @@ table th, table td {
 }
 
 img {
-  max-width: 100%;
+  max-width: 75%;
 }
 
 img[alt="footnote"] {
