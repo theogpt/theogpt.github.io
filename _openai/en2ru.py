@@ -14,9 +14,10 @@ if not openai.api_key:
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', "--input", required=True, help='The input text file with non translated text')
-parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
+parser.add_argument('-o', "--output", default='', help='The output text file with translated text')
 parser.add_argument('-c', "--context", default='gpt4_context.md', help='The context file with translation instructions')
 parser.add_argument('-n', "--numpars", type=int, default=1000, help='Max paragraphs to translate')
+parser.add_argument('-p', "--prefix", default='', help='Prefix for processed paragraphs.')
 parser.add_argument('-v', "--verbose", type=int, default=0)
 args = parser.parse_args()
 
@@ -37,6 +38,8 @@ def clean_paragraph(text):
   return text.rstrip()
 
 def is_translated(text):
+  if len(args.prefix) > 0:
+    return text.startswith(args.prefix)
   if len(text) < 5:
     return True
   if re.match(do_not_translate, text):
@@ -86,9 +89,11 @@ def prefix_paragraphs(text):
   ps = [para_prefix(i) + s for i, s in enumerate(ps)]
   return merge_paragraphs(ps)
 
-def unprefix_paragraphs(text):
+def finalize_paragraphs(text):
   ps = split_paragraphs(text)
   ps = [s.replace(para_prefix(i), '') for i, s in enumerate(ps)]
+  if len(args.prefix) > 0:
+    ps = [args.prefix + p for p in ps]
   return merge_paragraphs(ps)
 
 def verify_paragraphs(src, res):
@@ -121,17 +126,20 @@ def transform_paragraphs(text, context):
   if not verify_paragraphs(text2, resp_text):
     print('The translation appears corrupted.')
     return ''
-  return unprefix_paragraphs(resp_text)
+  return finalize_paragraphs(resp_text)
 
 def translate_text(text):
   return transform_paragraphs(text, gpt_context) or text
 
+args.output = args.output or args.input
+if args.input != args.output:
+  print("   Input file:", os.path.abspath(args.input))
+print("  Output file:", os.path.abspath(args.output))
 if os.path.isfile(args.output):
   if not input("Output file already exists. Overwrite? (y/n) ") in ["y", "Y"]:
     exit(0)
 
 print("Analyzing the text...")
-
 with open(args.input, 'r') as f:
     input_text = f.read()
     paragraphs = split_paragraphs(input_text)
@@ -162,7 +170,7 @@ while idx < len(paragraphs):
     sys.exit('Reached the paragraphs limit: ' + str(max_translations))
 
   text = merge_paragraphs(paragraphs[idx:idx+num])
-  print(str(idx) + '..' + str(idx+num-1) + '/' + str(len(paragraphs)))
+  print('Progress:', str(idx) + '..' + str(idx+num-1) + '/' + str(len(paragraphs)))
   resp = translate_text(text)
 
   for i in range(0, num):
