@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-i', "--input", required=True, help='The input text file with non translated text')
 parser.add_argument('-o', "--output", required=True, help='The output text file with translated text')
 parser.add_argument('-c', "--context", default='gpt4_context.md', help='The context file with translation instructions')
-parser.add_argument('-n', "--numpars", type=int, default=500, help='Max paragraphs to translate')
+parser.add_argument('-n', "--numpars", type=int, default=1000, help='Max paragraphs to translate')
 parser.add_argument('-v', "--verbose", type=int, default=0)
 args = parser.parse_args()
 
