@@ -1,5 +1,6 @@
 # Переводы
 
+- 1903, _The Pedigree of Man_ by Annie Besant
 - 1913 г., [Человек: Откуда, Как и Куда](man-whence-how-and-whither/index.md), Ч. Ледбитер, А. Безант
 - 1917 г., _[Starlight](https://archive.org/details/starlightsevenad00lead), by C. W. Leadbeater_
 - 1919 г., _[Occult Chemistry](https://archive.org/details/occultchemistryc00besa), by C. W. Leadbeater and A. Besant_
