@@ -15,6 +15,7 @@
 Другие книги на похожую тематику:
 
 - 4-й век н.э., _[Sravakabhumi](https://archive.org/details/Sravakabhumi), Acarya Asanga_
+- 1516 г., _Utopia, by Sir Thomas More_
 - 1907 г., [Идиллия Белого Лотоса](idyll-of-white-lotus/index.md), М. Коллинз
 - 1958 г., [Роза Мира](world-rose/index.md), Д. Андреев
 
