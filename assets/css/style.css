@@ -1,3 +1,7 @@
+html {
+  hyphens: auto;
+}
+
 body {
   background-color: #ffc;
   font-family: Inter, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
