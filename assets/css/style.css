@@ -2,7 +2,7 @@ html {
   hyphens: auto;
 }
 
-body {
+html, body {
   background-color: #ffc;
   font-family: Inter, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
@@ -94,13 +94,13 @@ h6 {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
+  html, body {
     color: #aaa;
     background-color: #111;
   }
 
   strong, h1, h2, h3, h4, h5 {
-    color: #fff;
+    color: #ccc;
   }
 
   a {
